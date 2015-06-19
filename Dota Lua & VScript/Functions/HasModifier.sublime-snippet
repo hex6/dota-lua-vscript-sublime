@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[HasModifier(${1:string pszScriptName})]]></content>
-	<tabTrigger>HasModifier</tabTrigger>
-	<scope>source.lua</scope>
-<description>Sees if this unit has a given modifier</description>
-</snippet>

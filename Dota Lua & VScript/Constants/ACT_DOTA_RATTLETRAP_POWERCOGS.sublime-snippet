@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ACT_DOTA_RATTLETRAP_POWERCOGS]]></content>
-	<tabTrigger>ACT_DOTA_RATTLETRAP_POWERCOGS</tabTrigger>
-	<scope>source.lua</scope>
-<description>1550</description>
-</snippet>

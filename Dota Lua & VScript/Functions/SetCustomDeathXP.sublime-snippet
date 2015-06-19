@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetCustomDeathXP(${1:int iValue})]]></content>
-	<tabTrigger>SetCustomDeathXP</tabTrigger>
-	<scope>source.lua</scope>
-<description>Sets a custom experience value for this hero. {{tip|GameRules boolean must be set for this to work!}}</description>
-</snippet>

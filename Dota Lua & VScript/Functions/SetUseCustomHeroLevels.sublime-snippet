@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetUseCustomHeroLevels(${1:bool bEnabled})]]></content>
-	<tabTrigger>SetUseCustomHeroLevels</tabTrigger>
-	<scope>source.lua</scope>
-<description>Turn on custom-defined XP values for hero level ups. The ''table'' should be defined before switching this on.</description>
-</snippet>

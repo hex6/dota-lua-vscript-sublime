@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IncrementDeaths(${1:int playerID}, ${2:int iKillerID})]]></content>
-	<tabTrigger>IncrementDeaths</tabTrigger>
-	<scope>source.lua</scope>
-<description>No Description Set</description>
-</snippet>

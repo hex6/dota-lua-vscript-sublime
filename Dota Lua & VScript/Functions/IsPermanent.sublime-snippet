@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IsPermanent()]]></content>
-	<tabTrigger>IsPermanent</tabTrigger>
-	<scope>source.lua</scope>
-<description>Is this a permanent item?</description>
-</snippet>

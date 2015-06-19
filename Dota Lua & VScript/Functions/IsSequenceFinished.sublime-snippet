@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IsSequenceFinished()]]></content>
-	<tabTrigger>IsSequenceFinished</tabTrigger>
-	<scope>source.lua</scope>
-<description>Ask whether the main sequence is done playing</description>
-</snippet>

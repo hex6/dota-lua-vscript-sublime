@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetHPGain(${1:int nHPGain})]]></content>
-	<tabTrigger>SetHPGain</tabTrigger>
-	<scope>source.lua</scope>
-<description>Set the hit point's gained per level on this creature.</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ResetToHeroSelection()]]></content>
-	<tabTrigger>ResetToHeroSelection</tabTrigger>
-	<scope>source.lua</scope>
-<description>Restart the game at hero selection</description>
-</snippet>

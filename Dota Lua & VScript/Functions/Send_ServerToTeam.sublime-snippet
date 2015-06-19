@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Send_ServerToTeam(${1:int int_1}, ${2:string string_2}, ${3:handle handle_3})]]></content>
-	<tabTrigger>Send_ServerToTeam</tabTrigger>
-	<scope>source.lua</scope>
-<description>( int TeamNumber, string EventName, table EventData )</description>
-</snippet>

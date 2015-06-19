@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ACT_DOTA_VICTORY]]></content>
-	<tabTrigger>ACT_DOTA_VICTORY</tabTrigger>
-	<scope>source.lua</scope>
-<description>1591</description>
-</snippet>

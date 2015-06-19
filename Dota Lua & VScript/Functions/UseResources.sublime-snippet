@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UseResources(${1:bool bMana}, ${2:bool bGold}, ${3:bool bCooldown})]]></content>
-	<tabTrigger>UseResources</tabTrigger>
-	<scope>source.lua</scope>
-<description>No Description Set</description>
-</snippet>

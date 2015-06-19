@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EyeAngles()]]></content>
-	<tabTrigger>EyeAngles</tabTrigger>
-	<scope>source.lua</scope>
-<description>Get the qangles that this entity is looking at.</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IsBarracks()]]></content>
-	<tabTrigger>IsBarracks</tabTrigger>
-	<scope>source.lua</scope>
-<description>Is this unit a Barracks?</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AddMinimapDebugPoint(${1:int int_1}, ${2:Vector Vector_2}, ${3:int int_3}, ${4:int int_4}, ${5:int int_5}, ${6:int int_6}, ${7:float float_7})]]></content>
-	<tabTrigger>AddMinimapDebugPoint</tabTrigger>
-	<scope>source.lua</scope>
-<description>Add a point on the minimap.</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetRefCountsModifiers(${1:bool bRefCounts})]]></content>
-	<tabTrigger>SetRefCountsModifiers</tabTrigger>
-	<scope>source.lua</scope>
-<description>No Description Set</description>
-</snippet>

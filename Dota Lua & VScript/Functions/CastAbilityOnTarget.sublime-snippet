@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CastAbilityOnTarget(${1:handle target}, ${2:handle ability}, ${3:int playerIndex})]]></content>
-	<tabTrigger>CastAbilityOnTarget</tabTrigger>
-	<scope>source.lua</scope>
-<description>Cast an ability on a target entity.</description>
-</snippet>

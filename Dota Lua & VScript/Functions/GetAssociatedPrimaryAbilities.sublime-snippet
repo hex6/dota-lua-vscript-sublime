@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetAssociatedPrimaryAbilities()]]></content>
-	<tabTrigger>GetAssociatedPrimaryAbilities</tabTrigger>
-	<scope>source.lua</scope>
-<description>Returns abilities that are stolen simultaneously, or otherwise related in functionality.</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetUnitName(${1:string pName})]]></content>
-	<tabTrigger>SetUnitName</tabTrigger>
-	<scope>source.lua</scope>
-<description>No Description Set</description>
-</snippet>

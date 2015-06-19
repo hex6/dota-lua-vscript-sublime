@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[RespawnUnit()]]></content>
-	<tabTrigger>RespawnUnit</tabTrigger>
-	<scope>source.lua</scope>
-<description>Respawns the target unit if it can be respawned.</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DOTA_LOADOUT_TYPE_ABILITY_ULTIMATE]]></content>
-	<tabTrigger>DOTA_LOADOUT_TYPE_ABILITY_ULTIMATE</tabTrigger>
-	<scope>source.lua</scope>
-<description>26</description>
-</snippet>

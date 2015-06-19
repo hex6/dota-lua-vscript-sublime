@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IsStanding()]]></content>
-	<tabTrigger>IsStanding</tabTrigger>
-	<scope>source.lua</scope>
-<description>Returns true if the tree is standing, false if it has been cut down</description>
-</snippet>

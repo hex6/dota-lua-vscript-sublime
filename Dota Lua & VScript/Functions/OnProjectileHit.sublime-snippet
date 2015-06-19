@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[OnProjectileHit(${1:handle hTarget}, ${2:Vector vLocation})]]></content>
-	<tabTrigger>OnProjectileHit</tabTrigger>
-	<scope>source.lua</scope>
-<description>(HSCRIPT hTarget, Vector vLocation) Projectile has collided with a given target or reached its destination (target is invalid).</description>
-</snippet>

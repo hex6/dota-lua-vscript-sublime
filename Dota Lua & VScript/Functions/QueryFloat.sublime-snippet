@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[QueryFloat(${1:utlstringtoken tok}, ${2:float flDefault})]]></content>
-	<tabTrigger>QueryFloat</tabTrigger>
-	<scope>source.lua</scope>
-<description>Query ''float'' data for this key</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[StopEffect(${1:handle handle_1}, ${2:string string_2})]]></content>
-	<tabTrigger>StopEffect</tabTrigger>
-	<scope>source.lua</scope>
-<description>(hEntity, szEffectName)</description>
-</snippet>

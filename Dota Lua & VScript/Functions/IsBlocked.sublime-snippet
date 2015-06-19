@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IsBlocked(${1:Vector Vector_1})]]></content>
-	<tabTrigger>IsBlocked</tabTrigger>
-	<scope>source.lua</scope>
-<description>Checks whether the given position is blocked</description>
-</snippet>

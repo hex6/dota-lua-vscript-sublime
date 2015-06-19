@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[FindAllByModel(${1:string modelName})]]></content>
-	<tabTrigger>FindAllByModel</tabTrigger>
-	<scope>source.lua</scope>
-<description>Find entities by model name.</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetBaseStrength()]]></content>
-	<tabTrigger>GetBaseStrength</tabTrigger>
-	<scope>source.lua</scope>
-<description>No Description Set</description>
-</snippet>

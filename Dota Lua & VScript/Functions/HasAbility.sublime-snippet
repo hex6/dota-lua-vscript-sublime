@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[HasAbility(${1:string pszAbilityName})]]></content>
-	<tabTrigger>HasAbility</tabTrigger>
-	<scope>source.lua</scope>
-<description>See whether this unit has an ability by name.</description>
-</snippet>

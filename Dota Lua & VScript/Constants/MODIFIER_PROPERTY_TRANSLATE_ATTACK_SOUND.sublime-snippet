@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MODIFIER_PROPERTY_TRANSLATE_ATTACK_SOUND]]></content>
-	<tabTrigger>MODIFIER_PROPERTY_TRANSLATE_ATTACK_SOUND</tabTrigger>
-	<scope>source.lua</scope>
-<description>137</description>
-</snippet>

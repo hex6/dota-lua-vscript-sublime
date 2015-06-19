@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetLevel(${1:int iLevel})]]></content>
-	<tabTrigger>SetLevel</tabTrigger>
-	<scope>source.lua</scope>
-<description>Sets the level of this ability.</description>
-</snippet>

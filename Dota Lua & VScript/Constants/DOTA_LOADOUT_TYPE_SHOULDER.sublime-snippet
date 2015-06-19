@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DOTA_LOADOUT_TYPE_SHOULDER]]></content>
-	<tabTrigger>DOTA_LOADOUT_TYPE_SHOULDER</tabTrigger>
-	<scope>source.lua</scope>
-<description>5</description>
-</snippet>

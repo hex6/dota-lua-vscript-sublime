@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MODIFIER_EVENT_ON_SET_LOCATION]]></content>
-	<tabTrigger>MODIFIER_EVENT_ON_SET_LOCATION</tabTrigger>
-	<scope>source.lua</scope>
-<description>124</description>
-</snippet>

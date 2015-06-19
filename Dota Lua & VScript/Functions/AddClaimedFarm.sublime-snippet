@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AddClaimedFarm(${1:int iPlayerID}, ${2:float flFarmValue}, ${3:bool bEarnedValue})]]></content>
-	<tabTrigger>AddClaimedFarm</tabTrigger>
-	<scope>source.lua</scope>
-<description>No Description Set</description>
-</snippet>

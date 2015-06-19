@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AddNewModifier(${1:handle caster}, ${2:handle optionalSourceAbility}, ${3:string modifierName}, ${4:handle modifierData})]]></content>
-	<tabTrigger>AddNewModifier</tabTrigger>
-	<scope>source.lua</scope>
-<description>Add a modifier to this unit.</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MODIFIER_STATE_STUNNED]]></content>
-	<tabTrigger>MODIFIER_STATE_STUNNED</tabTrigger>
-	<scope>source.lua</scope>
-<description>5</description>
-</snippet>

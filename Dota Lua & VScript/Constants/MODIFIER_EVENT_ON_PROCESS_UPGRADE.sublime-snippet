@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MODIFIER_EVENT_ON_PROCESS_UPGRADE]]></content>
-	<tabTrigger>MODIFIER_EVENT_ON_PROCESS_UPGRADE</tabTrigger>
-	<scope>source.lua</scope>
-<description>113</description>
-</snippet>

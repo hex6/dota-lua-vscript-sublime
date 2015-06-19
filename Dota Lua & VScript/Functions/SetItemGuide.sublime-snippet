@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetItemGuide(${1:string string_1})]]></content>
-	<tabTrigger>SetItemGuide</tabTrigger>
-	<scope>source.lua</scope>
-<description>Set the current item guide.</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IncrementLastHits(${1:int iPlayerID})]]></content>
-	<tabTrigger>IncrementLastHits</tabTrigger>
-	<scope>source.lua</scope>
-<description>No Description Set</description>
-</snippet>

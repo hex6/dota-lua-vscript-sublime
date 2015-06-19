@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IsOwnersGoldEnough(${1:int nIssuerPlayerID})]]></content>
-	<tabTrigger>IsOwnersGoldEnough</tabTrigger>
-	<scope>source.lua</scope>
-<description>No Description Set</description>
-</snippet>

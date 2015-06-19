@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[OnOwnerSpawned()]]></content>
-	<tabTrigger>OnOwnerSpawned</tabTrigger>
-	<scope>source.lua</scope>
-<description>Caster respawned or spawned for the first time.</description>
-</snippet>

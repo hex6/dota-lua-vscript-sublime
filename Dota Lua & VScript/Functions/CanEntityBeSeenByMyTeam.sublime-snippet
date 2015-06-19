@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CanEntityBeSeenByMyTeam(${1:handle hEntity})]]></content>
-	<tabTrigger>CanEntityBeSeenByMyTeam</tabTrigger>
-	<scope>source.lua</scope>
-<description>Check FoW to see if an entity is visible.</description>
-</snippet>

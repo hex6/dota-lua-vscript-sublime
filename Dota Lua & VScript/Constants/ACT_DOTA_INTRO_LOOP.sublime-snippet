@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ACT_DOTA_INTRO_LOOP]]></content>
-	<tabTrigger>ACT_DOTA_INTRO_LOOP</tabTrigger>
-	<scope>source.lua</scope>
-<description>1649</description>
-</snippet>

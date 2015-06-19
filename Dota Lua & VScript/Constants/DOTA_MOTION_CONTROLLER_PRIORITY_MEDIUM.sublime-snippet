@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DOTA_MOTION_CONTROLLER_PRIORITY_MEDIUM]]></content>
-	<tabTrigger>DOTA_MOTION_CONTROLLER_PRIORITY_MEDIUM</tabTrigger>
-	<scope>source.lua</scope>
-<description>2</description>
-</snippet>

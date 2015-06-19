@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetIntAttr(${1:string string_1})]]></content>
-	<tabTrigger>GetIntAttr</tabTrigger>
-	<scope>source.lua</scope>
-<description>Get Integer Attribute</description>
-</snippet>

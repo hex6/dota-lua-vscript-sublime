@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MODIFIER_PROPERTY_PROCATTACK_FEEDBACK]]></content>
-	<tabTrigger>MODIFIER_PROPERTY_PROCATTACK_FEEDBACK</tabTrigger>
-	<scope>source.lua</scope>
-<description>6</description>
-</snippet>

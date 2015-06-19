@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetKills()]]></content>
-	<tabTrigger>GetKills</tabTrigger>
-	<scope>source.lua</scope>
-<description>Value is stored in PlayerResource.</description>
-</snippet>

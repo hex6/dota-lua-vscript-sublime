@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MODIFIER_EVENT_ON_ATTACK_RECORD]]></content>
-	<tabTrigger>MODIFIER_EVENT_ON_ATTACK_RECORD</tabTrigger>
-	<scope>source.lua</scope>
-<description>99</description>
-</snippet>

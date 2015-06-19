@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DeleteAttribute(${1:string pName})]]></content>
-	<tabTrigger>DeleteAttribute</tabTrigger>
-	<scope>source.lua</scope>
-<description>Delete an entity attribute.</description>
-</snippet>

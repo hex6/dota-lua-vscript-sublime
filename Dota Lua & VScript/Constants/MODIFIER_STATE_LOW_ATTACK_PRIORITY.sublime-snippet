@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MODIFIER_STATE_LOW_ATTACK_PRIORITY]]></content>
-	<tabTrigger>MODIFIER_STATE_LOW_ATTACK_PRIORITY</tabTrigger>
-	<scope>source.lua</scope>
-<description>21</description>
-</snippet>

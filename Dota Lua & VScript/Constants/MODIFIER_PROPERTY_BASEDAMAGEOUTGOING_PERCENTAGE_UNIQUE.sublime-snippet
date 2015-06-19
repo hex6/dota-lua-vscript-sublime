@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MODIFIER_PROPERTY_BASEDAMAGEOUTGOING_PERCENTAGE_UNIQUE]]></content>
-	<tabTrigger>MODIFIER_PROPERTY_BASEDAMAGEOUTGOING_PERCENTAGE_UNIQUE</tabTrigger>
-	<scope>source.lua</scope>
-<description>29</description>
-</snippet>

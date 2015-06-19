@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DoEntFireByInstanceHandle(${1:handle handle_1}, ${2:string string_2}, ${3:string string_3}, ${4:float float_4}, ${5:handle handle_5}, ${6:handle handle_6})]]></content>
-	<tabTrigger>DoEntFireByInstanceHandle</tabTrigger>
-	<scope>source.lua</scope>
-<description>EntFireByHandle:Generate and entity i/o event</description>
-</snippet>

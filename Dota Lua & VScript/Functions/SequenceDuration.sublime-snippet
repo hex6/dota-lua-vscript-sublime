@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SequenceDuration(${1:string string_1})]]></content>
-	<tabTrigger>SequenceDuration</tabTrigger>
-	<scope>source.lua</scope>
-<description>Returns the duration in seconds of the specified sequence</description>
-</snippet>

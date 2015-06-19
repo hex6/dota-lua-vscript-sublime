@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IncrementStreak(${1:int iPlayerID})]]></content>
-	<tabTrigger>IncrementStreak</tabTrigger>
-	<scope>source.lua</scope>
-<description>No Description Set</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetGameSessionConfigValue(${1:string string_1}, ${2:string string_2})]]></content>
-	<tabTrigger>GetGameSessionConfigValue</tabTrigger>
-	<scope>source.lua</scope>
-<description>Get a string value from the game session config (map options)</description>
-</snippet>

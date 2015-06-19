@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CreateModifierThinker(${1:handle handle_1}, ${2:handle handle_2}, ${3:string string_3}, ${4:handle handle_4}, ${5:Vector Vector_5}, ${6:int int_6}, ${7:bool bool_7})]]></content>
-	<tabTrigger>CreateModifierThinker</tabTrigger>
-	<scope>source.lua</scope>
-<description>Create a modifier not associated with an NPC. ( hCaster, hAbility, modifierName, paramTable, vOrigin, nTeamNumber, bPhantomBlocker )</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetDeathXP()]]></content>
-	<tabTrigger>GetDeathXP</tabTrigger>
-	<scope>source.lua</scope>
-<description>Get the XP bounty on this unit</description>
-</snippet>

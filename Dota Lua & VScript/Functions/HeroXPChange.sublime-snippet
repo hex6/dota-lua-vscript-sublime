@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[HeroXPChange(${1:float flXP})]]></content>
-	<tabTrigger>HeroXPChange</tabTrigger>
-	<scope>source.lua</scope>
-<description>No Description Set</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MODIFIER_STATE_UNSELECTABLE]]></content>
-	<tabTrigger>MODIFIER_STATE_UNSELECTABLE</tabTrigger>
-	<scope>source.lua</scope>
-<description>14</description>
-</snippet>

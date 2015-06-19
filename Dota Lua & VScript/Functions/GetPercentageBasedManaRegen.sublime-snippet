@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetPercentageBasedManaRegen()]]></content>
-	<tabTrigger>GetPercentageBasedManaRegen</tabTrigger>
-	<scope>source.lua</scope>
-<description>This Mana regen is derived from % bonuses (from items like Void Stone).</description>
-</snippet>

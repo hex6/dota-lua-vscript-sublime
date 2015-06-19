@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ITEM_PARTIALLY_SHAREABLE]]></content>
-	<tabTrigger>ITEM_PARTIALLY_SHAREABLE</tabTrigger>
-	<scope>source.lua</scope>
-<description>1</description>
-</snippet>

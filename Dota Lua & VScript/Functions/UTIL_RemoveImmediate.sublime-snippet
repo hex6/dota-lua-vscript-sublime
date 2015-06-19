@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UTIL_RemoveImmediate(${1:handle handle_1})]]></content>
-	<tabTrigger>UTIL_RemoveImmediate</tabTrigger>
-	<scope>source.lua</scope>
-<description>Do Not use this function.  Use UTIL_Remove() instead.  This will crash your game.</description>
-</snippet>

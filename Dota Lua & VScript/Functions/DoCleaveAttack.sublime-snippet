@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DoCleaveAttack(${1:handle handle_1}, ${2:handle handle_2}, ${3:handle handle_3}, ${4:float float_4}, ${5:float float_5}, ${6:string string_6})]]></content>
-	<tabTrigger>DoCleaveAttack</tabTrigger>
-	<scope>source.lua</scope>
-<description>(hAttacker, hTarget, hAbility, fDamage, fRadius, effectName)</description>
-</snippet>

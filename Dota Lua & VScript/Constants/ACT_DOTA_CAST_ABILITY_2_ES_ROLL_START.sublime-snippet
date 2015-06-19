@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ACT_DOTA_CAST_ABILITY_2_ES_ROLL_START]]></content>
-	<tabTrigger>ACT_DOTA_CAST_ABILITY_2_ES_ROLL_START</tabTrigger>
-	<scope>source.lua</scope>
-<description>1652</description>
-</snippet>

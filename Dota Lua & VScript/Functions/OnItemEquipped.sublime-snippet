@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[OnItemEquipped(${1:handle hItem})]]></content>
-	<tabTrigger>OnItemEquipped</tabTrigger>
-	<scope>source.lua</scope>
-<description>( HSCRIPT hItem ) Caster equipped item.</description>
-</snippet>

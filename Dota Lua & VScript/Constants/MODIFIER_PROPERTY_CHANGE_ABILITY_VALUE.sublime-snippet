@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MODIFIER_PROPERTY_CHANGE_ABILITY_VALUE]]></content>
-	<tabTrigger>MODIFIER_PROPERTY_CHANGE_ABILITY_VALUE</tabTrigger>
-	<scope>source.lua</scope>
-<description>144</description>
-</snippet>

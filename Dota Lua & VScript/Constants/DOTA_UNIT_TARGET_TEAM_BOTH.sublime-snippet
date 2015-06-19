@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DOTA_UNIT_TARGET_TEAM_BOTH]]></content>
-	<tabTrigger>DOTA_UNIT_TARGET_TEAM_BOTH</tabTrigger>
-	<scope>source.lua</scope>
-<description>3</description>
-</snippet>

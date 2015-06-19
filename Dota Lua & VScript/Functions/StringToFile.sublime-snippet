@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[StringToFile(${1:string }, ${2:string })]]></content>
-	<tabTrigger>StringToFile</tabTrigger>
-	<scope>source.lua</scope>
-<description>* Directory traversal doesn't seem to work. The characters '.', '/' and '\\' are ignored.</description>
-</snippet>

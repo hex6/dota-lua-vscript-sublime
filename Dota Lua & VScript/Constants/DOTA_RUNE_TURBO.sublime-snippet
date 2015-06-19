@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DOTA_RUNE_TURBO]]></content>
-	<tabTrigger>DOTA_RUNE_TURBO</tabTrigger>
-	<scope>source.lua</scope>
-<description>10</description>
-</snippet>

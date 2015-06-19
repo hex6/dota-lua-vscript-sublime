@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ForceKill(${1:bool bReincarnate})]]></content>
-	<tabTrigger>ForceKill</tabTrigger>
-	<scope>source.lua</scope>
-<description>Kill this unit immediately.</description>
-</snippet>

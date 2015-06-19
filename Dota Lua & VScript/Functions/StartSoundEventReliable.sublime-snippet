@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[StartSoundEventReliable(${1:string string_1}, ${2:handle handle_2})]]></content>
-	<tabTrigger>StartSoundEventReliable</tabTrigger>
-	<scope>source.lua</scope>
-<description>Start a sound event with reliable delivery</description>
-</snippet>

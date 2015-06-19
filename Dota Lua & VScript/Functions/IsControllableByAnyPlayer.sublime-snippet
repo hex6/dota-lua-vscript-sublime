@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IsControllableByAnyPlayer()]]></content>
-	<tabTrigger>IsControllableByAnyPlayer</tabTrigger>
-	<scope>source.lua</scope>
-<description>Is this unit controlled by any non-bot player?</description>
-</snippet>

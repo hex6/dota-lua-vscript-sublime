@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ExponentialDecay(${1:float float_1}, ${2:float float_2}, ${3:float float_3})]]></content>
-	<tabTrigger>ExponentialDecay</tabTrigger>
-	<scope>source.lua</scope>
-<description>Smooth curve decreasing slower as it approaches zero</description>
-</snippet>

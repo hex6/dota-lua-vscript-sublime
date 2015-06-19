@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ResetDefeated()]]></content>
-	<tabTrigger>ResetDefeated</tabTrigger>
-	<scope>source.lua</scope>
-<description>Restart after killing the ancient, etc.</description>
-</snippet>

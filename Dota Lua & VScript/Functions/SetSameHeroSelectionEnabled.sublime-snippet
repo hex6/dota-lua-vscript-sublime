@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetSameHeroSelectionEnabled(${1:bool enabled})]]></content>
-	<tabTrigger>SetSameHeroSelectionEnabled</tabTrigger>
-	<scope>source.lua</scope>
-<description>When true, players can repeatedly pick the same hero.</description>
-</snippet>

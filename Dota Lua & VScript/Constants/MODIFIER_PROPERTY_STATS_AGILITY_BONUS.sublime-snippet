@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MODIFIER_PROPERTY_STATS_AGILITY_BONUS]]></content>
-	<tabTrigger>MODIFIER_PROPERTY_STATS_AGILITY_BONUS</tabTrigger>
-	<scope>source.lua</scope>
-<description>58</description>
-</snippet>

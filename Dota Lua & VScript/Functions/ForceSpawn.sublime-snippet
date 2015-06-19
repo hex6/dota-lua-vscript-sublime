@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ForceSpawn()]]></content>
-	<tabTrigger>ForceSpawn</tabTrigger>
-	<scope>source.lua</scope>
-<description>ForceSpawn() : Spawns all of the entities the point_template is pointing at.</description>
-</snippet>

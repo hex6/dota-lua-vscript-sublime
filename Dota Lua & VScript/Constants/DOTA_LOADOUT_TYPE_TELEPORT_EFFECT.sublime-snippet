@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DOTA_LOADOUT_TYPE_TELEPORT_EFFECT]]></content>
-	<tabTrigger>DOTA_LOADOUT_TYPE_TELEPORT_EFFECT</tabTrigger>
-	<scope>source.lua</scope>
-<description>40</description>
-</snippet>

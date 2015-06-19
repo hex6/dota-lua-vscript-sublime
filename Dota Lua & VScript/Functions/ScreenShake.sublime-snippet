@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ScreenShake(${1:Vector Vector_1}, ${2:float float_2}, ${3:float float_3}, ${4:float float_4}, ${5:float float_5}, ${6:int int_6}, ${7:bool bool_7})]]></content>
-	<tabTrigger>ScreenShake</tabTrigger>
-	<scope>source.lua</scope>
-<description>Start a screenshake with the following parameters. vecCenter, flAmplitude, flFrequency, flDuration, flRadius, eCommand( SHAKE_START = 0, SHAKE_STOP = 1 ), bAirShake</description>
-</snippet>

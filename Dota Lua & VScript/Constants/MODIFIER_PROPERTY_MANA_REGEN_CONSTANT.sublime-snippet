@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MODIFIER_PROPERTY_MANA_REGEN_CONSTANT]]></content>
-	<tabTrigger>MODIFIER_PROPERTY_MANA_REGEN_CONSTANT</tabTrigger>
-	<scope>source.lua</scope>
-<description>45</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[RotatePosition(${1:Vector Vector_1}, ${2:QAngle QAngle_2}, ${3:Vector Vector_3})]]></content>
-	<tabTrigger>RotatePosition</tabTrigger>
-	<scope>source.lua</scope>
-<description>Rotate a ''Vector'' around a point.</description>
-</snippet>

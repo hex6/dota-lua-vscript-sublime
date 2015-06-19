@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DOTA_TEAM_NOTEAM]]></content>
-	<tabTrigger>DOTA_TEAM_NOTEAM</tabTrigger>
-	<scope>source.lua</scope>
-<description>5</description>
-</snippet>

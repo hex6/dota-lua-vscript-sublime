@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DOTA_LOADOUT_TYPE_ANNOUNCER]]></content>
-	<tabTrigger>DOTA_LOADOUT_TYPE_ANNOUNCER</tabTrigger>
-	<scope>source.lua</scope>
-<description>30</description>
-</snippet>

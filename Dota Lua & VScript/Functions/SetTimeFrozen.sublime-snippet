@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetTimeFrozen(${1:bool bool_1})]]></content>
-	<tabTrigger>SetTimeFrozen</tabTrigger>
-	<scope>source.lua</scope>
-<description>Set if we should freeze time or not.</description>
-</snippet>

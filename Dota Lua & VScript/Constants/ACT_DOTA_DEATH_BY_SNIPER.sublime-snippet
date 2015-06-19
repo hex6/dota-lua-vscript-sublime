@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ACT_DOTA_DEATH_BY_SNIPER]]></content>
-	<tabTrigger>ACT_DOTA_DEATH_BY_SNIPER</tabTrigger>
-	<scope>source.lua</scope>
-<description>1642</description>
-</snippet>

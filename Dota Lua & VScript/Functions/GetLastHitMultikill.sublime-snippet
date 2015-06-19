@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetLastHitMultikill(${1:int iPlayerID})]]></content>
-	<tabTrigger>GetLastHitMultikill</tabTrigger>
-	<scope>source.lua</scope>
-<description>No Description Set</description>
-</snippet>

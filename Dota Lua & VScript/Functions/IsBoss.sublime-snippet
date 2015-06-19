@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IsBoss()]]></content>
-	<tabTrigger>IsBoss</tabTrigger>
-	<scope>source.lua</scope>
-<description>Is this a real hero?</description>
-</snippet>

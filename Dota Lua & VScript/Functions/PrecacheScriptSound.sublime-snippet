@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PrecacheScriptSound(${1:string soundname})]]></content>
-	<tabTrigger>PrecacheScriptSound</tabTrigger>
-	<scope>source.lua</scope>
-<description>Precache a sound for later playing.</description>
-</snippet>

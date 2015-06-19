@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ClearDamageFilter()]]></content>
-	<tabTrigger>ClearDamageFilter</tabTrigger>
-	<scope>source.lua</scope>
-<description>Clear the script filter that controls how a unit takes damage.</description>
-</snippet>

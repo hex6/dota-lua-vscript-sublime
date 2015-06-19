@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DOTA_HUD_VISIBILITY_INVENTORY_GOLD]]></content>
-	<tabTrigger>DOTA_HUD_VISIBILITY_INVENTORY_GOLD</tabTrigger>
-	<scope>source.lua</scope>
-<description>11</description>
-</snippet>

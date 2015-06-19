@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ACT_DOTA_TELEPORT_END]]></content>
-	<tabTrigger>ACT_DOTA_TELEPORT_END</tabTrigger>
-	<scope>source.lua</scope>
-<description>1596</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetBoundingMins()]]></content>
-	<tabTrigger>GetBoundingMins</tabTrigger>
-	<scope>source.lua</scope>
-<description>Get a ''vector'' containing min bounds, centered on object</description>
-</snippet>

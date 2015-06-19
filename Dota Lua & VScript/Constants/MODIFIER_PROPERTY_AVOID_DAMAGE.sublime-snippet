@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MODIFIER_PROPERTY_AVOID_DAMAGE]]></content>
-	<tabTrigger>MODIFIER_PROPERTY_AVOID_DAMAGE</tabTrigger>
-	<scope>source.lua</scope>
-<description>34</description>
-</snippet>

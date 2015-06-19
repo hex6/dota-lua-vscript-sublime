@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetBuybackGoldLimitTime(${1:int nPlayerID}, ${2:float flBuybackCooldown})]]></content>
-	<tabTrigger>SetBuybackGoldLimitTime</tabTrigger>
-	<scope>source.lua</scope>
-<description>No Description Set</description>
-</snippet>

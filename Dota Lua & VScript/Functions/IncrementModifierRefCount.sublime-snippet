@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IncrementModifierRefCount()]]></content>
-	<tabTrigger>IncrementModifierRefCount</tabTrigger>
-	<scope>source.lua</scope>
-<description>No Description Set</description>
-</snippet>

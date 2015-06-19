@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Text(${1:Vector Vector_1}, ${2:int int_2}, ${3:string string_3}, ${4:float float_4}, ${5:int int_5}, ${6:int int_6}, ${7:int int_7}, ${8:int int_8}, ${9:float float_9})]]></content>
-	<tabTrigger>Text</tabTrigger>
-	<scope>source.lua</scope>
-<description>Draws 2D text. Specify origin in world space.</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetEnabled(${1:bool enabled}, ${2:bool bForce})]]></content>
-	<tabTrigger>SetEnabled</tabTrigger>
-	<scope>source.lua</scope>
-<description>Enable or disable the obstruction</description>
-</snippet>

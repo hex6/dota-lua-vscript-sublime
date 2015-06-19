@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[HasTag(${1:string pszTagName})]]></content>
-	<tabTrigger>HasTag</tabTrigger>
-	<scope>source.lua</scope>
-<description>Does this volume have the given tag.</description>
-</snippet>

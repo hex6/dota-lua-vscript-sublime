@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ACT_DOTA_AREA_DENY]]></content>
-	<tabTrigger>ACT_DOTA_AREA_DENY</tabTrigger>
-	<scope>source.lua</scope>
-<description>1661</description>
-</snippet>

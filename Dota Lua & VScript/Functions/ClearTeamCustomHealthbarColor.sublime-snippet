@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ClearTeamCustomHealthbarColor(${1:int int_1})]]></content>
-	<tabTrigger>ClearTeamCustomHealthbarColor</tabTrigger>
-	<scope>source.lua</scope>
-<description>( teamNumber )</description>
-</snippet>

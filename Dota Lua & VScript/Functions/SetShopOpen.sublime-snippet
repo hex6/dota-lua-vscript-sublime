@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetShopOpen(${1:bool bool_1})]]></content>
-	<tabTrigger>SetShopOpen</tabTrigger>
-	<scope>source.lua</scope>
-<description>Set the shop open or closed.</description>
-</snippet>

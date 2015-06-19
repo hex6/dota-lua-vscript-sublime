@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ACT_DOTA_CAST_GHOST_WALK]]></content>
-	<tabTrigger>ACT_DOTA_CAST_GHOST_WALK</tabTrigger>
-	<scope>source.lua</scope>
-<description>1582</description>
-</snippet>

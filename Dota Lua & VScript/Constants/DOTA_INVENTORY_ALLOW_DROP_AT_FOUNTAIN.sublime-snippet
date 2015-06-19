@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DOTA_INVENTORY_ALLOW_DROP_AT_FOUNTAIN]]></content>
-	<tabTrigger>DOTA_INVENTORY_ALLOW_DROP_AT_FOUNTAIN</tabTrigger>
-	<scope>source.lua</scope>
-<description>8</description>
-</snippet>

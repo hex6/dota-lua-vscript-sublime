@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetCustomGameDifficulty()]]></content>
-	<tabTrigger>GetCustomGameDifficulty</tabTrigger>
-	<scope>source.lua</scope>
-<description>Returns the difficulty level of the custom game mode</description>
-</snippet>

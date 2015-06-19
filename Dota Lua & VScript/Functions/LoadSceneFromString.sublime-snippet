@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LoadSceneFromString(${1:string string_1}, ${2:string string_2})]]></content>
-	<tabTrigger>LoadSceneFromString</tabTrigger>
-	<scope>source.lua</scope>
-<description>given a dummy scene name and a vcd ''string'', load the scene</description>
-</snippet>

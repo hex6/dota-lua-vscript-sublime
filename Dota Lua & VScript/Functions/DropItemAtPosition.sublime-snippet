@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DropItemAtPosition(${1:Vector vDest}, ${2:handle hItem})]]></content>
-	<tabTrigger>DropItemAtPosition</tabTrigger>
-	<scope>source.lua</scope>
-<description>Drop an item at a given point.</description>
-</snippet>

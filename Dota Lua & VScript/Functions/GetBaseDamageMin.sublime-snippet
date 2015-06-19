@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetBaseDamageMin()]]></content>
-	<tabTrigger>GetBaseDamageMin</tabTrigger>
-	<scope>source.lua</scope>
-<description>Hero damage is also affected by attributes.</description>
-</snippet>

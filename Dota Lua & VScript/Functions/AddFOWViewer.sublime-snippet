@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AddFOWViewer(${1:int int_1}, ${2:Vector Vector_2}, ${3:float float_3}, ${4:float float_4}, ${5:bool bool_5})]]></content>
-	<tabTrigger>AddFOWViewer</tabTrigger>
-	<scope>source.lua</scope>
-<description>Add temporary vision for a given team ( nTeamID, vLocation, flRadius, flDuration, bObstructedVision)</description>
-</snippet>

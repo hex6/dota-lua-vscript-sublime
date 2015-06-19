@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[QUEST_TEXT_REPLACE_VALUE_TARGET_VALUE]]></content>
-	<tabTrigger>QUEST_TEXT_REPLACE_VALUE_TARGET_VALUE</tabTrigger>
-	<scope>source.lua</scope>
-<description>1</description>
-</snippet>

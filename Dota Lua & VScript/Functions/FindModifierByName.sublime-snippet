@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[FindModifierByName(${1:string pszScriptName})]]></content>
-	<tabTrigger>FindModifierByName</tabTrigger>
-	<scope>source.lua</scope>
-<description>Return a handle to the modifier of the given name if found, else nil (string Name )</description>
-</snippet>

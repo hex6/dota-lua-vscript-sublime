@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[HasAttribute(${1:string pName})]]></content>
-	<tabTrigger>HasAttribute</tabTrigger>
-	<scope>source.lua</scope>
-<description>See if an entity has a particular attribute.</description>
-</snippet>

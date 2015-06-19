@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Hold()]]></content>
-	<tabTrigger>Hold</tabTrigger>
-	<scope>source.lua</scope>
-<description>Hold position.</description>
-</snippet>

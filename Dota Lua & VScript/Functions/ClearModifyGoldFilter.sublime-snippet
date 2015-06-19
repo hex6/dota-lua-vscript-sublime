@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ClearModifyGoldFilter()]]></content>
-	<tabTrigger>ClearModifyGoldFilter</tabTrigger>
-	<scope>source.lua</scope>
-<description>Clear the script filter that controls how hero gold is modified.</description>
-</snippet>

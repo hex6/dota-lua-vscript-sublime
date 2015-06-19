@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetCustomHealthLabel(${1:string pLabel}, ${2:int r}, ${3:int g}, ${4:int b})]]></content>
-	<tabTrigger>SetCustomHealthLabel</tabTrigger>
-	<scope>source.lua</scope>
-<description></description>
-</snippet>

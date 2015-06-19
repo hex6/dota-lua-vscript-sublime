@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetBaseVelocity()]]></content>
-	<tabTrigger>GetBaseVelocity</tabTrigger>
-	<scope>source.lua</scope>
-<description>Get Base velocity</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MODIFIER_ATTRIBUTE_PERMANENT]]></content>
-	<tabTrigger>MODIFIER_ATTRIBUTE_PERMANENT</tabTrigger>
-	<scope>source.lua</scope>
-<description>1</description>
-</snippet>

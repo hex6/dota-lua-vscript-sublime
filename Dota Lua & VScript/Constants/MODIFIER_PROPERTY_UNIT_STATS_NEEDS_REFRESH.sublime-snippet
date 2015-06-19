@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MODIFIER_PROPERTY_UNIT_STATS_NEEDS_REFRESH]]></content>
-	<tabTrigger>MODIFIER_PROPERTY_UNIT_STATS_NEEDS_REFRESH</tabTrigger>
-	<scope>source.lua</scope>
-<description>96</description>
-</snippet>

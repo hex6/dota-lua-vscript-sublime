@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetHeroRespawnEnabled(${1:bool canRespawn})]]></content>
-	<tabTrigger>SetHeroRespawnEnabled</tabTrigger>
-	<scope>source.lua</scope>
-<description>Control if the normal DOTA hero respawn rules apply.</description>
-</snippet>

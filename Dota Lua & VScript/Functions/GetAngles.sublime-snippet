@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetAngles()]]></content>
-	<tabTrigger>GetAngles</tabTrigger>
-	<scope>source.lua</scope>
-<description>No Description Set</description>
-</snippet>

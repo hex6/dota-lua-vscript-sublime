@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DOTA_RUNE_DOUBLEDAMAGE]]></content>
-	<tabTrigger>DOTA_RUNE_DOUBLEDAMAGE</tabTrigger>
-	<scope>source.lua</scope>
-<description>0</description>
-</snippet>

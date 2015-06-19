@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DOTA_SPEECH_USER_SINGLE]]></content>
-	<tabTrigger>DOTA_SPEECH_USER_SINGLE</tabTrigger>
-	<scope>source.lua</scope>
-<description>1</description>
-</snippet>

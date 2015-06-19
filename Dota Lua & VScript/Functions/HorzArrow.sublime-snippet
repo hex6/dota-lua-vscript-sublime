@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[HorzArrow(${1:Vector Vector_1}, ${2:Vector Vector_2}, ${3:float float_3}, ${4:int int_4}, ${5:int int_5}, ${6:int int_6}, ${7:int int_7}, ${8:bool bool_8}, ${9:float float_9})]]></content>
-	<tabTrigger>HorzArrow</tabTrigger>
-	<scope>source.lua</scope>
-<description>Draws a horizontal arrow. Specify endpoint's in world space.</description>
-</snippet>

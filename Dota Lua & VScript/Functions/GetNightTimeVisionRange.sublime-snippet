@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetNightTimeVisionRange()]]></content>
-	<tabTrigger>GetNightTimeVisionRange</tabTrigger>
-	<scope>source.lua</scope>
-<description>Returns the vision range after modifiers.</description>
-</snippet>

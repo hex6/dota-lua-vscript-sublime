@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Attribute_GetIntValue(${1:string pName}, ${2:int nDefault})]]></content>
-	<tabTrigger>Attribute_GetIntValue</tabTrigger>
-	<scope>source.lua</scope>
-<description>Get int value for an entity attribute.</description>
-</snippet>

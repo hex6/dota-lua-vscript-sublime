@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Length()]]></content>
-	<tabTrigger>Length</tabTrigger>
-	<scope>source.lua</scope>
-<description>Length of the Vector</description>
-</snippet>

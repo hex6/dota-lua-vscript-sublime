@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[HasInventory()]]></content>
-	<tabTrigger>HasInventory</tabTrigger>
-	<scope>source.lua</scope>
-<description>No Description Set</description>
-</snippet>

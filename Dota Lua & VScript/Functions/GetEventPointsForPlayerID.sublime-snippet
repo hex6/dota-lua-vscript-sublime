@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetEventPointsForPlayerID(${1:int iPlayerID})]]></content>
-	<tabTrigger>GetEventPointsForPlayerID</tabTrigger>
-	<scope>source.lua</scope>
-<description>No Description Set</description>
-</snippet>

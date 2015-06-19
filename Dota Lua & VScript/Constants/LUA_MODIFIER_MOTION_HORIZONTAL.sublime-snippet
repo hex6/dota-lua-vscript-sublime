@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LUA_MODIFIER_MOTION_HORIZONTAL]]></content>
-	<tabTrigger>LUA_MODIFIER_MOTION_HORIZONTAL</tabTrigger>
-	<scope>source.lua</scope>
-<description>1</description>
-</snippet>

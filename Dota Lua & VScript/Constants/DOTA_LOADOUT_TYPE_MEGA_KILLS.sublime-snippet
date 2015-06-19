@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DOTA_LOADOUT_TYPE_MEGA_KILLS]]></content>
-	<tabTrigger>DOTA_LOADOUT_TYPE_MEGA_KILLS</tabTrigger>
-	<scope>source.lua</scope>
-<description>31</description>
-</snippet>

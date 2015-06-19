@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ACT_DOTA_CHANNEL_END_ABILITY_6]]></content>
-	<tabTrigger>ACT_DOTA_CHANNEL_END_ABILITY_6</tabTrigger>
-	<scope>source.lua</scope>
-<description>1531</description>
-</snippet>

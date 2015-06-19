@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ACT_DOTA_LIFESTEALER_RAGE]]></content>
-	<tabTrigger>ACT_DOTA_LIFESTEALER_RAGE</tabTrigger>
-	<scope>source.lua</scope>
-<description>1566</description>
-</snippet>

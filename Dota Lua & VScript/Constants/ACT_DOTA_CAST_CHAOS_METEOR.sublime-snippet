@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ACT_DOTA_CAST_CHAOS_METEOR]]></content>
-	<tabTrigger>ACT_DOTA_CAST_CHAOS_METEOR</tabTrigger>
-	<scope>source.lua</scope>
-<description>1586</description>
-</snippet>

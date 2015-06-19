@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetMinimumAttackSpeed()]]></content>
-	<tabTrigger>GetMinimumAttackSpeed</tabTrigger>
-	<scope>source.lua</scope>
-<description>Get the minimum attack speed for units.</description>
-</snippet>

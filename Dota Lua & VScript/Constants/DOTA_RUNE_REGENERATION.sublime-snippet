@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DOTA_RUNE_REGENERATION]]></content>
-	<tabTrigger>DOTA_RUNE_REGENERATION</tabTrigger>
-	<scope>source.lua</scope>
-<description>4</description>
-</snippet>

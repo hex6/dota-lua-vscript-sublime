@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CreateTempTree(${1:Vector Vector_1}, ${2:float float_2})]]></content>
-	<tabTrigger>CreateTempTree</tabTrigger>
-	<scope>source.lua</scope>
-<description>Create a temporary tree. (vLocation, flDuration).</description>
-</snippet>

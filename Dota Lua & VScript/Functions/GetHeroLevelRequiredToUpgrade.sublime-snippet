@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetHeroLevelRequiredToUpgrade()]]></content>
-	<tabTrigger>GetHeroLevelRequiredToUpgrade</tabTrigger>
-	<scope>source.lua</scope>
-<description>No Description Set</description>
-</snippet>

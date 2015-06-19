@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetBaseMagicalResistanceValue()]]></content>
-	<tabTrigger>GetBaseMagicalResistanceValue</tabTrigger>
-	<scope>source.lua</scope>
-<description>Returns base magical armor value.</description>
-</snippet>

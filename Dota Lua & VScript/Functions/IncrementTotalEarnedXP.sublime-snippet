@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IncrementTotalEarnedXP(${1:int iPlayerID}, ${2:int iXP}, ${3:int nReason})]]></content>
-	<tabTrigger>IncrementTotalEarnedXP</tabTrigger>
-	<scope>source.lua</scope>
-<description>No Description Set</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ACT_WAVEFORM_END]]></content>
-	<tabTrigger>ACT_WAVEFORM_END</tabTrigger>
-	<scope>source.lua</scope>
-<description>1546</description>
-</snippet>

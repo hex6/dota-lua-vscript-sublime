@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetTableValue(${1:string string_1}, ${2:string string_2}, ${3:handle handle_3})]]></content>
-	<tabTrigger>SetTableValue</tabTrigger>
-	<scope>source.lua</scope>
-<description>( string TableName, string KeyName, script_table Value )</description>
-</snippet>

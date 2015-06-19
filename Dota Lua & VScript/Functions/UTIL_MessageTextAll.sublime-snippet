@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UTIL_MessageTextAll(${1:string message}, ${2:int r}, ${3:int g}, ${4:int b}, ${5:int a})]]></content>
-	<tabTrigger>UTIL_MessageTextAll</tabTrigger>
-	<scope>source.lua</scope>
-<description>Sends a message to everyone in the message box</description>
-</snippet>

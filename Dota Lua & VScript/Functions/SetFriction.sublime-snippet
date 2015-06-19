@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetFriction(${1:float flFriction})]]></content>
-	<tabTrigger>SetFriction</tabTrigger>
-	<scope>source.lua</scope>
-<description>Set PLAYER friction, ignored for objects</description>
-</snippet>

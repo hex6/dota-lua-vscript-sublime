@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DebugDrawLine(${1:Vector Vector_1}, ${2:Vector Vector_2}, ${3:int int_3}, ${4:int int_4}, ${5:int int_5}, ${6:bool bool_6}, ${7:float float_7})]]></content>
-	<tabTrigger>DebugDrawLine</tabTrigger>
-	<scope>source.lua</scope>
-<description>Draw a debug overlay line (origin, target, r, g, b, ztest, duration)</description>
-</snippet>

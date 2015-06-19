@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ACT_DOTA_MIDNIGHT_PULSE]]></content>
-	<tabTrigger>ACT_DOTA_MIDNIGHT_PULSE</tabTrigger>
-	<scope>source.lua</scope>
-<description>1676</description>
-</snippet>

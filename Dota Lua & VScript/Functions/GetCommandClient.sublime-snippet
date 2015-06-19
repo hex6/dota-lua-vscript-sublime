@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetCommandClient()]]></content>
-	<tabTrigger>GetCommandClient</tabTrigger>
-	<scope>source.lua</scope>
-<description>GetCommandClient() : returns the player who issued this console command.</description>
-</snippet>

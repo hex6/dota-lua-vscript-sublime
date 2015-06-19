@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetLoseGoldOnDeath(${1:bool bEnabled})]]></content>
-	<tabTrigger>SetLoseGoldOnDeath</tabTrigger>
-	<scope>source.lua</scope>
-<description>Use to disable gold loss on death.</description>
-</snippet>

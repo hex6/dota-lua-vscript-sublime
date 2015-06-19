@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[HasAnyActiveAbilities()]]></content>
-	<tabTrigger>HasAnyActiveAbilities</tabTrigger>
-	<scope>source.lua</scope>
-<description></description>
-</snippet>

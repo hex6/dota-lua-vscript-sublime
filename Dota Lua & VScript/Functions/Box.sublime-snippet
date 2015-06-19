@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Box(${1:Vector Vector_1}, ${2:Vector Vector_2}, ${3:int int_3}, ${4:int int_4}, ${5:int int_5}, ${6:int int_6}, ${7:bool bool_7}, ${8:float float_8})]]></content>
-	<tabTrigger>Box</tabTrigger>
-	<scope>source.lua</scope>
-<description>Draws a world-space axis-aligned box. Specify bounds in world space.</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetEquippedWeapons()]]></content>
-	<tabTrigger>GetEquippedWeapons</tabTrigger>
-	<scope>source.lua</scope>
-<description>GetEquippedWeapons() : Returns an array of all the equipped weapons</description>
-</snippet>

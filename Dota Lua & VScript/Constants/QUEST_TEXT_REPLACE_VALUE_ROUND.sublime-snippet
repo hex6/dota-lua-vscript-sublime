@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[QUEST_TEXT_REPLACE_VALUE_ROUND]]></content>
-	<tabTrigger>QUEST_TEXT_REPLACE_VALUE_ROUND</tabTrigger>
-	<scope>source.lua</scope>
-<description>2</description>
-</snippet>

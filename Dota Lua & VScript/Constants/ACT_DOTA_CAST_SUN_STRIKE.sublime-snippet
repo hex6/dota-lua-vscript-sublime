@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ACT_DOTA_CAST_SUN_STRIKE]]></content>
-	<tabTrigger>ACT_DOTA_CAST_SUN_STRIKE</tabTrigger>
-	<scope>source.lua</scope>
-<description>1587</description>
-</snippet>

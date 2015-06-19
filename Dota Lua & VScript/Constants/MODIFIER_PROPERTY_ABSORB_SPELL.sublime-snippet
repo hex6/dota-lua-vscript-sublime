@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MODIFIER_PROPERTY_ABSORB_SPELL]]></content>
-	<tabTrigger>MODIFIER_PROPERTY_ABSORB_SPELL</tabTrigger>
-	<scope>source.lua</scope>
-<description>77</description>
-</snippet>

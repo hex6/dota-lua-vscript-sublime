@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DOTA_ABILITY_LAST_BEHAVIOR]]></content>
-	<tabTrigger>DOTA_ABILITY_LAST_BEHAVIOR</tabTrigger>
-	<scope>source.lua</scope>
-<description>536870912</description>
-</snippet>

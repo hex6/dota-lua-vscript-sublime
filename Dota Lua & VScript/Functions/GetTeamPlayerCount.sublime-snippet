@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetTeamPlayerCount()]]></content>
-	<tabTrigger>GetTeamPlayerCount</tabTrigger>
-	<scope>source.lua</scope>
-<description>Players on a valid team (radiant, dire, or custom*) who haven't abandoned the game</description>
-</snippet>

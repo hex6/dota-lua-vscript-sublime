@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetWorldMaxY()]]></content>
-	<tabTrigger>GetWorldMaxY</tabTrigger>
-	<scope>source.lua</scope>
-<description>Gets the world's maximum Y position.</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PATTACH_WORLDORIGIN]]></content>
-	<tabTrigger>PATTACH_WORLDORIGIN</tabTrigger>
-	<scope>source.lua</scope>
-<description>8</description>
-</snippet>

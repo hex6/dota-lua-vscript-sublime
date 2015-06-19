@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MODIFIER_EVENT_ON_DEATH]]></content>
-	<tabTrigger>MODIFIER_EVENT_ON_DEATH</tabTrigger>
-	<scope>source.lua</scope>
-<description>119</description>
-</snippet>

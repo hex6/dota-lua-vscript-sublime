@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DOTA_RUNE_HAUNTED]]></content>
-	<tabTrigger>DOTA_RUNE_HAUNTED</tabTrigger>
-	<scope>source.lua</scope>
-<description>7</description>
-</snippet>

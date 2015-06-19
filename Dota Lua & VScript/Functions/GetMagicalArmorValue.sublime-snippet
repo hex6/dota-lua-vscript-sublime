@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetMagicalArmorValue()]]></content>
-	<tabTrigger>GetMagicalArmorValue</tabTrigger>
-	<scope>source.lua</scope>
-<description>Returns current magical armor value.</description>
-</snippet>

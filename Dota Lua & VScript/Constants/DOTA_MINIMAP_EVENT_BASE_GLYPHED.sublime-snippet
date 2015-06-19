@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DOTA_MINIMAP_EVENT_BASE_GLYPHED]]></content>
-	<tabTrigger>DOTA_MINIMAP_EVENT_BASE_GLYPHED</tabTrigger>
-	<scope>source.lua</scope>
-<description>8</description>
-</snippet>

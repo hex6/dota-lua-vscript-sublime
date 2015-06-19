@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetAttachment(${1:handle hAttachment})]]></content>
-	<tabTrigger>SetAttachment</tabTrigger>
-	<scope>source.lua</scope>
-<description>Set the attachment for this hand</description>
-</snippet>

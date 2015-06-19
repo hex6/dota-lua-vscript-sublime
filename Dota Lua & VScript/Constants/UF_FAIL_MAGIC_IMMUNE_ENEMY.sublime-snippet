@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UF_FAIL_MAGIC_IMMUNE_ENEMY]]></content>
-	<tabTrigger>UF_FAIL_MAGIC_IMMUNE_ENEMY</tabTrigger>
-	<scope>source.lua</scope>
-<description>18</description>
-</snippet>

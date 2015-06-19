@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MoveToTargetToAttack(${1:handle hTarget})]]></content>
-	<tabTrigger>MoveToTargetToAttack</tabTrigger>
-	<scope>source.lua</scope>
-<description>Move to a target to attack.</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetModelName()]]></content>
-	<tabTrigger>GetModelName</tabTrigger>
-	<scope>source.lua</scope>
-<description>Returns the name of the model</description>
-</snippet>

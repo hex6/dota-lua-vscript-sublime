@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Quit()]]></content>
-	<tabTrigger>Quit</tabTrigger>
-	<scope>source.lua</scope>
-<description>Quit the game from script.</description>
-</snippet>

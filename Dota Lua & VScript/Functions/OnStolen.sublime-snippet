@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[OnStolen(${1:handle hSourceAbility})]]></content>
-	<tabTrigger>OnStolen</tabTrigger>
-	<scope>source.lua</scope>
-<description>( HSCRIPT hAbility ) Special behavior when stolen by Spell Steal.</description>
-</snippet>

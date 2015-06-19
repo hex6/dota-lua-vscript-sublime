@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetPlayerID(${1:int iPlayerID})]]></content>
-	<tabTrigger>SetPlayerID</tabTrigger>
-	<scope>source.lua</scope>
-<description>No Description Set</description>
-</snippet>

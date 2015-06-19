@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetGoldFrostyPointsForRound(${1:int int_1}, ${2:int int_2}, ${3:int int_3})]]></content>
-	<tabTrigger>GetGoldFrostyPointsForRound</tabTrigger>
-	<scope>source.lua</scope>
-<description>No Description Set</description>
-</snippet>

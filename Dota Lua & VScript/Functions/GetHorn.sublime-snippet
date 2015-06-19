@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetHorn()]]></content>
-	<tabTrigger>GetHorn</tabTrigger>
-	<scope>source.lua</scope>
-<description>Is the Nian horn?</description>
-</snippet>

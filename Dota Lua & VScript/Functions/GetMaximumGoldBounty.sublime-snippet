@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetMaximumGoldBounty()]]></content>
-	<tabTrigger>GetMaximumGoldBounty</tabTrigger>
-	<scope>source.lua</scope>
-<description>Get the maximum gold bounty for this unit.</description>
-</snippet>

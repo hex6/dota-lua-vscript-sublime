@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CreateParticleForTeam(${1:string string_1}, ${2:int int_2}, ${3:handle handle_3}, ${4:int int_4})]]></content>
-	<tabTrigger>CreateParticleForTeam</tabTrigger>
-	<scope>source.lua</scope>
-<description>Creates a new particle effect that only plays for the specified team</description>
-</snippet>

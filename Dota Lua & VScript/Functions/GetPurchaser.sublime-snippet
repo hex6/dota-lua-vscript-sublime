@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetPurchaser()]]></content>
-	<tabTrigger>GetPurchaser</tabTrigger>
-	<scope>source.lua</scope>
-<description>Get the purchaser for this item.</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetMaxMana()]]></content>
-	<tabTrigger>GetMaxMana</tabTrigger>
-	<scope>source.lua</scope>
-<description>Get the maximum mana of this unit.</description>
-</snippet>

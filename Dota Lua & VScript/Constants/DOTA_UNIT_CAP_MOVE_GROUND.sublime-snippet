@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DOTA_UNIT_CAP_MOVE_GROUND]]></content>
-	<tabTrigger>DOTA_UNIT_CAP_MOVE_GROUND</tabTrigger>
-	<scope>source.lua</scope>
-<description>1</description>
-</snippet>

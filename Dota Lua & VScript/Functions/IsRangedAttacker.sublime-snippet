@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IsRangedAttacker()]]></content>
-	<tabTrigger>IsRangedAttacker</tabTrigger>
-	<scope>source.lua</scope>
-<description>Is this unit a ranged attacker?</description>
-</snippet>

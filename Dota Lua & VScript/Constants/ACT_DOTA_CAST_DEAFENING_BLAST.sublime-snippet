@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ACT_DOTA_CAST_DEAFENING_BLAST]]></content>
-	<tabTrigger>ACT_DOTA_CAST_DEAFENING_BLAST</tabTrigger>
-	<scope>source.lua</scope>
-<description>1590</description>
-</snippet>

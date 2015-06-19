@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetGoldCost(${1:int iLevel})]]></content>
-	<tabTrigger>GetGoldCost</tabTrigger>
-	<scope>source.lua</scope>
-<description>No Description Set</description>
-</snippet>

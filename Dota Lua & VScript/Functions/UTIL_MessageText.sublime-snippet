@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UTIL_MessageText(${1:int playerId}, ${2:string message}, ${3:int r}, ${4:int g}, ${5:int b}, ${6:int a})]]></content>
-	<tabTrigger>UTIL_MessageText</tabTrigger>
-	<scope>source.lua</scope>
-<description>Displays a message for a specific player</description>
-</snippet>

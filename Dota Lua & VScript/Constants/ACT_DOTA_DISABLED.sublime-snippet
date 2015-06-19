@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ACT_DOTA_DISABLED]]></content>
-	<tabTrigger>ACT_DOTA_DISABLED</tabTrigger>
-	<scope>source.lua</scope>
-<description>1509</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NumDroppedItems()]]></content>
-	<tabTrigger>NumDroppedItems</tabTrigger>
-	<scope>source.lua</scope>
-<description>Returns the number of items currently dropped on the ground</description>
-</snippet>

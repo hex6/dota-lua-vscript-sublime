@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DOTA_ModifyGold_AbilityCost]]></content>
-	<tabTrigger>DOTA_ModifyGold_AbilityCost</tabTrigger>
-	<scope>source.lua</scope>
-<description>7</description>
-</snippet>

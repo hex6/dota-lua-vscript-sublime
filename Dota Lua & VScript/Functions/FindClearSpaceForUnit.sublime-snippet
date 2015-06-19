@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[FindClearSpaceForUnit(${1:handle handle_1}, ${2:Vector Vector_2}, ${3:bool bool_3})]]></content>
-	<tabTrigger>FindClearSpaceForUnit</tabTrigger>
-	<scope>source.lua</scope>
-<description>Place a unit somewhere not already occupied.</description>
-</snippet>

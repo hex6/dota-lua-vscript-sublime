@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[RegisterListener(${1:string string_1}, ${2:handle handle_2})]]></content>
-	<tabTrigger>RegisterListener</tabTrigger>
-	<scope>source.lua</scope>
-<description>( string EventName, func CallbackFunction ) - Register a callback to be called when a particular custom event arrives. Returns a listener ID that can be used to unregister later.</description>
-</snippet>

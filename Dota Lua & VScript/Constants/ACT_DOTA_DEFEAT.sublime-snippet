@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ACT_DOTA_DEFEAT]]></content>
-	<tabTrigger>ACT_DOTA_DEFEAT</tabTrigger>
-	<scope>source.lua</scope>
-<description>1592</description>
-</snippet>

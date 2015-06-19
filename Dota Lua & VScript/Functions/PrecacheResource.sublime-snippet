@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PrecacheResource(${1:string precacheMode}, ${2:string resource}, ${3:handle context})]]></content>
-	<tabTrigger>PrecacheResource</tabTrigger>
-	<scope>source.lua</scope>
-<description>Manually precache a single resource</description>
-</snippet>

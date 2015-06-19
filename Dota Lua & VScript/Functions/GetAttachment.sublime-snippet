@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetAttachment()]]></content>
-	<tabTrigger>GetAttachment</tabTrigger>
-	<scope>source.lua</scope>
-<description>Get the attachment on this hand</description>
-</snippet>

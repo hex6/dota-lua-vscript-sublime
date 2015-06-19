@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetTeamName(${1:int teamNumber})]]></content>
-	<tabTrigger>GetTeamName</tabTrigger>
-	<scope>source.lua</scope>
-<description>Returns the team name</description>
-</snippet>

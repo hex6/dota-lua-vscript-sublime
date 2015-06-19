@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ACT_DOTA_RATTLETRAP_HOOKSHOT_START]]></content>
-	<tabTrigger>ACT_DOTA_RATTLETRAP_HOOKSHOT_START</tabTrigger>
-	<scope>source.lua</scope>
-<description>1551</description>
-</snippet>

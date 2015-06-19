@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetHideKillMessageHeaders(${1:bool hide})]]></content>
-	<tabTrigger>SetHideKillMessageHeaders</tabTrigger>
-	<scope>source.lua</scope>
-<description>Sets whether or not the kill banners should be hidden</description>
-</snippet>

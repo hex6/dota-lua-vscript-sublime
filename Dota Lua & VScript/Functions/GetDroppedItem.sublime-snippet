@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetDroppedItem(${1:int dropIndex})]]></content>
-	<tabTrigger>GetDroppedItem</tabTrigger>
-	<scope>source.lua</scope>
-<description>Gets the Xth dropped item</description>
-</snippet>

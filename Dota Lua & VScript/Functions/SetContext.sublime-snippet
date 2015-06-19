@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetContext(${1:string pName}, ${2:string pValue}, ${3:float duration})]]></content>
-	<tabTrigger>SetContext</tabTrigger>
-	<scope>source.lua</scope>
-<description>SetContext( name , value, duration ): store any key/value pair in this entity's dialog contexts. Value must be a ''string''. Will last for duration (set 0 to mean 'forever').</description>
-</snippet>

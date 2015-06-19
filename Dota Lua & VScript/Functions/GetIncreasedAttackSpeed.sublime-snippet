@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetIncreasedAttackSpeed()]]></content>
-	<tabTrigger>GetIncreasedAttackSpeed</tabTrigger>
-	<scope>source.lua</scope>
-<description>Hero attack speed is also affected by agility.</description>
-</snippet>

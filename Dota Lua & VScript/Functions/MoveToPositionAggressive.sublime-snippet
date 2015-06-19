@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MoveToPositionAggressive(${1:Vector vDest})]]></content>
-	<tabTrigger>MoveToPositionAggressive</tabTrigger>
-	<scope>source.lua</scope>
-<description>Issue an Attack-Move-To command</description>
-</snippet>

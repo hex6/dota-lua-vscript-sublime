@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetCustomVictoryMessage(${1:string string_1})]]></content>
-	<tabTrigger>SetCustomVictoryMessage</tabTrigger>
-	<scope>source.lua</scope>
-<description>Sets the victory message.</description>
-</snippet>

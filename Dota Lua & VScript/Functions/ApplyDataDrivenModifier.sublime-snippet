@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ApplyDataDrivenModifier(${1:handle hCaster}, ${2:handle hTarget}, ${3:string pszModifierName}, ${4:handle hModifierTable})]]></content>
-	<tabTrigger>ApplyDataDrivenModifier</tabTrigger>
-	<scope>source.lua</scope>
-<description>Gets the Attack Capabilities of the unit</description>
-</snippet>

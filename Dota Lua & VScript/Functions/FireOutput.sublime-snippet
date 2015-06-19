@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[FireOutput(${1:string outputName}, ${2:handle activator}, ${3:handle caller}, ${4:table args}, ${5:float delay})]]></content>
-	<tabTrigger>FireOutput</tabTrigger>
-	<scope>source.lua</scope>
-<description>Fire an entity output</description>
-</snippet>

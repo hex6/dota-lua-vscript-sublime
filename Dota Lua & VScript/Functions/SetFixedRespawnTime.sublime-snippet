@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetFixedRespawnTime(${1:float time})]]></content>
-	<tabTrigger>SetFixedRespawnTime</tabTrigger>
-	<scope>source.lua</scope>
-<description>Sets the dota respawn time.  -1 for default behavior</description>
-</snippet>

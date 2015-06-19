@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Buyback()]]></content>
-	<tabTrigger>Buyback</tabTrigger>
-	<scope>source.lua</scope>
-<description>Spend the gold and buyback with this hero.</description>
-</snippet>

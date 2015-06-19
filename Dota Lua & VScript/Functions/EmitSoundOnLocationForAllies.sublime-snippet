@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EmitSoundOnLocationForAllies(${1:Vector Vector_1}, ${2:string string_2}, ${3:handle handle_3})]]></content>
-	<tabTrigger>EmitSoundOnLocationForAllies</tabTrigger>
-	<scope>source.lua</scope>
-<description>Emit a sound on a location from a unit, only for players allied with that unit (vLocation, soundName, hCaster</description>
-</snippet>

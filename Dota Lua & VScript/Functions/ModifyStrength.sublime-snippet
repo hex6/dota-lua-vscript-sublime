@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ModifyStrength(${1:float flNewStrength})]]></content>
-	<tabTrigger>ModifyStrength</tabTrigger>
-	<scope>source.lua</scope>
-<description>Adds passed value to base attribute value, then calls CalculateStatBonus.</description>
-</snippet>
