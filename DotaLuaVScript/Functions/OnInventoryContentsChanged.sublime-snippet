@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnInventoryContentsChanged()]]></content>
+	<tabTrigger>OnInventoryContentsChanged</tabTrigger>
+	<scope>source.lua</scope>
+<description>Caster inventory changed.</description>
+</snippet>

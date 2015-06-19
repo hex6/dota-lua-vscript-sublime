@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ACT_DOTA_NIGHTSTALKER_TRANSITION]]></content>
+	<tabTrigger>ACT_DOTA_NIGHTSTALKER_TRANSITION</tabTrigger>
+	<scope>source.lua</scope>
+<description>1565</description>
+</snippet>

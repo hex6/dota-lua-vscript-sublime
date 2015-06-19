@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LockCustomGameSetupTeamAssignment(${1:bool bool_1})]]></content>
+	<tabTrigger>LockCustomGameSetupTeamAssignment</tabTrigger>
+	<scope>source.lua</scope>
+<description>Lock (true) or unlock (false) team assignemnt. If team assignment is locked players cannot change teams.</description>
+</snippet>

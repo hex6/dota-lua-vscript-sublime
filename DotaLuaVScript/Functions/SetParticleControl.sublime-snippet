@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SetParticleControl(${1:int particleId}, ${2:int controlIndex}, ${3:Vector controlData})]]></content>
+	<tabTrigger>SetParticleControl</tabTrigger>
+	<scope>source.lua</scope>
+<description>Set the control point data for a control on a particle effect</description>
+</snippet>

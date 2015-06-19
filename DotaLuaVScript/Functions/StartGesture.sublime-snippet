@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[StartGesture(${1:int nActivity})]]></content>
+	<tabTrigger>StartGesture</tabTrigger>
+	<scope>source.lua</scope>
+<description>Add the given gesture activity.</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MODIFIER_PROPERTY_PROVIDES_FOW_POSITION]]></content>
+	<tabTrigger>MODIFIER_PROPERTY_PROVIDES_FOW_POSITION</tabTrigger>
+	<scope>source.lua</scope>
+<description>139</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DOTA_MOTION_CONTROLLER_PRIORITY_HIGHEST]]></content>
+	<tabTrigger>DOTA_MOTION_CONTROLLER_PRIORITY_HIGHEST</tabTrigger>
+	<scope>source.lua</scope>
+<description>4</description>
+</snippet>

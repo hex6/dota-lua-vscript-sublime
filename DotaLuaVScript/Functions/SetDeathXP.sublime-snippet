@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SetDeathXP(${1:int iXPBounty})]]></content>
+	<tabTrigger>SetDeathXP</tabTrigger>
+	<scope>source.lua</scope>
+<description>Set the XP bounty on this unit</description>
+</snippet>

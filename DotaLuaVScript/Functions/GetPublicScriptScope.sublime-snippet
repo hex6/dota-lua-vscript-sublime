@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetPublicScriptScope()]]></content>
+	<tabTrigger>GetPublicScriptScope</tabTrigger>
+	<scope>source.lua</scope>
+<description>Retrieve the public script-side data associated with an entity</description>
+</snippet>

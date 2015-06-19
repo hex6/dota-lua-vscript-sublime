@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetLocalAngularVelocity()]]></content>
+	<tabTrigger>GetLocalAngularVelocity</tabTrigger>
+	<scope>source.lua</scope>
+<description>Maybe local angvel</description>
+</snippet>

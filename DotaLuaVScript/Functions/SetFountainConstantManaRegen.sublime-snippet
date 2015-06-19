@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SetFountainConstantManaRegen(${1:float flConstantManaRegen})]]></content>
+	<tabTrigger>SetFountainConstantManaRegen</tabTrigger>
+	<scope>source.lua</scope>
+<description>Set the constant rate that the fountain will regen mana. (-1 for default)</description>
+</snippet>

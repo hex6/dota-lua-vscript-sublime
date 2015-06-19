@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CalculateStatBonus()]]></content>
+	<tabTrigger>CalculateStatBonus</tabTrigger>
+	<scope>source.lua</scope>
+<description>Recalculate all stats after the hero gains stats.</description>
+</snippet>

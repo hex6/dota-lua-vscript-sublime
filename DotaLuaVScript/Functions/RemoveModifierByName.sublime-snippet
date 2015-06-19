@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RemoveModifierByName(${1:string pszScriptName})]]></content>
+	<tabTrigger>RemoveModifierByName</tabTrigger>
+	<scope>source.lua</scope>
+<description>Removes a modifier</description>
+</snippet>

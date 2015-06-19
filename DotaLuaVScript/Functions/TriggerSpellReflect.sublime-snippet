@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TriggerSpellReflect(${1:handle hAbility})]]></content>
+	<tabTrigger>TriggerSpellReflect</tabTrigger>
+	<scope>source.lua</scope>
+<description>Trigger the Lotus Orb-like effect.(hAbility)</description>
+</snippet>

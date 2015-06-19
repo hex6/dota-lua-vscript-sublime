@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MODIFIER_PROPERTY_DAMAGEOUTGOING_PERCENTAGE]]></content>
+	<tabTrigger>MODIFIER_PROPERTY_DAMAGEOUTGOING_PERCENTAGE</tabTrigger>
+	<scope>source.lua</scope>
+<description>25</description>
+</snippet>

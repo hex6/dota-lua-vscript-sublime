@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SetCustomGameForceHero(${1:string pHeroName})]]></content>
+	<tabTrigger>SetCustomGameForceHero</tabTrigger>
+	<scope>source.lua</scope>
+<description>Force single-player hero selection.</description>
+</snippet>

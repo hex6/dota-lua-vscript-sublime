@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LaunchLootInitialHeight(${1:bool bAutoUse}, ${2:float flInitialHeight}, ${3:float flLaunchHeight}, ${4:float flDuration}, ${5:Vector vEndPoint})]]></content>
+	<tabTrigger>LaunchLootInitialHeight</tabTrigger>
+	<scope>source.lua</scope>
+<description></description>
+</snippet>

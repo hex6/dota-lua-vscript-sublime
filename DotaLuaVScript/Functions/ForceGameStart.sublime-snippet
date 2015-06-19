@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ForceGameStart()]]></content>
+	<tabTrigger>ForceGameStart</tabTrigger>
+	<scope>source.lua</scope>
+<description>Force the start of the game.</description>
+</snippet>

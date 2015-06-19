@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CastFilterResult()]]></content>
+	<tabTrigger>CastFilterResult</tabTrigger>
+	<scope>source.lua</scope>
+<description>Determine whether an issued command with no target is valid.</description>
+</snippet>

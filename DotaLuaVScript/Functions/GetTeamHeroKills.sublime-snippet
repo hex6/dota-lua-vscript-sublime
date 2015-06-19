@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetTeamHeroKills(${1:int int_1})]]></content>
+	<tabTrigger>GetTeamHeroKills</tabTrigger>
+	<scope>source.lua</scope>
+<description>( int teamID )</description>
+</snippet>

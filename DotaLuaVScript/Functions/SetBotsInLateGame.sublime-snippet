@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SetBotsInLateGame(${1:bool bLateGame})]]></content>
+	<tabTrigger>SetBotsInLateGame</tabTrigger>
+	<scope>source.lua</scope>
+<description>Set if bots should enable their late game behavior.</description>
+</snippet>

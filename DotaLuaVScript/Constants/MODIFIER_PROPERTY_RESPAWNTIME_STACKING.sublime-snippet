@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MODIFIER_PROPERTY_RESPAWNTIME_STACKING]]></content>
+	<tabTrigger>MODIFIER_PROPERTY_RESPAWNTIME_STACKING</tabTrigger>
+	<scope>source.lua</scope>
+<description>65</description>
+</snippet>

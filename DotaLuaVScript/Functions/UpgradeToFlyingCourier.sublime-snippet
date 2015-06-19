@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UpgradeToFlyingCourier()]]></content>
+	<tabTrigger>UpgradeToFlyingCourier</tabTrigger>
+	<scope>source.lua</scope>
+<description>Upgrade to a flying courier</description>
+</snippet>

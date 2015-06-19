@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AddShopWhitelistItem(${1:string string_1})]]></content>
+	<tabTrigger>AddShopWhitelistItem</tabTrigger>
+	<scope>source.lua</scope>
+<description>Add an item to the shop whitelist.</description>
+</snippet>

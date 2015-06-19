@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ACT_DOTA_CENTAUR_STAMPEDE]]></content>
+	<tabTrigger>ACT_DOTA_CENTAUR_STAMPEDE</tabTrigger>
+	<scope>source.lua</scope>
+<description>1611</description>
+</snippet>

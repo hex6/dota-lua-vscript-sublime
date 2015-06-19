@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ClearModifyExperienceFilter()]]></content>
+	<tabTrigger>ClearModifyExperienceFilter</tabTrigger>
+	<scope>source.lua</scope>
+<description>Clear the script filter that controls how hero experience is modified.</description>
+</snippet>

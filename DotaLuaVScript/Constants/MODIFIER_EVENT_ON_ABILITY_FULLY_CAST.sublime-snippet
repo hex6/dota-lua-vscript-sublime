@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MODIFIER_EVENT_ON_ABILITY_FULLY_CAST]]></content>
+	<tabTrigger>MODIFIER_EVENT_ON_ABILITY_FULLY_CAST</tabTrigger>
+	<scope>source.lua</scope>
+<description>110</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ACT_DOTA_RELAX_LOOP_END]]></content>
+	<tabTrigger>ACT_DOTA_RELAX_LOOP_END</tabTrigger>
+	<scope>source.lua</scope>
+<description>1634</description>
+</snippet>

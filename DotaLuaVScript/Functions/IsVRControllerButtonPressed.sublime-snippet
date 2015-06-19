@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IsVRControllerButtonPressed(${1:int nButton})]]></content>
+	<tabTrigger>IsVRControllerButtonPressed</tabTrigger>
+	<scope>source.lua</scope>
+<description>Returns true if the controller button is pressed.</description>
+</snippet>

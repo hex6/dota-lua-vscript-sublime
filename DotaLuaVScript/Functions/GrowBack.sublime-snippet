@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GrowBack()]]></content>
+	<tabTrigger>GrowBack</tabTrigger>
+	<scope>source.lua</scope>
+<description>Grows back the tree if it was cut down.</description>
+</snippet>

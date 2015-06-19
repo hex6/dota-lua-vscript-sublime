@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IsTouching(${1:handle hEnt})]]></content>
+	<tabTrigger>IsTouching</tabTrigger>
+	<scope>source.lua</scope>
+<description>Checks whether the passed entity is touching the trigger.</description>
+</snippet>

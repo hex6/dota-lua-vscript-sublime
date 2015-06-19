@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Send_ServerToPlayer(${1:handle handle_1}, ${2:string string_2}, ${3:handle handle_3})]]></content>
+	<tabTrigger>Send_ServerToPlayer</tabTrigger>
+	<scope>source.lua</scope>
+<description>( Entity Player, string EventName, table EventData )</description>
+</snippet>

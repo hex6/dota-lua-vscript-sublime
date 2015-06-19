@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MODIFIER_PROPERTY_PREATTACK_CRITICALSTRIKE]]></content>
+	<tabTrigger>MODIFIER_PROPERTY_PREATTACK_CRITICALSTRIKE</tabTrigger>
+	<scope>source.lua</scope>
+<description>70</description>
+</snippet>

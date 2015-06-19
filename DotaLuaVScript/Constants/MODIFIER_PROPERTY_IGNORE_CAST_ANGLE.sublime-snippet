@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MODIFIER_PROPERTY_IGNORE_CAST_ANGLE]]></content>
+	<tabTrigger>MODIFIER_PROPERTY_IGNORE_CAST_ANGLE</tabTrigger>
+	<scope>source.lua</scope>
+<description>143</description>
+</snippet>

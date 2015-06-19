@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DOTA_INVENTORY_LIMIT_DROP_ON_GROUND]]></content>
+	<tabTrigger>DOTA_INVENTORY_LIMIT_DROP_ON_GROUND</tabTrigger>
+	<scope>source.lua</scope>
+<description>16</description>
+</snippet>

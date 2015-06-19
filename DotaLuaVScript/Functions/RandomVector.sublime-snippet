@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RandomVector(${1:float maxLength})]]></content>
+	<tabTrigger>RandomVector</tabTrigger>
+	<scope>source.lua</scope>
+<description>Get a random 2D vector</description>
+</snippet>

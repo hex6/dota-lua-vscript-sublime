@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ACT_DOTA_LIFESTEALER_INFEST]]></content>
+	<tabTrigger>ACT_DOTA_LIFESTEALER_INFEST</tabTrigger>
+	<scope>source.lua</scope>
+<description>1576</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[FindAllByTarget(${1:string targetName})]]></content>
+	<tabTrigger>FindAllByTarget</tabTrigger>
+	<scope>source.lua</scope>
+<description>Find entities by targetname.</description>
+</snippet>

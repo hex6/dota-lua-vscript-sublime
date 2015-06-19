@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ACT_DOTA_BELLYACHE_LOOP]]></content>
+	<tabTrigger>ACT_DOTA_BELLYACHE_LOOP</tabTrigger>
+	<scope>source.lua</scope>
+<description>1613</description>
+</snippet>

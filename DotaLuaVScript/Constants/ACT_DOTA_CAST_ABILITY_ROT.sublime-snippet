@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ACT_DOTA_CAST_ABILITY_ROT]]></content>
+	<tabTrigger>ACT_DOTA_CAST_ABILITY_ROT</tabTrigger>
+	<scope>source.lua</scope>
+<description>1547</description>
+</snippet>

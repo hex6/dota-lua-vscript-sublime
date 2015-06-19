@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MODIFIER_PROPERTY_PROJECTILE_SPEED_BONUS]]></content>
+	<tabTrigger>MODIFIER_PROPERTY_PROJECTILE_SPEED_BONUS</tabTrigger>
+	<scope>source.lua</scope>
+<description>61</description>
+</snippet>

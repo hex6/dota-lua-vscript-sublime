@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetGroundPosition(${1:Vector Vector_1}, ${2:handle handle_2})]]></content>
+	<tabTrigger>GetGroundPosition</tabTrigger>
+	<scope>source.lua</scope>
+<description>Returns the supplied position moved to the ground. Second parameter is an NPC for measuring movement collision hull offset.</description>
+</snippet>

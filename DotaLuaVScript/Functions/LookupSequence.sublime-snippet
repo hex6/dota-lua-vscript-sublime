@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LookupSequence(${1:string string_1})]]></content>
+	<tabTrigger>LookupSequence</tabTrigger>
+	<scope>source.lua</scope>
+<description>Returns a sequence id given a name</description>
+</snippet>

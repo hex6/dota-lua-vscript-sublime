@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IsSteamControllerButtonPressed(${1:int nControllerNumber}, ${2:int nButton})]]></content>
+	<tabTrigger>IsSteamControllerButtonPressed</tabTrigger>
+	<scope>source.lua</scope>
+<description>Returns true if the controller button is pressed.</description>
+</snippet>

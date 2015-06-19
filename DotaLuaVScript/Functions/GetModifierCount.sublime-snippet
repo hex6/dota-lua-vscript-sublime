@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetModifierCount()]]></content>
+	<tabTrigger>GetModifierCount</tabTrigger>
+	<scope>source.lua</scope>
+<description>How many modifiers does this unit have?</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DOTA_TEAM_CUSTOM_COUNT]]></content>
+	<tabTrigger>DOTA_TEAM_CUSTOM_COUNT</tabTrigger>
+	<scope>source.lua</scope>
+<description>8</description>
+</snippet>

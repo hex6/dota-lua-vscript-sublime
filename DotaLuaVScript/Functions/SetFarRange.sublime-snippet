@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SetFarRange(${1:float flRange})]]></content>
+	<tabTrigger>SetFarRange</tabTrigger>
+	<scope>source.lua</scope>
+<description>Set light maximum range</description>
+</snippet>

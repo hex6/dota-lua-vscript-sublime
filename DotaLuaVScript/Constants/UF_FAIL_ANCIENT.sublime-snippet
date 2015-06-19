@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UF_FAIL_ANCIENT]]></content>
+	<tabTrigger>UF_FAIL_ANCIENT</tabTrigger>
+	<scope>source.lua</scope>
+<description>10</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Think()]]></content>
+	<tabTrigger>Think</tabTrigger>
+	<scope>source.lua</scope>
+<description>Think this item</description>
+</snippet>

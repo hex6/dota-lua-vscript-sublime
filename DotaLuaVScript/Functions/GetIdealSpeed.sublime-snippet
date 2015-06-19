@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetIdealSpeed()]]></content>
+	<tabTrigger>GetIdealSpeed</tabTrigger>
+	<scope>source.lua</scope>
+<description>Returns speed after all modifiers.</description>
+</snippet>

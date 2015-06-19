@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetMana()]]></content>
+	<tabTrigger>GetMana</tabTrigger>
+	<scope>source.lua</scope>
+<description>Get the mana on this unit.</description>
+</snippet>

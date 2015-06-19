@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnHeroLevelUp()]]></content>
+	<tabTrigger>OnHeroLevelUp</tabTrigger>
+	<scope>source.lua</scope>
+<description>Caster gained a level.</description>
+</snippet>

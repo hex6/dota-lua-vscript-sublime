@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SetAcquisitionRange(${1:float nRange})]]></content>
+	<tabTrigger>SetAcquisitionRange</tabTrigger>
+	<scope>source.lua</scope>
+<description>Sets acquisition range</description>
+</snippet>

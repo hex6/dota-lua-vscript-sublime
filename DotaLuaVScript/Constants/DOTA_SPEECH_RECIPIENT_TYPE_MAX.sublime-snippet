@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DOTA_SPEECH_RECIPIENT_TYPE_MAX]]></content>
+	<tabTrigger>DOTA_SPEECH_RECIPIENT_TYPE_MAX</tabTrigger>
+	<scope>source.lua</scope>
+<description>9</description>
+</snippet>

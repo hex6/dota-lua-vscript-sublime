@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CastFilterResultLocation(${1:Vector vLocation})]]></content>
+	<tabTrigger>CastFilterResultLocation</tabTrigger>
+	<scope>source.lua</scope>
+<description>(Vector vLocation) Determine whether an issued command on a location is valid.</description>
+</snippet>

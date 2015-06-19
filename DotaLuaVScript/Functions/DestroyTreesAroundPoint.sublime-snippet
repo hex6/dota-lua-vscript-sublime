@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DestroyTreesAroundPoint(${1:Vector Vector_1}, ${2:float float_2}, ${3:bool bool_3})]]></content>
+	<tabTrigger>DestroyTreesAroundPoint</tabTrigger>
+	<scope>source.lua</scope>
+<description>Destroy all trees in the area(vPosition, flRadius, bFullCollision</description>
+</snippet>

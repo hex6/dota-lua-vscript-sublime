@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MODIFIER_PROPERTY_DISABLE_TURNING]]></content>
+	<tabTrigger>MODIFIER_PROPERTY_DISABLE_TURNING</tabTrigger>
+	<scope>source.lua</scope>
+<description>142</description>
+</snippet>

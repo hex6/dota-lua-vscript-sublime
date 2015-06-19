@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ClearExecuteOrderFilter()]]></content>
+	<tabTrigger>ClearExecuteOrderFilter</tabTrigger>
+	<scope>source.lua</scope>
+<description>Clear the script filter that controls when a unit picks up an item.</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IsTailAlive()]]></content>
+	<tabTrigger>IsTailAlive</tabTrigger>
+	<scope>source.lua</scope>
+<description>Is the Nian's tail broken?</description>
+</snippet>

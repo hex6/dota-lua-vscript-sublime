@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetTogglableWearable(${1:int nSlotType})]]></content>
+	<tabTrigger>GetTogglableWearable</tabTrigger>
+	<scope>source.lua</scope>
+<description>Get wearable entity in slot (slot)</description>
+</snippet>

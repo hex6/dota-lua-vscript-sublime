@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ACT_DOTA_TROT]]></content>
+	<tabTrigger>ACT_DOTA_TROT</tabTrigger>
+	<scope>source.lua</scope>
+<description>1686</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetLastHits()]]></content>
+	<tabTrigger>GetLastHits</tabTrigger>
+	<scope>source.lua</scope>
+<description>Value is stored in PlayerResource.</description>
+</snippet>

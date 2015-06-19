@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ACT_DOTA_LOADOUT]]></content>
+	<tabTrigger>ACT_DOTA_LOADOUT</tabTrigger>
+	<scope>source.lua</scope>
+<description>1601</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetAverageTrueAttackDamage()]]></content>
+	<tabTrigger>GetAverageTrueAttackDamage</tabTrigger>
+	<scope>source.lua</scope>
+<description>Returns the average value of the minimum and maximum damage values.</description>
+</snippet>

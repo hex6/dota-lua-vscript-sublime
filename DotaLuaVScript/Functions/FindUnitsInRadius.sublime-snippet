@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[FindUnitsInRadius(${1:int teamNumber}, ${2:Vector position}, ${3:handle cacheUnit}, ${4:float radius}, ${5:int teamFilter}, ${6:int typeFilter}, ${7:int flagFilter}, ${8:int order}, ${9:bool canGrowCache})]]></content>
+	<tabTrigger>FindUnitsInRadius</tabTrigger>
+	<scope>source.lua</scope>
+<description>Finds the units in a given radius with the given flags. ( iTeamNumber, vPosition, hCacheUnit, flRadius, iTeamFilter, iTypeFilter, iFlagFilter, iOrder, bCanGrowCache )</description>
+</snippet>

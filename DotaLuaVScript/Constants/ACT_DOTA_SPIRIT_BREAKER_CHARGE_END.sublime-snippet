@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ACT_DOTA_SPIRIT_BREAKER_CHARGE_END]]></content>
+	<tabTrigger>ACT_DOTA_SPIRIT_BREAKER_CHARGE_END</tabTrigger>
+	<scope>source.lua</scope>
+<description>1594</description>
+</snippet>

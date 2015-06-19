@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SetCustomHeroMaxLevel(${1:int maxLevel})]]></content>
+	<tabTrigger>SetCustomHeroMaxLevel</tabTrigger>
+	<scope>source.lua</scope>
+<description>Allows definition of the max level heroes can achieve (default is 25).</description>
+</snippet>

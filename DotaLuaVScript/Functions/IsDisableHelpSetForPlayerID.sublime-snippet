@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IsDisableHelpSetForPlayerID(${1:int nPlayerID}, ${2:int nOtherPlayerID})]]></content>
+	<tabTrigger>IsDisableHelpSetForPlayerID</tabTrigger>
+	<scope>source.lua</scope>
+<description>No Description Set</description>
+</snippet>

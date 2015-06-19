@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetPhysicalArmorValue()]]></content>
+	<tabTrigger>GetPhysicalArmorValue</tabTrigger>
+	<scope>source.lua</scope>
+<description>Hero armor is affected by attributes.</description>
+</snippet>

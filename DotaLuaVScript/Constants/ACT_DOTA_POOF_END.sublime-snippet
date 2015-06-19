@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ACT_DOTA_POOF_END]]></content>
+	<tabTrigger>ACT_DOTA_POOF_END</tabTrigger>
+	<scope>source.lua</scope>
+<description>1603</description>
+</snippet>

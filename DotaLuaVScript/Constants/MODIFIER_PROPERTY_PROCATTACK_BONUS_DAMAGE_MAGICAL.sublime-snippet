@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MODIFIER_PROPERTY_PROCATTACK_BONUS_DAMAGE_MAGICAL]]></content>
+	<tabTrigger>MODIFIER_PROPERTY_PROCATTACK_BONUS_DAMAGE_MAGICAL</tabTrigger>
+	<scope>source.lua</scope>
+<description>4</description>
+</snippet>

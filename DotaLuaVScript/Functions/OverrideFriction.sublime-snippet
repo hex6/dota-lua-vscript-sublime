@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OverrideFriction(${1:float duration}, ${2:float friction})]]></content>
+	<tabTrigger>OverrideFriction</tabTrigger>
+	<scope>source.lua</scope>
+<description>Takes duration, value for a temporary override</description>
+</snippet>

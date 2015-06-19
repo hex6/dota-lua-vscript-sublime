@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetTopBarTeamValuesOverride()]]></content>
+	<tabTrigger>GetTopBarTeamValuesOverride</tabTrigger>
+	<scope>source.lua</scope>
+<description>Override the values of the team values on the top game bar.</description>
+</snippet>

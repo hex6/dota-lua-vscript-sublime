@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PickupDroppedItem(${1:handle hItem})]]></content>
+	<tabTrigger>PickupDroppedItem</tabTrigger>
+	<scope>source.lua</scope>
+<description>Pick up a dropped item.</description>
+</snippet>

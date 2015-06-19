@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ACT_DOTA_SHARPEN_WEAPON]]></content>
+	<tabTrigger>ACT_DOTA_SHARPEN_WEAPON</tabTrigger>
+	<scope>source.lua</scope>
+<description>1637</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ReplaceHeroWith(${1:int iPlayerID}, ${2:string pszHeroClass}, ${3:int nGold}, ${4:int nXP})]]></content>
+	<tabTrigger>ReplaceHeroWith</tabTrigger>
+	<scope>source.lua</scope>
+<description>(playerID, heroClassName, gold, XP) - replaces the player's hero with a new one of the specified class, gold and XP</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetPlayerID()]]></content>
+	<tabTrigger>GetPlayerID</tabTrigger>
+	<scope>source.lua</scope>
+<description>Returns player ID of the player owning this hero</description>
+</snippet>

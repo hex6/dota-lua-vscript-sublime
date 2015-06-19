@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ApplyLocalAngularVelocityImpulse(${1:Vector angImpulse})]]></content>
+	<tabTrigger>ApplyLocalAngularVelocityImpulse</tabTrigger>
+	<scope>source.lua</scope>
+<description>Apply an Ang Velocity Impulse</description>
+</snippet>

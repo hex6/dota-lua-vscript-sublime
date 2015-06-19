@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DynamicHud_Destroy(${1:int int_1}, ${2:string string_2})]]></content>
+	<tabTrigger>DynamicHud_Destroy</tabTrigger>
+	<scope>source.lua</scope>
+<description>Destroy a custom hud element ( int PlayerID /*-1 means everyone*/, string ElementID )</description>
+</snippet>

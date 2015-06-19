@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ModifyGold(${1:int playerID}, ${2:int goldAmmt}, ${3:bool reliable}, ${4:int nReason})]]></content>
+	<tabTrigger>ModifyGold</tabTrigger>
+	<scope>source.lua</scope>
+<description>No Description Set</description>
+</snippet>

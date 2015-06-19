@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetCustomBuybackCooldownEnabled()]]></content>
+	<tabTrigger>GetCustomBuybackCooldownEnabled</tabTrigger>
+	<scope>source.lua</scope>
+<description>Turns on capability to define custom buyback cooldowns.</description>
+</snippet>

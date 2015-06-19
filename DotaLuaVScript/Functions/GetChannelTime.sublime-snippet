@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetChannelTime()]]></content>
+	<tabTrigger>GetChannelTime</tabTrigger>
+	<scope>source.lua</scope>
+<description>Return the channel time of this ability.</description>
+</snippet>

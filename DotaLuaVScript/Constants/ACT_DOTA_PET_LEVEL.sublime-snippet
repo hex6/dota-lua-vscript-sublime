@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ACT_DOTA_PET_LEVEL]]></content>
+	<tabTrigger>ACT_DOTA_PET_LEVEL</tabTrigger>
+	<scope>source.lua</scope>
+<description>1701</description>
+</snippet>

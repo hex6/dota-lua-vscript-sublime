@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetCustomCastErrorTarget(${1:handle hTarget})]]></content>
+	<tabTrigger>GetCustomCastErrorTarget</tabTrigger>
+	<scope>source.lua</scope>
+<description>(HSCRIPT hTarget) Return the error string of a failed command on a target.</description>
+</snippet>

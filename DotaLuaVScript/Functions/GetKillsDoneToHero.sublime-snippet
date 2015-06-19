@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetKillsDoneToHero(${1:int attackerPlayerID}, ${2:int victimPlayerID})]]></content>
+	<tabTrigger>GetKillsDoneToHero</tabTrigger>
+	<scope>source.lua</scope>
+<description>Returns the number of times the attacker (first argument) has killed the victim (second argument)</description>
+</snippet>

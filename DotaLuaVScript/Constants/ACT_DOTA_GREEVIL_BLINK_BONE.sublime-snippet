@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ACT_DOTA_GREEVIL_BLINK_BONE]]></content>
+	<tabTrigger>ACT_DOTA_GREEVIL_BLINK_BONE</tabTrigger>
+	<scope>source.lua</scope>
+<description>1621</description>
+</snippet>

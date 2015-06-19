@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SetMaximumGoldBounty(${1:int iGoldBountyMax})]]></content>
+	<tabTrigger>SetMaximumGoldBounty</tabTrigger>
+	<scope>source.lua</scope>
+<description>Set the maximum gold bounty for this unit.</description>
+</snippet>

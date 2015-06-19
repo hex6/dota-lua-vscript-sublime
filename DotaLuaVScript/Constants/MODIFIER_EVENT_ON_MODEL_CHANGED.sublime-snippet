@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MODIFIER_EVENT_ON_MODEL_CHANGED]]></content>
+	<tabTrigger>MODIFIER_EVENT_ON_MODEL_CHANGED</tabTrigger>
+	<scope>source.lua</scope>
+<description>131</description>
+</snippet>

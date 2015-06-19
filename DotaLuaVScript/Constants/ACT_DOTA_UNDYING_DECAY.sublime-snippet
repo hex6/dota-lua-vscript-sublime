@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ACT_DOTA_UNDYING_DECAY]]></content>
+	<tabTrigger>ACT_DOTA_UNDYING_DECAY</tabTrigger>
+	<scope>source.lua</scope>
+<description>1666</description>
+</snippet>

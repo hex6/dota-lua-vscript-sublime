@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SpawnEntity()]]></content>
+	<tabTrigger>SpawnEntity</tabTrigger>
+	<scope>source.lua</scope>
+<description>Create an entity at the location of the maker</description>
+</snippet>

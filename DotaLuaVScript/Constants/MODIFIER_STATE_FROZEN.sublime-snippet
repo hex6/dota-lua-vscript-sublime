@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MODIFIER_STATE_FROZEN]]></content>
+	<tabTrigger>MODIFIER_STATE_FROZEN</tabTrigger>
+	<scope>source.lua</scope>
+<description>17</description>
+</snippet>

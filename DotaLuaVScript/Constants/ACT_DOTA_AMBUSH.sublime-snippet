@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ACT_DOTA_AMBUSH]]></content>
+	<tabTrigger>ACT_DOTA_AMBUSH</tabTrigger>
+	<scope>source.lua</scope>
+<description>1627</description>
+</snippet>

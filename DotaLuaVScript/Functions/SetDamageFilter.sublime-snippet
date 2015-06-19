@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SetDamageFilter(${1:handle hFunction}, ${2:handle hContext})]]></content>
+	<tabTrigger>SetDamageFilter</tabTrigger>
+	<scope>source.lua</scope>
+<description>Set a filter function to control the behavior when a unit takes damage. (Modify the table and Return true to use new values, return false to cancel the event)</description>
+</snippet>

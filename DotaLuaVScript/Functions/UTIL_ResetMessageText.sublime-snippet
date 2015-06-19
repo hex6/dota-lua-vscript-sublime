@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UTIL_ResetMessageText(${1:int playerId})]]></content>
+	<tabTrigger>UTIL_ResetMessageText</tabTrigger>
+	<scope>source.lua</scope>
+<description>Resets the message text for the player</description>
+</snippet>

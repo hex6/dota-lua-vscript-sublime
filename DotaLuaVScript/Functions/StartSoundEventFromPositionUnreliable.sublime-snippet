@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[StartSoundEventFromPositionUnreliable(${1:string string_1}, ${2:Vector Vector_2})]]></content>
+	<tabTrigger>StartSoundEventFromPositionUnreliable</tabTrigger>
+	<scope>source.lua</scope>
+<description>Start a sound event from position with optional delivery</description>
+</snippet>

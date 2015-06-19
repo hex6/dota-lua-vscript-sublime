@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ACT_DOTA_TINKER_REARM1]]></content>
+	<tabTrigger>ACT_DOTA_TINKER_REARM1</tabTrigger>
+	<scope>source.lua</scope>
+<description>1555</description>
+</snippet>

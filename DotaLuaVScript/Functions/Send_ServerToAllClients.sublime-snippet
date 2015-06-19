@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Send_ServerToAllClients(${1:string string_1}, ${2:handle handle_2})]]></content>
+	<tabTrigger>Send_ServerToAllClients</tabTrigger>
+	<scope>source.lua</scope>
+<description>( string EventName, table EventData )</description>
+</snippet>

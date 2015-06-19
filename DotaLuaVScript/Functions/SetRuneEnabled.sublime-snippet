@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SetRuneEnabled(${1:int nRune}, ${2:bool bEnabled})]]></content>
+	<tabTrigger>SetRuneEnabled</tabTrigger>
+	<scope>source.lua</scope>
+<description>Set if a given type of rune is enabled.</description>
+</snippet>

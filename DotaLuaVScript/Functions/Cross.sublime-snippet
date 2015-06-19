@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Cross(${1:Vector Vector_1}, ${2:float float_2}, ${3:int int_3}, ${4:int int_4}, ${5:int int_5}, ${6:int int_6}, ${7:bool bool_7}, ${8:float float_8})]]></content>
+	<tabTrigger>Cross</tabTrigger>
+	<scope>source.lua</scope>
+<description>Draws a screen-aligned cross. Specify origin in world space.</description>
+</snippet>

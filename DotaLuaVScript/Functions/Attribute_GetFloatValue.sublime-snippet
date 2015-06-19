@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Attribute_GetFloatValue(${1:string pName}, ${2:float flDefault})]]></content>
+	<tabTrigger>Attribute_GetFloatValue</tabTrigger>
+	<scope>source.lua</scope>
+<description>Get float value for an entity attribute.</description>
+</snippet>

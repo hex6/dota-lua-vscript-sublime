@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CreateLinearProjectile(${1:table infoTable})]]></content>
+	<tabTrigger>CreateLinearProjectile</tabTrigger>
+	<scope>source.lua</scope>
+<description>Creates a linear projectile and returns the projectile ID</description>
+</snippet>

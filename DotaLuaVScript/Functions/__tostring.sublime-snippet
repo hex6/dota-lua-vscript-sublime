@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[__tostring()]]></content>
+	<tabTrigger>__tostring</tabTrigger>
+	<scope>source.lua</scope>
+<description>Overloaded .. Converts vectors to strings</description>
+</snippet>

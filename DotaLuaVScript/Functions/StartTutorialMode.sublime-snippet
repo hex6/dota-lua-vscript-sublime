@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[StartTutorialMode()]]></content>
+	<tabTrigger>StartTutorialMode</tabTrigger>
+	<scope>source.lua</scope>
+<description>Initialize Tutorial Mode</description>
+</snippet>

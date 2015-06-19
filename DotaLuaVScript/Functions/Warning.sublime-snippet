@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Warning(${1:string string_1})]]></content>
+	<tabTrigger>Warning</tabTrigger>
+	<scope>source.lua</scope>
+<description>Print a warning</description>
+</snippet>

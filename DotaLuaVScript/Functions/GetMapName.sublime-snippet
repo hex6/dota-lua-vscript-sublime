@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetMapName()]]></content>
+	<tabTrigger>GetMapName</tabTrigger>
+	<scope>source.lua</scope>
+<description>Get the name of the map.</description>
+</snippet>

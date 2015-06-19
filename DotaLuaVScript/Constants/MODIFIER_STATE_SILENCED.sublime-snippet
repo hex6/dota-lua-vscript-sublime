@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MODIFIER_STATE_SILENCED]]></content>
+	<tabTrigger>MODIFIER_STATE_SILENCED</tabTrigger>
+	<scope>source.lua</scope>
+<description>3</description>
+</snippet>

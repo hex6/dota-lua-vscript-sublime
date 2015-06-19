@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CreatureLevelUp(${1:int iLevels})]]></content>
+	<tabTrigger>CreatureLevelUp</tabTrigger>
+	<scope>source.lua</scope>
+<description>Level the creature up by the specified number of levels</description>
+</snippet>

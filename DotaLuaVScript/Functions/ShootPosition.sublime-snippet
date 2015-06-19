@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ShootPosition(${1:int nHand})]]></content>
+	<tabTrigger>ShootPosition</tabTrigger>
+	<scope>source.lua</scope>
+<description>Returns the shoot position eyes (or hand in VR).</description>
+</snippet>

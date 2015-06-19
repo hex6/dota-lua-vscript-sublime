@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CreateEffect(${1:handle handle_1})]]></content>
+	<tabTrigger>CreateEffect</tabTrigger>
+	<scope>source.lua</scope>
+<description>Pass ''table'' - Inputs: entity, effect</description>
+</snippet>

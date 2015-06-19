@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SetLightGroup(${1:string pLightGroup})]]></content>
+	<tabTrigger>SetLightGroup</tabTrigger>
+	<scope>source.lua</scope>
+<description>SetLightGroup( string ): Sets the light group of the entity.</description>
+</snippet>

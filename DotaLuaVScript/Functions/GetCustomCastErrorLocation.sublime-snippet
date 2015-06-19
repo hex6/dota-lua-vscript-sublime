@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetCustomCastErrorLocation(${1:Vector vLocation})]]></content>
+	<tabTrigger>GetCustomCastErrorLocation</tabTrigger>
+	<scope>source.lua</scope>
+<description>(Vector vLocation) Return the error string of a failed command on a location.</description>
+</snippet>

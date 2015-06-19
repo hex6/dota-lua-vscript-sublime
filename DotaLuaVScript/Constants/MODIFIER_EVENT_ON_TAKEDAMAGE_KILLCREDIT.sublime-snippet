@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MODIFIER_EVENT_ON_TAKEDAMAGE_KILLCREDIT]]></content>
+	<tabTrigger>MODIFIER_EVENT_ON_TAKEDAMAGE_KILLCREDIT</tabTrigger>
+	<scope>source.lua</scope>
+<description>127</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SetRecommendedItemsDisabled(${1:bool bDisabled})]]></content>
+	<tabTrigger>SetRecommendedItemsDisabled</tabTrigger>
+	<scope>source.lua</scope>
+<description>Turn the panel for showing recommended items at the shop off/on. Takes a ''bool''.</description>
+</snippet>

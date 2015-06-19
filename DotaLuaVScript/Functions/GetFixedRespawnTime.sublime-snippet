@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetFixedRespawnTime()]]></content>
+	<tabTrigger>GetFixedRespawnTime</tabTrigger>
+	<scope>source.lua</scope>
+<description>Gets the fixed respawn time.</description>
+</snippet>

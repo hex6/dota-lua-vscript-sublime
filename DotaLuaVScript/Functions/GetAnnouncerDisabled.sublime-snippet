@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetAnnouncerDisabled()]]></content>
+	<tabTrigger>GetAnnouncerDisabled</tabTrigger>
+	<scope>source.lua</scope>
+<description>Are in-game announcers disabled?</description>
+</snippet>

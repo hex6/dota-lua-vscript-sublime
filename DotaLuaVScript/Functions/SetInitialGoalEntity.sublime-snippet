@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SetInitialGoalEntity(${1:handle hGoal})]]></content>
+	<tabTrigger>SetInitialGoalEntity</tabTrigger>
+	<scope>source.lua</scope>
+<description>Sets the initial waypoint goal for this NPC</description>
+</snippet>

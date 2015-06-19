@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ACT_DOTA_SAND_KING_BURROW_IN]]></content>
+	<tabTrigger>ACT_DOTA_SAND_KING_BURROW_IN</tabTrigger>
+	<scope>source.lua</scope>
+<description>1568</description>
+</snippet>

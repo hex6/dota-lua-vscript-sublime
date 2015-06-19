@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetPlayerOwner()]]></content>
+	<tabTrigger>GetPlayerOwner</tabTrigger>
+	<scope>source.lua</scope>
+<description>Returns the player that owns this unit</description>
+</snippet>

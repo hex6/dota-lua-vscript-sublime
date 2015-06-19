@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MODIFIER_STATE_TRUESIGHT_IMMUNE]]></content>
+	<tabTrigger>MODIFIER_STATE_TRUESIGHT_IMMUNE</tabTrigger>
+	<scope>source.lua</scope>
+<description>33</description>
+</snippet>

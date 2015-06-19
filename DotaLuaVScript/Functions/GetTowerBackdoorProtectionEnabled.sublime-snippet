@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetTowerBackdoorProtectionEnabled()]]></content>
+	<tabTrigger>GetTowerBackdoorProtectionEnabled</tabTrigger>
+	<scope>source.lua</scope>
+<description>Enables/Disables tower backdoor protection.</description>
+</snippet>

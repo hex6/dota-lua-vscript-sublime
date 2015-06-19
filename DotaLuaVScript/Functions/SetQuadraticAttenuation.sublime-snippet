@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SetQuadraticAttenuation(${1:float flAtten})]]></content>
+	<tabTrigger>SetQuadraticAttenuation</tabTrigger>
+	<scope>source.lua</scope>
+<description>Set light quadratic attenuation value</description>
+</snippet>

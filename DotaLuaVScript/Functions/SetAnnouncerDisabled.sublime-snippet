@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SetAnnouncerDisabled(${1:bool enabled})]]></content>
+	<tabTrigger>SetAnnouncerDisabled</tabTrigger>
+	<scope>source.lua</scope>
+<description>Disables the dota announcer</description>
+</snippet>

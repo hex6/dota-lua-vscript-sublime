@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PATTACH_RENDERORIGIN_FOLLOW]]></content>
+	<tabTrigger>PATTACH_RENDERORIGIN_FOLLOW</tabTrigger>
+	<scope>source.lua</scope>
+<description>10</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MODIFIER_EVENT_ON_RESPAWN]]></content>
+	<tabTrigger>MODIFIER_EVENT_ON_RESPAWN</tabTrigger>
+	<scope>source.lua</scope>
+<description>120</description>
+</snippet>

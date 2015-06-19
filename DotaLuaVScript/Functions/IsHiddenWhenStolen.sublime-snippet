@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IsHiddenWhenStolen()]]></content>
+	<tabTrigger>IsHiddenWhenStolen</tabTrigger>
+	<scope>source.lua</scope>
+<description>Returns true if this ability is hidden when stolen by Spell Steal.</description>
+</snippet>

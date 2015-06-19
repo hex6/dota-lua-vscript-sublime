@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AddItemDrop(${1:handle hDropData})]]></content>
+	<tabTrigger>AddItemDrop</tabTrigger>
+	<scope>source.lua</scope>
+<description>Add the specified item drop to this creature</description>
+</snippet>

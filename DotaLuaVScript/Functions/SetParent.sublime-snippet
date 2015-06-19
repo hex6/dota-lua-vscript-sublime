@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SetParent(${1:handle hParent}, ${2:string pAttachmentname})]]></content>
+	<tabTrigger>SetParent</tabTrigger>
+	<scope>source.lua</scope>
+<description>Set the parent for this entity.</description>
+</snippet>

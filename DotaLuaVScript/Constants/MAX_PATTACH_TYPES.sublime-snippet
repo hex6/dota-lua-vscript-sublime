@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MAX_PATTACH_TYPES]]></content>
+	<tabTrigger>MAX_PATTACH_TYPES</tabTrigger>
+	<scope>source.lua</scope>
+<description>13</description>
+</snippet>

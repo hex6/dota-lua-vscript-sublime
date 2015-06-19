@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetHealth()]]></content>
+	<tabTrigger>GetHealth</tabTrigger>
+	<scope>source.lua</scope>
+<description>Get the health of this unit.</description>
+</snippet>

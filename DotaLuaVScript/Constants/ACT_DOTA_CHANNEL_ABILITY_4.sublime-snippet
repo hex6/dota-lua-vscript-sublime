@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ACT_DOTA_CHANNEL_ABILITY_4]]></content>
+	<tabTrigger>ACT_DOTA_CHANNEL_ABILITY_4</tabTrigger>
+	<scope>source.lua</scope>
+<description>1523</description>
+</snippet>

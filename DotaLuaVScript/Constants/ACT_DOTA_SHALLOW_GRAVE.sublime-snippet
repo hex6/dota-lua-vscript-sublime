@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ACT_DOTA_SHALLOW_GRAVE]]></content>
+	<tabTrigger>ACT_DOTA_SHALLOW_GRAVE</tabTrigger>
+	<scope>source.lua</scope>
+<description>1670</description>
+</snippet>

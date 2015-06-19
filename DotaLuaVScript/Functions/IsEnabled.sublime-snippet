@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IsEnabled()]]></content>
+	<tabTrigger>IsEnabled</tabTrigger>
+	<scope>source.lua</scope>
+<description>Returns whether the obstruction is currently active</description>
+</snippet>

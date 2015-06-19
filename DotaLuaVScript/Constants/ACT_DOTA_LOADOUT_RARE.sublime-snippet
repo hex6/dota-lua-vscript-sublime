@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ACT_DOTA_LOADOUT_RARE]]></content>
+	<tabTrigger>ACT_DOTA_LOADOUT_RARE</tabTrigger>
+	<scope>source.lua</scope>
+<description>1683</description>
+</snippet>

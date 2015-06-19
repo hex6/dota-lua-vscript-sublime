@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SetCameraTarget(${1:int nPlayerID}, ${2:handle hTarget})]]></content>
+	<tabTrigger>SetCameraTarget</tabTrigger>
+	<scope>source.lua</scope>
+<description>(playerID, entity) - force the given player's camera to follow the given entity</description>
+</snippet>

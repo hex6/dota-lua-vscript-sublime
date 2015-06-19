@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ACT_DOTA_MEDUSA_STONE_GAZE]]></content>
+	<tabTrigger>ACT_DOTA_MEDUSA_STONE_GAZE</tabTrigger>
+	<scope>source.lua</scope>
+<description>1607</description>
+</snippet>

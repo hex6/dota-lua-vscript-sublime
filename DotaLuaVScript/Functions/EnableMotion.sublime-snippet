@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EnableMotion()]]></content>
+	<tabTrigger>EnableMotion</tabTrigger>
+	<scope>source.lua</scope>
+<description>Enable motion for the prop</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MoveToNPCToGiveItem(${1:handle npc}, ${2:handle item})]]></content>
+	<tabTrigger>MoveToNPCToGiveItem</tabTrigger>
+	<scope>source.lua</scope>
+<description>Give an item to another unit.</description>
+</snippet>

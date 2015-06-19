@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SetQuestName(${1:string string_1})]]></content>
+	<tabTrigger>SetQuestName</tabTrigger>
+	<scope>source.lua</scope>
+<description>Set the current quest name.</description>
+</snippet>

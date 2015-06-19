@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetConceptRecipientType()]]></content>
+	<tabTrigger>GetConceptRecipientType</tabTrigger>
+	<scope>source.lua</scope>
+<description>Return who hears speech when this spell is cast.</description>
+</snippet>

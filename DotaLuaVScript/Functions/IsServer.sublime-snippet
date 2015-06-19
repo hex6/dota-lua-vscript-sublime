@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IsServer()]]></content>
+	<tabTrigger>IsServer</tabTrigger>
+	<scope>source.lua</scope>
+<description>Returns true if this is lua running from the server.dll.</description>
+</snippet>

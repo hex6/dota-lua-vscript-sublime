@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ACT_DOTA_NIAN_PIN_END]]></content>
+	<tabTrigger>ACT_DOTA_NIAN_PIN_END</tabTrigger>
+	<scope>source.lua</scope>
+<description>1657</description>
+</snippet>

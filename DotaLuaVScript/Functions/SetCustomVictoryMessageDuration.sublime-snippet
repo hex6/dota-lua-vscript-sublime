@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SetCustomVictoryMessageDuration(${1:float duration})]]></content>
+	<tabTrigger>SetCustomVictoryMessageDuration</tabTrigger>
+	<scope>source.lua</scope>
+<description>Sets how long the custom victory message should last</description>
+</snippet>

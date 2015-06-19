@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MODIFIER_STATE_NOT_ON_MINIMAP]]></content>
+	<tabTrigger>MODIFIER_STATE_NOT_ON_MINIMAP</tabTrigger>
+	<scope>source.lua</scope>
+<description>19</description>
+</snippet>

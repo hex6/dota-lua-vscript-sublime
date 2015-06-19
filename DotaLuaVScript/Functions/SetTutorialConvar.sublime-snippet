@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SetTutorialConvar(${1:string string_1}, ${2:string string_2})]]></content>
+	<tabTrigger>SetTutorialConvar</tabTrigger>
+	<scope>source.lua</scope>
+<description>Set a tutorial convar</description>
+</snippet>

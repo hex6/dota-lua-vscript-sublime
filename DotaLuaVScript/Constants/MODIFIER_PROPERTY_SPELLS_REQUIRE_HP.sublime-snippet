@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MODIFIER_PROPERTY_SPELLS_REQUIRE_HP]]></content>
+	<tabTrigger>MODIFIER_PROPERTY_SPELLS_REQUIRE_HP</tabTrigger>
+	<scope>source.lua</scope>
+<description>140</description>
+</snippet>

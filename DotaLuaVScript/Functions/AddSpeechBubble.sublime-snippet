@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AddSpeechBubble(${1:int iBubble}, ${2:string pszSpeech}, ${3:float flDuration}, ${4:unsigned unOffsetX}, ${5:unsigned unOffsetY})]]></content>
+	<tabTrigger>AddSpeechBubble</tabTrigger>
+	<scope>source.lua</scope>
+<description>Add a speech bubble(1-4 live at a time) to this NPC.</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UF_FAIL_INVALID_LOCATION]]></content>
+	<tabTrigger>UF_FAIL_INVALID_LOCATION</tabTrigger>
+	<scope>source.lua</scope>
+<description>25</description>
+</snippet>

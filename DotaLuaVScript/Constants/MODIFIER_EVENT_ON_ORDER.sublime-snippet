@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MODIFIER_EVENT_ON_ORDER]]></content>
+	<tabTrigger>MODIFIER_EVENT_ON_ORDER</tabTrigger>
+	<scope>source.lua</scope>
+<description>106</description>
+</snippet>

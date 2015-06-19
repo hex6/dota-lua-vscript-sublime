@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MODIFIER_EVENT_ON_MANA_GAINED]]></content>
+	<tabTrigger>MODIFIER_EVENT_ON_MANA_GAINED</tabTrigger>
+	<scope>source.lua</scope>
+<description>126</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnUpgrade()]]></content>
+	<tabTrigger>OnUpgrade</tabTrigger>
+	<scope>source.lua</scope>
+<description>Ability gained a level.</description>
+</snippet>

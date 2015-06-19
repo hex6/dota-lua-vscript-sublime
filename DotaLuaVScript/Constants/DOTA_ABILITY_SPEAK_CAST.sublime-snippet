@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DOTA_ABILITY_SPEAK_CAST]]></content>
+	<tabTrigger>DOTA_ABILITY_SPEAK_CAST</tabTrigger>
+	<scope>source.lua</scope>
+<description>1</description>
+</snippet>

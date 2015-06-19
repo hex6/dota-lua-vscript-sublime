@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SetRenderColor(${1:int r}, ${2:int g}, ${3:int b})]]></content>
+	<tabTrigger>SetRenderColor</tabTrigger>
+	<scope>source.lua</scope>
+<description>SetRenderColor( r, g, b ): Sets the render color of the entity.</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MODIFIER_PROPERTY_MOVESPEED_ABSOLUTE_MIN]]></content>
+	<tabTrigger>MODIFIER_PROPERTY_MOVESPEED_ABSOLUTE_MIN</tabTrigger>
+	<scope>source.lua</scope>
+<description>16</description>
+</snippet>

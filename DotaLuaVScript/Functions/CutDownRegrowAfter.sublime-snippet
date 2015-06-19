@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CutDownRegrowAfter(${1:float RegrowAfter}, ${2:int TeamNumberKnownTo })]]></content>
+	<tabTrigger>CutDownRegrowAfter</tabTrigger>
+	<scope>source.lua</scope>
+<description>Cuts down this tree.  Regrow it after some time</description>
+</snippet>

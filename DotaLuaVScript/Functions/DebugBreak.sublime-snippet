@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DebugBreak()]]></content>
+	<tabTrigger>DebugBreak</tabTrigger>
+	<scope>source.lua</scope>
+<description>Breaks in the debugger</description>
+</snippet>

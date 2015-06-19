@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DebugDrawBox(${1:Vector origin}, ${2:Vector min}, ${3:Vector max}, ${4:int r}, ${5:int g}, ${6:int b}, ${7:int a}, ${8:float duration})]]></content>
+	<tabTrigger>DebugDrawBox</tabTrigger>
+	<scope>source.lua</scope>
+<description>Draw a debug overlay box</description>
+</snippet>

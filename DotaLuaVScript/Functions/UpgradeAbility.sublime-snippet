@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UpgradeAbility(${1:handle hAbility})]]></content>
+	<tabTrigger>UpgradeAbility</tabTrigger>
+	<scope>source.lua</scope>
+<description>This upgrades the passed ability if it exists and the hero has enough ability point's.</description>
+</snippet>

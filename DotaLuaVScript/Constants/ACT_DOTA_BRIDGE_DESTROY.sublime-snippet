@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ACT_DOTA_BRIDGE_DESTROY]]></content>
+	<tabTrigger>ACT_DOTA_BRIDGE_DESTROY</tabTrigger>
+	<scope>source.lua</scope>
+<description>1640</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IsCourier()]]></content>
+	<tabTrigger>IsCourier</tabTrigger>
+	<scope>source.lua</scope>
+<description>Is this unit a courier?</description>
+</snippet>

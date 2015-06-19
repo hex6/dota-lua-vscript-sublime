@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CalcDistanceBetweenEntityOBB(${1:handle handle_1}, ${2:handle handle_2})]]></content>
+	<tabTrigger>CalcDistanceBetweenEntityOBB</tabTrigger>
+	<scope>source.lua</scope>
+<description>Compute the distance between two entity OBB. A negative return value indicates an input error. A return value of zero indicates that the OBBs are overlapping.</description>
+</snippet>

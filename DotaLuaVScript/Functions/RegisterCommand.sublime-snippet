@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RegisterCommand(${1:string variableName}, ${2:handle function}, ${3:string helpText}, ${4:int flags})]]></content>
+	<tabTrigger>RegisterCommand</tabTrigger>
+	<scope>source.lua</scope>
+<description>RegisterCommand(name, fn, helpString, flags) : register a console command.</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Texture(${1:string string_1}, ${2:Vector2D Vector2D_2}, ${3:Vector2D Vector2D_3}, ${4:int int_4}, ${5:int int_5}, ${6:int int_6}, ${7:int int_7}, ${8:Vector2D Vector2D_8}, ${9:Vector2D Vector2D_9}, ${10:float float_10})]]></content>
+	<tabTrigger>Texture</tabTrigger>
+	<scope>source.lua</scope>
+<description>Draws a screen-space texture. Coordinates are in pixels.</description>
+</snippet>

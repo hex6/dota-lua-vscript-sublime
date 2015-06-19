@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Length2D()]]></content>
+	<tabTrigger>Length2D</tabTrigger>
+	<scope>source.lua</scope>
+<description>Length of the Vector in the XY plane</description>
+</snippet>

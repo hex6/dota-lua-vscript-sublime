@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MODIFIER_PROPERTY_PRE_ATTACK]]></content>
+	<tabTrigger>MODIFIER_PROPERTY_PRE_ATTACK</tabTrigger>
+	<scope>source.lua</scope>
+<description>7</description>
+</snippet>

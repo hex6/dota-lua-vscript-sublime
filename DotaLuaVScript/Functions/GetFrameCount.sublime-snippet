@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetFrameCount()]]></content>
+	<tabTrigger>GetFrameCount</tabTrigger>
+	<scope>source.lua</scope>
+<description>Returns the engines current frame count</description>
+</snippet>

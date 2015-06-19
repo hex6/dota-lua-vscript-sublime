@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SetPhysicalArmorBaseValue(${1:float flPhysicalArmorValue})]]></content>
+	<tabTrigger>SetPhysicalArmorBaseValue</tabTrigger>
+	<scope>source.lua</scope>
+<description>Sets base physical armor value.</description>
+</snippet>

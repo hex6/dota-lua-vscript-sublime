@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DAMAGE_TYPE_MAGICAL]]></content>
+	<tabTrigger>DAMAGE_TYPE_MAGICAL</tabTrigger>
+	<scope>source.lua</scope>
+<description>2</description>
+</snippet>

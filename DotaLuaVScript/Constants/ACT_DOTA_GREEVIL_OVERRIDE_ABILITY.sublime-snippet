@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ACT_DOTA_GREEVIL_OVERRIDE_ABILITY]]></content>
+	<tabTrigger>ACT_DOTA_GREEVIL_OVERRIDE_ABILITY</tabTrigger>
+	<scope>source.lua</scope>
+<description>1618</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DOTA_ATTRIBUTE_AGILITY]]></content>
+	<tabTrigger>DOTA_ATTRIBUTE_AGILITY</tabTrigger>
+	<scope>source.lua</scope>
+<description>1</description>
+</snippet>
