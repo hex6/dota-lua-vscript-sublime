@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IsGamePaused()]]></content>
+	<tabTrigger>IsGamePaused</tabTrigger>
+	<scope>source.lua</scope>
+<description>Returns whether the game is paused.</description>
+</snippet>

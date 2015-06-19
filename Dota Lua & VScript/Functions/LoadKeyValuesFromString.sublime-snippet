@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LoadKeyValuesFromString(${1:string string_1})]]></content>
+	<tabTrigger>LoadKeyValuesFromString</tabTrigger>
+	<scope>source.lua</scope>
+<description>Creates a ''table'' from the specified keyvalues ''string''</description>
+</snippet>

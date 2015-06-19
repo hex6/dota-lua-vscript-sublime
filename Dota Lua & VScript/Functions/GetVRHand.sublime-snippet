@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetVRHand(${1:int nHandID})]]></content>
+	<tabTrigger>GetVRHand</tabTrigger>
+	<scope>source.lua</scope>
+<description>Get VR hand by ID</description>
+</snippet>

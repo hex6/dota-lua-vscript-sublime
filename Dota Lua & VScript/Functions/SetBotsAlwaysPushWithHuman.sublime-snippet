@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SetBotsAlwaysPushWithHuman(${1:bool bAlwaysPush})]]></content>
+	<tabTrigger>SetBotsAlwaysPushWithHuman</tabTrigger>
+	<scope>source.lua</scope>
+<description>Set if the bots should try their best to push with a human player.</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ACT_DOTA_SHRUG]]></content>
+	<tabTrigger>ACT_DOTA_SHRUG</tabTrigger>
+	<scope>source.lua</scope>
+<description>1633</description>
+</snippet>

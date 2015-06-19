@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MODIFIER_PROPERTY_HEALTH_REGEN_CONSTANT]]></content>
+	<tabTrigger>MODIFIER_PROPERTY_HEALTH_REGEN_CONSTANT</tabTrigger>
+	<scope>source.lua</scope>
+<description>49</description>
+</snippet>

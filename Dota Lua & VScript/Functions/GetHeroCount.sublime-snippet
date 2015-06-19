@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetHeroCount()]]></content>
+	<tabTrigger>GetHeroCount</tabTrigger>
+	<scope>source.lua</scope>
+<description>Returns the number of heroes in the world</description>
+</snippet>

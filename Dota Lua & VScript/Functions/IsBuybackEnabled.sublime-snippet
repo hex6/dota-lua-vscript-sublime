@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IsBuybackEnabled()]]></content>
+	<tabTrigger>IsBuybackEnabled</tabTrigger>
+	<scope>source.lua</scope>
+<description>Enables or disables buyback completely.</description>
+</snippet>

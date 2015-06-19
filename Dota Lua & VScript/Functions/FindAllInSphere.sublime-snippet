@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[FindAllInSphere(${1:Vector origin}, ${2:float maxRadius})]]></content>
+	<tabTrigger>FindAllInSphere</tabTrigger>
+	<scope>source.lua</scope>
+<description>Find entities within a radius.</description>
+</snippet>

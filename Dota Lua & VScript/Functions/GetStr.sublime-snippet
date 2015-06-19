@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetStr(${1:string variableName})]]></content>
+	<tabTrigger>GetStr</tabTrigger>
+	<scope>source.lua</scope>
+<description>GetStr(name) : returns the convar as a ''string''. May return ''nil'' if no such convar.</description>
+</snippet>

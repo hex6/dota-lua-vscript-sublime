@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[HasItemInInventory(${1:string pItemName})]]></content>
+	<tabTrigger>HasItemInInventory</tabTrigger>
+	<scope>source.lua</scope>
+<description>See whether this unit has an item by name.</description>
+</snippet>

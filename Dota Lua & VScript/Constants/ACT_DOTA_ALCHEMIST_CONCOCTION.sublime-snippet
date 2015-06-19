@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ACT_DOTA_ALCHEMIST_CONCOCTION]]></content>
+	<tabTrigger>ACT_DOTA_ALCHEMIST_CONCOCTION</tabTrigger>
+	<scope>source.lua</scope>
+<description>1573</description>
+</snippet>

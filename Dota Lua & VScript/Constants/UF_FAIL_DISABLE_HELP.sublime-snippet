@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UF_FAIL_DISABLE_HELP]]></content>
+	<tabTrigger>UF_FAIL_DISABLE_HELP</tabTrigger>
+	<scope>source.lua</scope>
+<description>26</description>
+</snippet>

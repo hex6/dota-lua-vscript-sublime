@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IsHornAlive()]]></content>
+	<tabTrigger>IsHornAlive</tabTrigger>
+	<scope>source.lua</scope>
+<description>Is the Nian's horn broken?</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MODIFIER_PROPERTY_OVERRIDE_ANIMATION_WEIGHT]]></content>
+	<tabTrigger>MODIFIER_PROPERTY_OVERRIDE_ANIMATION_WEIGHT</tabTrigger>
+	<scope>source.lua</scope>
+<description>75</description>
+</snippet>

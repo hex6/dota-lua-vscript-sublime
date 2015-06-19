@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SetCustomBuybackCost(${1:int iPlayerID}, ${2:int iGoldCost})]]></content>
+	<tabTrigger>SetCustomBuybackCost</tabTrigger>
+	<scope>source.lua</scope>
+<description>Set the buyback cost for this player.</description>
+</snippet>

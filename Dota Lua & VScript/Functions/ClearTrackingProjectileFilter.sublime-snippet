@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ClearTrackingProjectileFilter()]]></content>
+	<tabTrigger>ClearTrackingProjectileFilter</tabTrigger>
+	<scope>source.lua</scope>
+<description>Clear the script filter that controls when tracking projectiles are launched.</description>
+</snippet>

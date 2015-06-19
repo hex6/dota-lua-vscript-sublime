@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SetOverlayHealthBarUnit(${1:handle unit}, ${2:int style})]]></content>
+	<tabTrigger>SetOverlayHealthBarUnit</tabTrigger>
+	<scope>source.lua</scope>
+<description>Show this unit's health on the overlay health bar</description>
+</snippet>

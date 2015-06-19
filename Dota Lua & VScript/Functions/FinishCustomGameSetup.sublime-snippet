@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[FinishCustomGameSetup()]]></content>
+	<tabTrigger>FinishCustomGameSetup</tabTrigger>
+	<scope>source.lua</scope>
+<description>Indicate that the custom game setup phase is complete, and advance to the game.</description>
+</snippet>

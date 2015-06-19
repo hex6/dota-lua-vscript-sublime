@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MODIFIER_PROPERTY_MAGICAL_RESISTANCE_ITEM_UNIQUE]]></content>
+	<tabTrigger>MODIFIER_PROPERTY_MAGICAL_RESISTANCE_ITEM_UNIQUE</tabTrigger>
+	<scope>source.lua</scope>
+<description>42</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetPaddedCollisionRadius()]]></content>
+	<tabTrigger>GetPaddedCollisionRadius</tabTrigger>
+	<scope>source.lua</scope>
+<description>Get the collision hull radius (including padding) of this NPC</description>
+</snippet>

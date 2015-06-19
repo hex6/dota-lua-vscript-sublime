@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MODIFIER_PROPERTY_BASEATTACK_BONUSDAMAGE]]></content>
+	<tabTrigger>MODIFIER_PROPERTY_BASEATTACK_BONUSDAMAGE</tabTrigger>
+	<scope>source.lua</scope>
+<description>2</description>
+</snippet>

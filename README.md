@@ -1,2 +1,3 @@
-# dota-lua-vscript
-Dota Lua &amp; VScript
+# Dota Lua &amp; VScript
+
+Code completion snippets for Dota 2 mod development.

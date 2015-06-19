@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SetMinimumGoldBounty(${1:int iGoldBountyMin})]]></content>
+	<tabTrigger>SetMinimumGoldBounty</tabTrigger>
+	<scope>source.lua</scope>
+<description>Set the minimum gold bounty for this unit.</description>
+</snippet>

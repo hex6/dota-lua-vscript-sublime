@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CreateLocationTask(${1:Vector Vector_1})]]></content>
+	<tabTrigger>CreateLocationTask</tabTrigger>
+	<scope>source.lua</scope>
+<description>Add a task to move to a specific location</description>
+</snippet>

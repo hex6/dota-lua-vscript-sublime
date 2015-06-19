@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetHMDAvatar()]]></content>
+	<tabTrigger>GetHMDAvatar</tabTrigger>
+	<scope>source.lua</scope>
+<description>Returns the HMD Avatar entity for this player if it exists.</description>
+</snippet>

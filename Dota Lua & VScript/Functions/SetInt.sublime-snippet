@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SetInt(${1:string string_1}, ${2:int int_2})]]></content>
+	<tabTrigger>SetInt</tabTrigger>
+	<scope>source.lua</scope>
+<description>SetInt(name, val) : sets the value of the convar to the ''int''.</description>
+</snippet>

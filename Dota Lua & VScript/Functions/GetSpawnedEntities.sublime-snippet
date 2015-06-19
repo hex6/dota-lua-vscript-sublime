@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetSpawnedEntities()]]></content>
+	<tabTrigger>GetSpawnedEntities</tabTrigger>
+	<scope>source.lua</scope>
+<description>GetSpawnedEntities() : Get the list of the most recent spawned entities</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ShowMessage(${1:string string_1})]]></content>
+	<tabTrigger>ShowMessage</tabTrigger>
+	<scope>source.lua</scope>
+<description>Print a hud message on all clients</description>
+</snippet>

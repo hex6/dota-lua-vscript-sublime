@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SetOrModifyPlayerGold(${1:int int_1}, ${2:bool bool_2})]]></content>
+	<tabTrigger>SetOrModifyPlayerGold</tabTrigger>
+	<scope>source.lua</scope>
+<description>Set gold amount for the tutorial player. (int) GoldAmount, (bool) true=Set, false=Modify</description>
+</snippet>

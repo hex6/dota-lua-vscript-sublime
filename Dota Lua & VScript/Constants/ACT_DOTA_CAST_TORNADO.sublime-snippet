@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ACT_DOTA_CAST_TORNADO]]></content>
+	<tabTrigger>ACT_DOTA_CAST_TORNADO</tabTrigger>
+	<scope>source.lua</scope>
+<description>1583</description>
+</snippet>

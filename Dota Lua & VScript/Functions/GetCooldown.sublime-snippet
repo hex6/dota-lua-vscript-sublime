@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetCooldown(${1:int iLevel})]]></content>
+	<tabTrigger>GetCooldown</tabTrigger>
+	<scope>source.lua</scope>
+<description>Get the cooldown duration for this ability at a given level, not the amount of cooldown actually left.</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MODIFIER_EVENT_ON_SPENT_MANA]]></content>
+	<tabTrigger>MODIFIER_EVENT_ON_SPENT_MANA</tabTrigger>
+	<scope>source.lua</scope>
+<description>121</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ShowCustomHeaderMessage(${1:string message}, ${2:int player}, ${3:int value}, ${4:float time})]]></content>
+	<tabTrigger>ShowCustomHeaderMessage</tabTrigger>
+	<scope>source.lua</scope>
+<description>Displays a header message from player</description>
+</snippet>

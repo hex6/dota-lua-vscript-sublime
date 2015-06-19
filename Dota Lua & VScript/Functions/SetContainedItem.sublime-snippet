@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SetContainedItem(${1:handle hItem})]]></content>
+	<tabTrigger>SetContainedItem</tabTrigger>
+	<scope>source.lua</scope>
+<description>Set the contained item.</description>
+</snippet>

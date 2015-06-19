@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SetControllableByPlayer(${1:int iIndex}, ${2:bool bSkipAdjustingPosition})]]></content>
+	<tabTrigger>SetControllableByPlayer</tabTrigger>
+	<scope>source.lua</scope>
+<description>Set this unit controllable by the player with the passed ID.</description>
+</snippet>

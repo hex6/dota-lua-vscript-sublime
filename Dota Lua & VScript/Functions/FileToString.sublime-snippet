@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[FileToString(${1:string })]]></content>
+	<tabTrigger>FileToString</tabTrigger>
+	<scope>source.lua</scope>
+<description>Reads a string from a file to send to script</description>
+</snippet>

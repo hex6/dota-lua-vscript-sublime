@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetAttachmentOrigin(${1:int iAttachment})]]></content>
+	<tabTrigger>GetAttachmentOrigin</tabTrigger>
+	<scope>source.lua</scope>
+<description>Get the attachement id's origin ''vector''</description>
+</snippet>

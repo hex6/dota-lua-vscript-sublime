@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MODIFIER_PROPERTY_BONUS_DAY_VISION]]></content>
+	<tabTrigger>MODIFIER_PROPERTY_BONUS_DAY_VISION</tabTrigger>
+	<scope>source.lua</scope>
+<description>80</description>
+</snippet>

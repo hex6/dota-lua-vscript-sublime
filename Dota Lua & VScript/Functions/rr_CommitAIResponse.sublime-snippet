@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[rr_CommitAIResponse(${1:handle handle_1}, ${2:handle handle_2})]]></content>
+	<tabTrigger>rr_CommitAIResponse</tabTrigger>
+	<scope>source.lua</scope>
+<description>Commit the result of QueryBestResponse back to the given entity to play. Call with params (entity, airesponse)</description>
+</snippet>

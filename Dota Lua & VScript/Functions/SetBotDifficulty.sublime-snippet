@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SetBotDifficulty(${1:int nDifficulty})]]></content>
+	<tabTrigger>SetBotDifficulty</tabTrigger>
+	<scope>source.lua</scope>
+<description></description>
+</snippet>

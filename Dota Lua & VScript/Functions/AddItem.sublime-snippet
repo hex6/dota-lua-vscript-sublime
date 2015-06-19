@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AddItem(${1:handle hItem})]]></content>
+	<tabTrigger>AddItem</tabTrigger>
+	<scope>source.lua</scope>
+<description>Add an item to this unit's inventory.</description>
+</snippet>

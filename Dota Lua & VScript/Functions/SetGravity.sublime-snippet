@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SetGravity(${1:float flGravity})]]></content>
+	<tabTrigger>SetGravity</tabTrigger>
+	<scope>source.lua</scope>
+<description>Set PLAYER gravity, ignored for objects</description>
+</snippet>

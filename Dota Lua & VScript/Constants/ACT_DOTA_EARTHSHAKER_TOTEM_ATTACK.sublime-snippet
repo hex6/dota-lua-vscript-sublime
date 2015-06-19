@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ACT_DOTA_EARTHSHAKER_TOTEM_ATTACK]]></content>
+	<tabTrigger>ACT_DOTA_EARTHSHAKER_TOTEM_ATTACK</tabTrigger>
+	<scope>source.lua</scope>
+<description>1570</description>
+</snippet>

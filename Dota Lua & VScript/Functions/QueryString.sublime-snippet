@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[QueryString(${1:utlstringtoken tok}, ${2:string pDefault})]]></content>
+	<tabTrigger>QueryString</tabTrigger>
+	<scope>source.lua</scope>
+<description>Query ''string'' data for this key</description>
+</snippet>

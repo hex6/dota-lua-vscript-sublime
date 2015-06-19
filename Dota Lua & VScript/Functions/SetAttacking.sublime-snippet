@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SetAttacking(${1:handle hAttackTarget})]]></content>
+	<tabTrigger>SetAttacking</tabTrigger>
+	<scope>source.lua</scope>
+<description>No Description Set</description>
+</snippet>

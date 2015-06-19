@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[FindNamedEntity(${1:string string_1})]]></content>
+	<tabTrigger>FindNamedEntity</tabTrigger>
+	<scope>source.lua</scope>
+<description>given an entity reference, such as !target, get actual entity from scene object</description>
+</snippet>

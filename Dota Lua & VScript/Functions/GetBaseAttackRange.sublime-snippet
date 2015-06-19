@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetBaseAttackRange()]]></content>
+	<tabTrigger>GetBaseAttackRange</tabTrigger>
+	<scope>source.lua</scope>
+<description>Gets this unit's attack range before modifiers.</description>
+</snippet>

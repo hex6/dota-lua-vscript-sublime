@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SetCustomBuybackCooldown(${1:int iPlayerID}, ${2:float flCooldownTime})]]></content>
+	<tabTrigger>SetCustomBuybackCooldown</tabTrigger>
+	<scope>source.lua</scope>
+<description>Set the buyback cooldown for this player.</description>
+</snippet>

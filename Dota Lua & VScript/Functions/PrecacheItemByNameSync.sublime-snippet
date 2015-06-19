@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PrecacheItemByNameSync(${1:string string_1}, ${2:handle handle_2})]]></content>
+	<tabTrigger>PrecacheItemByNameSync</tabTrigger>
+	<scope>source.lua</scope>
+<description>Precaches a DOTA item by its dota_npc_items.txt name</description>
+</snippet>

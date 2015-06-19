@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DrawTickMarkedLine(${1:Vector Vector_1}, ${2:Vector Vector_2}, ${3:float float_3}, ${4:int int_4}, ${5:int int_5}, ${6:int int_6}, ${7:int int_7}, ${8:int int_8}, ${9:bool bool_9}, ${10:float float_10})]]></content>
+	<tabTrigger>DrawTickMarkedLine</tabTrigger>
+	<scope>source.lua</scope>
+<description>Draws a dashed line. Specify endpoint's in world space.</description>
+</snippet>

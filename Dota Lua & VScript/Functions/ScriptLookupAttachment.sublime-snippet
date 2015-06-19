@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ScriptLookupAttachment(${1:string pAttachmentName})]]></content>
+	<tabTrigger>ScriptLookupAttachment</tabTrigger>
+	<scope>source.lua</scope>
+<description>Get the named attachment id</description>
+</snippet>

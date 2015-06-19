@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ACT_DOTA_IDLE_SLEEPING_END]]></content>
+	<tabTrigger>ACT_DOTA_IDLE_SLEEPING_END</tabTrigger>
+	<scope>source.lua</scope>
+<description>1639</description>
+</snippet>

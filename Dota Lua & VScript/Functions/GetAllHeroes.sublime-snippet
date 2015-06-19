@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetAllHeroes()]]></content>
+	<tabTrigger>GetAllHeroes</tabTrigger>
+	<scope>source.lua</scope>
+<description>Returns all the heroes in the world</description>
+</snippet>

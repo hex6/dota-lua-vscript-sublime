@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ACT_DOTA_SLARK_POUNCE]]></content>
+	<tabTrigger>ACT_DOTA_SLARK_POUNCE</tabTrigger>
+	<scope>source.lua</scope>
+<description>1604</description>
+</snippet>

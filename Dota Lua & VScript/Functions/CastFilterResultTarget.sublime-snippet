@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CastFilterResultTarget(${1:handle hTarget})]]></content>
+	<tabTrigger>CastFilterResultTarget</tabTrigger>
+	<scope>source.lua</scope>
+<description>(HSCRIPT hTarget) Determine whether an issued command on a target is valid.</description>
+</snippet>

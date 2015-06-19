@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ACT_DOTA_LIFESTEALER_ASSIMILATE]]></content>
+	<tabTrigger>ACT_DOTA_LIFESTEALER_ASSIMILATE</tabTrigger>
+	<scope>source.lua</scope>
+<description>1703</description>
+</snippet>

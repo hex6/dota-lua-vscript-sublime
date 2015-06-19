@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SetTextReplaceValue(${1:int valueSlot}, ${2:int value})]]></content>
+	<tabTrigger>SetTextReplaceValue</tabTrigger>
+	<scope>source.lua</scope>
+<description>Set a subquest value</description>
+</snippet>

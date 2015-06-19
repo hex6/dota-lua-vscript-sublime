@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetCameraDistanceOverride()]]></content>
+	<tabTrigger>GetCameraDistanceOverride</tabTrigger>
+	<scope>source.lua</scope>
+<description>Set a different camera distance; dota default is 1134.</description>
+</snippet>

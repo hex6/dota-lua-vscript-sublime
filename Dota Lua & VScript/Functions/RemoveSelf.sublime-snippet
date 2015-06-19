@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RemoveSelf()]]></content>
+	<tabTrigger>RemoveSelf</tabTrigger>
+	<scope>source.lua</scope>
+<description>Delete this entity</description>
+</snippet>

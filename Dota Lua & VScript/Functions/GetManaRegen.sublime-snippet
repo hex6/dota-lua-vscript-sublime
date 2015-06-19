@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetManaRegen()]]></content>
+	<tabTrigger>GetManaRegen</tabTrigger>
+	<scope>source.lua</scope>
+<description>Hero mana regen is affected by attributes.</description>
+</snippet>

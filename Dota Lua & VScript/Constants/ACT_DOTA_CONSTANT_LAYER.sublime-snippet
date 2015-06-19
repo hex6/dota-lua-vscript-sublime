@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ACT_DOTA_CONSTANT_LAYER]]></content>
+	<tabTrigger>ACT_DOTA_CONSTANT_LAYER</tabTrigger>
+	<scope>source.lua</scope>
+<description>1532</description>
+</snippet>

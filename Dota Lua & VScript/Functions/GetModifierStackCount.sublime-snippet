@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetModifierStackCount(${1:string modifierName}, ${2:handle hCaster})]]></content>
+	<tabTrigger>GetModifierStackCount</tabTrigger>
+	<scope>source.lua</scope>
+<description>Gets the stack count of a given modifier.</description>
+</snippet>

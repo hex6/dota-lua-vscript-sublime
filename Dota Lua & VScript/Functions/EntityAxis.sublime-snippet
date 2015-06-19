@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EntityAxis(${1:ehandle ehandle_1}, ${2:float float_2}, ${3:bool bool_3}, ${4:float float_4})]]></content>
+	<tabTrigger>EntityAxis</tabTrigger>
+	<scope>source.lua</scope>
+<description>Draws the axis of the entity origin</description>
+</snippet>

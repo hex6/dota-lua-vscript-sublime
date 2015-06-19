@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MODIFIER_PROPERTY_HEALTH_BONUS]]></content>
+	<tabTrigger>MODIFIER_PROPERTY_HEALTH_BONUS</tabTrigger>
+	<scope>source.lua</scope>
+<description>51</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetHealthRegen()]]></content>
+	<tabTrigger>GetHealthRegen</tabTrigger>
+	<scope>source.lua</scope>
+<description>Hero health regen is affected by attributes.</description>
+</snippet>

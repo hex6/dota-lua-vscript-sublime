@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetOriginalLobbyTeam(${1:int iPlayerID})]]></content>
+	<tabTrigger>GetOriginalLobbyTeam</tabTrigger>
+	<scope>source.lua</scope>
+<description>The team this player was originally assigned in the lobby. DOTA_TEAM_NOTEAM if no lobby info.</description>
+</snippet>

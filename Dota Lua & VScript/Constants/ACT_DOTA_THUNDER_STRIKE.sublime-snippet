@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ACT_DOTA_THUNDER_STRIKE]]></content>
+	<tabTrigger>ACT_DOTA_THUNDER_STRIKE</tabTrigger>
+	<scope>source.lua</scope>
+<description>1678</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ACT_DOTA_CAST_COLD_SNAP]]></content>
+	<tabTrigger>ACT_DOTA_CAST_COLD_SNAP</tabTrigger>
+	<scope>source.lua</scope>
+<description>1581</description>
+</snippet>

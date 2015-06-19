@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ACT_DOTA_WEAVERBUG_ATTACH]]></content>
+	<tabTrigger>ACT_DOTA_WEAVERBUG_ATTACH</tabTrigger>
+	<scope>source.lua</scope>
+<description>1561</description>
+</snippet>

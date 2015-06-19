@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ACT_DOTA_GESTURE_POINT]]></content>
+	<tabTrigger>ACT_DOTA_GESTURE_POINT</tabTrigger>
+	<scope>source.lua</scope>
+<description>1624</description>
+</snippet>

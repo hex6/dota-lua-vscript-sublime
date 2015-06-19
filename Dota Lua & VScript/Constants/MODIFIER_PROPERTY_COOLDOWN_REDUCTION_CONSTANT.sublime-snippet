@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MODIFIER_PROPERTY_COOLDOWN_REDUCTION_CONSTANT]]></content>
+	<tabTrigger>MODIFIER_PROPERTY_COOLDOWN_REDUCTION_CONSTANT</tabTrigger>
+	<scope>source.lua</scope>
+<description>22</description>
+</snippet>

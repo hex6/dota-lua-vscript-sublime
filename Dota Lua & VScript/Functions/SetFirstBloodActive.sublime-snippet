@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SetFirstBloodActive(${1:bool bool_1})]]></content>
+	<tabTrigger>SetFirstBloodActive</tabTrigger>
+	<scope>source.lua</scope>
+<description>Sets whether First Blood has been triggered.</description>
+</snippet>

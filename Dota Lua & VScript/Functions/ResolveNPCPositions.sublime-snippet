@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ResolveNPCPositions(${1:Vector Vector_1}, ${2:float float_2})]]></content>
+	<tabTrigger>ResolveNPCPositions</tabTrigger>
+	<scope>source.lua</scope>
+<description>Check and fix units that have been assigned a position inside collision radius of other NPCs.</description>
+</snippet>

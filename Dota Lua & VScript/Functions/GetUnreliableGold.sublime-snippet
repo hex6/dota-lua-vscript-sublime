@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetUnreliableGold(${1:int playerID})]]></content>
+	<tabTrigger>GetUnreliableGold</tabTrigger>
+	<scope>source.lua</scope>
+<description>Returns how much unreliable gold the specified player currently has</description>
+</snippet>

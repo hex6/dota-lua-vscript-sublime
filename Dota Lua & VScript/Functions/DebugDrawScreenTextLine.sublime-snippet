@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DebugDrawScreenTextLine(${1:float float_1}, ${2:float float_2}, ${3:int int_3}, ${4:string string_4}, ${5:int int_5}, ${6:int int_6}, ${7:int int_7}, ${8:int int_8}, ${9:float float_9})]]></content>
+	<tabTrigger>DebugDrawScreenTextLine</tabTrigger>
+	<scope>source.lua</scope>
+<description>Draw text with a line offset (x, y, lineOffset, text, r, g, b, a, duration)</description>
+</snippet>

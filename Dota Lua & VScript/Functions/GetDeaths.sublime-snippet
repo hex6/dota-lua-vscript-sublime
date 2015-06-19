@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetDeaths(${1:int iPlayerID})]]></content>
+	<tabTrigger>GetDeaths</tabTrigger>
+	<scope>source.lua</scope>
+<description>No Description Set</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SetBountyGain(${1:int nBountyGain})]]></content>
+	<tabTrigger>SetBountyGain</tabTrigger>
+	<scope>source.lua</scope>
+<description>Set the bounty gold gained per level on this creature.</description>
+</snippet>

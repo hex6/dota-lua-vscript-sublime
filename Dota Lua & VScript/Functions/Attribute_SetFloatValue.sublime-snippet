@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Attribute_SetFloatValue(${1:string pName}, ${2:float flValue})]]></content>
+	<tabTrigger>Attribute_SetFloatValue</tabTrigger>
+	<scope>source.lua</scope>
+<description>Set float value for an entity attribute.</description>
+</snippet>

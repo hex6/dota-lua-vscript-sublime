@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DOTA_ModifyGold_CourierKill]]></content>
+	<tabTrigger>DOTA_ModifyGold_CourierKill</tabTrigger>
+	<scope>source.lua</scope>
+<description>15</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ACT_DOTA_NIAN_INTRO_LEAP]]></content>
+	<tabTrigger>ACT_DOTA_NIAN_INTRO_LEAP</tabTrigger>
+	<scope>source.lua</scope>
+<description>1660</description>
+</snippet>

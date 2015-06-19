@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ClearRuneSpawnFilter()]]></content>
+	<tabTrigger>ClearRuneSpawnFilter</tabTrigger>
+	<scope>source.lua</scope>
+<description>Clear the script filter that controls what rune spawns.</description>
+</snippet>

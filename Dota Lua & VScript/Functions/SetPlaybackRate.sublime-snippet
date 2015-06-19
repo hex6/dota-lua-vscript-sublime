@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SetPlaybackRate(${1:float flRate})]]></content>
+	<tabTrigger>SetPlaybackRate</tabTrigger>
+	<scope>source.lua</scope>
+<description>Override playbackrate</description>
+</snippet>

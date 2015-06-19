@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SetQuickBuy(${1:string string_1})]]></content>
+	<tabTrigger>SetQuickBuy</tabTrigger>
+	<scope>source.lua</scope>
+<description>Set players quick buy item.</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetPlaybackRateOverride()]]></content>
+	<tabTrigger>GetPlaybackRateOverride</tabTrigger>
+	<scope>source.lua</scope>
+<description>Return the animation rate of the cast animation.</description>
+</snippet>

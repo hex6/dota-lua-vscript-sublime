@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MODIFIER_STATE_FAKE_ALLY]]></content>
+	<tabTrigger>MODIFIER_STATE_FAKE_ALLY</tabTrigger>
+	<scope>source.lua</scope>
+<description>31</description>
+</snippet>

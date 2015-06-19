@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ResetBuybackCostTime(${1:int nPlayerID})]]></content>
+	<tabTrigger>ResetBuybackCostTime</tabTrigger>
+	<scope>source.lua</scope>
+<description>No Description Set</description>
+</snippet>

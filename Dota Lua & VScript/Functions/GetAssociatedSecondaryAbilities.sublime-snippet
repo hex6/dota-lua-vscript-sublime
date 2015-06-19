@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetAssociatedSecondaryAbilities()]]></content>
+	<tabTrigger>GetAssociatedSecondaryAbilities</tabTrigger>
+	<scope>source.lua</scope>
+<description>Returns other abilities that are stolen simultaneously, or otherwise related in functionality.  Generally hidden abilities.</description>
+</snippet>

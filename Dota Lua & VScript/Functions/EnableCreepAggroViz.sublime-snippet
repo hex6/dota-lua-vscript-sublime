@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EnableCreepAggroViz(${1:bool bool_1})]]></content>
+	<tabTrigger>EnableCreepAggroViz</tabTrigger>
+	<scope>source.lua</scope>
+<description>Alert the player when a creep becomes agro to their hero.</description>
+</snippet>

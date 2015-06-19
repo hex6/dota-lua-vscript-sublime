@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ACT_DOTA_ROQUELAIRE_LAND_IDLE]]></content>
+	<tabTrigger>ACT_DOTA_ROQUELAIRE_LAND_IDLE</tabTrigger>
+	<scope>source.lua</scope>
+<description>1616</description>
+</snippet>

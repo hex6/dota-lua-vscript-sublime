@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SetWhiteListEnabled(${1:bool bool_1})]]></content>
+	<tabTrigger>SetWhiteListEnabled</tabTrigger>
+	<scope>source.lua</scope>
+<description>Set if we should whitelist shop items.</description>
+</snippet>

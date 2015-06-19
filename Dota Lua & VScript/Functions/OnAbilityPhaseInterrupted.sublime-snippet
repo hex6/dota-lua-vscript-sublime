@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnAbilityPhaseInterrupted()]]></content>
+	<tabTrigger>OnAbilityPhaseInterrupted</tabTrigger>
+	<scope>source.lua</scope>
+<description>Cast time did not complete successfully.</description>
+</snippet>

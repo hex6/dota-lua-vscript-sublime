@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ACT_DOTA_FRUSTRATION]]></content>
+	<tabTrigger>ACT_DOTA_FRUSTRATION</tabTrigger>
+	<scope>source.lua</scope>
+<description>1630</description>
+</snippet>

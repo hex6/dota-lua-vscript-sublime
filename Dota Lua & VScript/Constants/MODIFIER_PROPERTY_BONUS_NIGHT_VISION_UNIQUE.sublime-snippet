@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MODIFIER_PROPERTY_BONUS_NIGHT_VISION_UNIQUE]]></content>
+	<tabTrigger>MODIFIER_PROPERTY_BONUS_NIGHT_VISION_UNIQUE</tabTrigger>
+	<scope>source.lua</scope>
+<description>82</description>
+</snippet>

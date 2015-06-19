@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MODIFIER_PROPERTY_BONUS_VISION_PERCENTAGE]]></content>
+	<tabTrigger>MODIFIER_PROPERTY_BONUS_VISION_PERCENTAGE</tabTrigger>
+	<scope>source.lua</scope>
+<description>83</description>
+</snippet>

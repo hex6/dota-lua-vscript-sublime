@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[QueryInt(${1:utlstringtoken tok}, ${2:int nDefault})]]></content>
+	<tabTrigger>QueryInt</tabTrigger>
+	<scope>source.lua</scope>
+<description>Query ''int'' data for this key</description>
+</snippet>

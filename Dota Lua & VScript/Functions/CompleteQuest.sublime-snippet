@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CompleteQuest(${1:string string_1})]]></content>
+	<tabTrigger>CompleteQuest</tabTrigger>
+	<scope>source.lua</scope>
+<description>Complete a quest,</description>
+</snippet>

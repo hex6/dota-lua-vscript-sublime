@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ACT_DOTA_LIFESTEALER_OPEN_WOUNDS]]></content>
+	<tabTrigger>ACT_DOTA_LIFESTEALER_OPEN_WOUNDS</tabTrigger>
+	<scope>source.lua</scope>
+<description>1567</description>
+</snippet>

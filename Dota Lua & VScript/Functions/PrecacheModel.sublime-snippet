@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PrecacheModel(${1:string string_1}, ${2:handle handle_2})]]></content>
+	<tabTrigger>PrecacheModel</tabTrigger>
+	<scope>source.lua</scope>
+<description>( modelName, context ) - Manually precache a single model</description>
+</snippet>

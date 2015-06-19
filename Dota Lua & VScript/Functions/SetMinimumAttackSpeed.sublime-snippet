@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SetMinimumAttackSpeed(${1:int nMinSpeed})]]></content>
+	<tabTrigger>SetMinimumAttackSpeed</tabTrigger>
+	<scope>source.lua</scope>
+<description>Set the minimum attack speed for units.</description>
+</snippet>

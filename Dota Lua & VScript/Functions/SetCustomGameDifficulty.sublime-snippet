@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SetCustomGameDifficulty(${1:int int_1})]]></content>
+	<tabTrigger>SetCustomGameDifficulty</tabTrigger>
+	<scope>source.lua</scope>
+<description>Set the difficulty level of the custom game mode</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetStatsBasedManaRegen()]]></content>
+	<tabTrigger>GetStatsBasedManaRegen</tabTrigger>
+	<scope>source.lua</scope>
+<description>Returns only the regen based on Intelligence.</description>
+</snippet>

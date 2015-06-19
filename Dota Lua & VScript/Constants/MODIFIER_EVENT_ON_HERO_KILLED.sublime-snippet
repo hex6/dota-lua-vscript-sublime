@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MODIFIER_EVENT_ON_HERO_KILLED]]></content>
+	<tabTrigger>MODIFIER_EVENT_ON_HERO_KILLED</tabTrigger>
+	<scope>source.lua</scope>
+<description>128</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MODIFIER_EVENT_ON_ORB_EFFECT]]></content>
+	<tabTrigger>MODIFIER_EVENT_ON_ORB_EFFECT</tabTrigger>
+	<scope>source.lua</scope>
+<description>117</description>
+</snippet>

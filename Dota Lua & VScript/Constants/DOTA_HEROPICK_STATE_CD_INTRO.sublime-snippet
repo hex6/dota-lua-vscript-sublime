@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DOTA_HEROPICK_STATE_CD_INTRO]]></content>
+	<tabTrigger>DOTA_HEROPICK_STATE_CD_INTRO</tabTrigger>
+	<scope>source.lua</scope>
+<description>31</description>
+</snippet>

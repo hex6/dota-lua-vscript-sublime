@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AddQuest(${1:string string_1}, ${2:int int_2}, ${3:string string_3}, ${4:string string_4})]]></content>
+	<tabTrigger>AddQuest</tabTrigger>
+	<scope>source.lua</scope>
+<description>Add a quest to the quest log</description>
+</snippet>

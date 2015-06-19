@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MODIFIER_PROPERTY_PHYSICAL_ARMOR_BONUS_ILLUSIONS]]></content>
+	<tabTrigger>MODIFIER_PROPERTY_PHYSICAL_ARMOR_BONUS_ILLUSIONS</tabTrigger>
+	<scope>source.lua</scope>
+<description>38</description>
+</snippet>

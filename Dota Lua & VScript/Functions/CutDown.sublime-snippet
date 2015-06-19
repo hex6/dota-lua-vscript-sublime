@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CutDown(${1:int TeamNumberKnownTo })]]></content>
+	<tabTrigger>CutDown</tabTrigger>
+	<scope>source.lua</scope>
+<description>Cuts down this tree.</description>
+</snippet>

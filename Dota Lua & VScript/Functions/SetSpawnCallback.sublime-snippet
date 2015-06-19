@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SetSpawnCallback(${1:handle hCallbackFunc}, ${2:handle hCallbackScope})]]></content>
+	<tabTrigger>SetSpawnCallback</tabTrigger>
+	<scope>source.lua</scope>
+<description>SetSpawnCallback( hCallbackFunc, hCallbackScope, hCallbackData ) : Set a callback for when the template spawns entities. The spawned entities will be passed in as an array.</description>
+</snippet>

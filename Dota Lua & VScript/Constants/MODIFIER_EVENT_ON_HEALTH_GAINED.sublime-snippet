@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MODIFIER_EVENT_ON_HEALTH_GAINED]]></content>
+	<tabTrigger>MODIFIER_EVENT_ON_HEALTH_GAINED</tabTrigger>
+	<scope>source.lua</scope>
+<description>125</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MODIFIER_FUNCTION_INVALID]]></content>
+	<tabTrigger>MODIFIER_FUNCTION_INVALID</tabTrigger>
+	<scope>source.lua</scope>
+<description>255</description>
+</snippet>

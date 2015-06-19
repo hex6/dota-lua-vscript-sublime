@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MODIFIER_PROPERTY_MIN_HEALTH]]></content>
+	<tabTrigger>MODIFIER_PROPERTY_MIN_HEALTH</tabTrigger>
+	<scope>source.lua</scope>
+<description>86</description>
+</snippet>

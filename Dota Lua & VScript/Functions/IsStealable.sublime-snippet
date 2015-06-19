@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IsStealable()]]></content>
+	<tabTrigger>IsStealable</tabTrigger>
+	<scope>source.lua</scope>
+<description>Returns true if this ability can be stolen by Spell Steal.</description>
+</snippet>

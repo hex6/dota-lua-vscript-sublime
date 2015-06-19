@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DOTA_SPEECH_USER_TEAM_NEARBY]]></content>
+	<tabTrigger>DOTA_SPEECH_USER_TEAM_NEARBY</tabTrigger>
+	<scope>source.lua</scope>
+<description>3</description>
+</snippet>

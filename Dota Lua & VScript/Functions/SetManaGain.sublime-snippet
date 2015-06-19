@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SetManaGain(${1:int nManaGain})]]></content>
+	<tabTrigger>SetManaGain</tabTrigger>
+	<scope>source.lua</scope>
+<description>Set the mana point's gained per level on this creature.</description>
+</snippet>

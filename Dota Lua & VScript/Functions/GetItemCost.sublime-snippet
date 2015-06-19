@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetItemCost(${1:string string_1})]]></content>
+	<tabTrigger>GetItemCost</tabTrigger>
+	<scope>source.lua</scope>
+<description>Get the cost of an item by name.</description>
+</snippet>

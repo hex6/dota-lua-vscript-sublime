@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[FrameTime()]]></content>
+	<tabTrigger>FrameTime</tabTrigger>
+	<scope>source.lua</scope>
+<description>Get the time spent on the server in the last frame</description>
+</snippet>

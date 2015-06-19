@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SetCustomGameSetupRemainingTime(${1:float float_1})]]></content>
+	<tabTrigger>SetCustomGameSetupRemainingTime</tabTrigger>
+	<scope>source.lua</scope>
+<description>Set the amount of remaining time, in seconds, for custom game setup. 0 = finish immediately, -1 = wait forever</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UnregisterListener(${1:int int_1})]]></content>
+	<tabTrigger>UnregisterListener</tabTrigger>
+	<scope>source.lua</scope>
+<description>( int ListnerID ) - Unregister a specific listener</description>
+</snippet>

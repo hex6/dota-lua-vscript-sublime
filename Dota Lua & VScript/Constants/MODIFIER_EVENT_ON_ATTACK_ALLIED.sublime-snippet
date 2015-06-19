@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MODIFIER_EVENT_ON_ATTACK_ALLIED]]></content>
+	<tabTrigger>MODIFIER_EVENT_ON_ATTACK_ALLIED</tabTrigger>
+	<scope>source.lua</scope>
+<description>104</description>
+</snippet>

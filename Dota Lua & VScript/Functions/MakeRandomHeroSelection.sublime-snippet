@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MakeRandomHeroSelection()]]></content>
+	<tabTrigger>MakeRandomHeroSelection</tabTrigger>
+	<scope>source.lua</scope>
+<description>Randoms this player's hero.</description>
+</snippet>

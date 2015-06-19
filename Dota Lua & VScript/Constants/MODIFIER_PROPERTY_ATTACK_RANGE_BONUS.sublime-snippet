@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MODIFIER_PROPERTY_ATTACK_RANGE_BONUS]]></content>
+	<tabTrigger>MODIFIER_PROPERTY_ATTACK_RANGE_BONUS</tabTrigger>
+	<scope>source.lua</scope>
+<description>60</description>
+</snippet>

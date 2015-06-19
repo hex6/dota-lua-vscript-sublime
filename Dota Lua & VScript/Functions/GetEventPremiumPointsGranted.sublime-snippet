@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetEventPremiumPointsGranted(${1:int iPlayerID})]]></content>
+	<tabTrigger>GetEventPremiumPointsGranted</tabTrigger>
+	<scope>source.lua</scope>
+<description>No Description Set</description>
+</snippet>

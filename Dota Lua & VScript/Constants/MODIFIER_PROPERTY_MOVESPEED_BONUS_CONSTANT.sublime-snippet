@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MODIFIER_PROPERTY_MOVESPEED_BONUS_CONSTANT]]></content>
+	<tabTrigger>MODIFIER_PROPERTY_MOVESPEED_BONUS_CONSTANT</tabTrigger>
+	<scope>source.lua</scope>
+<description>10</description>
+</snippet>

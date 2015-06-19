@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SelectPlayerTeam(${1:string string_1})]]></content>
+	<tabTrigger>SelectPlayerTeam</tabTrigger>
+	<scope>source.lua</scope>
+<description>Select the team for the local player</description>
+</snippet>

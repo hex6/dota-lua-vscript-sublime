@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PickupRune(${1:handle hItem})]]></content>
+	<tabTrigger>PickupRune</tabTrigger>
+	<scope>source.lua</scope>
+<description>Pick up a rune.</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SelectHero(${1:string string_1})]]></content>
+	<tabTrigger>SelectHero</tabTrigger>
+	<scope>source.lua</scope>
+<description>Select a hero for the local player</description>
+</snippet>

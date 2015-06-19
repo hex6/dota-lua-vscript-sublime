@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SetAnimation(${1:string string_1})]]></content>
+	<tabTrigger>SetAnimation</tabTrigger>
+	<scope>source.lua</scope>
+<description>Pass ''string'' for the animation to play on this model</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DetachFromParent()]]></content>
+	<tabTrigger>DetachFromParent</tabTrigger>
+	<scope>source.lua</scope>
+<description>Detach from its parent</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DestroyParticle(${1:int particleID}, ${2:bool immediately})]]></content>
+	<tabTrigger>DestroyParticle</tabTrigger>
+	<scope>source.lua</scope>
+<description>Destroys particle.</description>
+</snippet>

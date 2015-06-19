@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SetTimeOfDay(${1:float time})]]></content>
+	<tabTrigger>SetTimeOfDay</tabTrigger>
+	<scope>source.lua</scope>
+<description>Set the time of day.</description>
+</snippet>

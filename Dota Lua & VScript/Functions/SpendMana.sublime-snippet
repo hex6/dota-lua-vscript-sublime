@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SpendMana(${1:float flManaSpent}, ${2:handle hAbility})]]></content>
+	<tabTrigger>SpendMana</tabTrigger>
+	<scope>source.lua</scope>
+<description>Spend mana from this unit, this can be used for spending mana from abilities or item usage.</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SetHullRadius(${1:float flHullRadius})]]></content>
+	<tabTrigger>SetHullRadius</tabTrigger>
+	<scope>source.lua</scope>
+<description>Set the collision hull radius of this NPC</description>
+</snippet>

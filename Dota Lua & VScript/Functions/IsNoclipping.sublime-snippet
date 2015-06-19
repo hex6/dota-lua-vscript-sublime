@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IsNoclipping()]]></content>
+	<tabTrigger>IsNoclipping</tabTrigger>
+	<scope>source.lua</scope>
+<description>Returns true if the player is in noclip mode.</description>
+</snippet>

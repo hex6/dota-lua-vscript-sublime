@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetTimeOfDay()]]></content>
+	<tabTrigger>GetTimeOfDay</tabTrigger>
+	<scope>source.lua</scope>
+<description>Get the time of day</description>
+</snippet>

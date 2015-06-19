@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SetCustomGameSetupTimeout(${1:float float_1})]]></content>
+	<tabTrigger>SetCustomGameSetupTimeout</tabTrigger>
+	<scope>source.lua</scope>
+<description>Setup (pre-gameplay) phase timeout. 0 = instant, -1 = forever (until FinishCustomGameSetup is called)</description>
+</snippet>

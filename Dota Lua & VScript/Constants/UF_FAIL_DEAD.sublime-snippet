@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UF_FAIL_DEAD]]></content>
+	<tabTrigger>UF_FAIL_DEAD</tabTrigger>
+	<scope>source.lua</scope>
+<description>16</description>
+</snippet>

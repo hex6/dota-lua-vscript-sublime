@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetGoldSpentOnSupport(${1:int iPlayerID})]]></content>
+	<tabTrigger>GetGoldSpentOnSupport</tabTrigger>
+	<scope>source.lua</scope>
+<description>No Description Set</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ACT_DOTA_ITEM_LOOK]]></content>
+	<tabTrigger>ACT_DOTA_ITEM_LOOK</tabTrigger>
+	<scope>source.lua</scope>
+<description>1628</description>
+</snippet>

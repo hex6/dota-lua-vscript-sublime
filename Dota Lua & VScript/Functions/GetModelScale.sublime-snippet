@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetModelScale()]]></content>
+	<tabTrigger>GetModelScale</tabTrigger>
+	<scope>source.lua</scope>
+<description>Get scale of entity's model.</description>
+</snippet>

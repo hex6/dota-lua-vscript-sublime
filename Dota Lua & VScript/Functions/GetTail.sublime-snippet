@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetTail()]]></content>
+	<tabTrigger>GetTail</tabTrigger>
+	<scope>source.lua</scope>
+<description>Is the Nian's tail broken?</description>
+</snippet>

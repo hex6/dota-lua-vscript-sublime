@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MODIFIER_PROPERTY_ABILITY_LAYOUT]]></content>
+	<tabTrigger>MODIFIER_PROPERTY_ABILITY_LAYOUT</tabTrigger>
+	<scope>source.lua</scope>
+<description>145</description>
+</snippet>

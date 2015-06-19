@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PATTACH_EYES_FOLLOW]]></content>
+	<tabTrigger>PATTACH_EYES_FOLLOW</tabTrigger>
+	<scope>source.lua</scope>
+<description>6</description>
+</snippet>

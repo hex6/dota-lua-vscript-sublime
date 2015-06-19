@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CreateByClassname(${1:string className})]]></content>
+	<tabTrigger>CreateByClassname</tabTrigger>
+	<scope>source.lua</scope>
+<description>Creates an entity by classname</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CreateUnitFromTable(${1:handle handle_1}, ${2:Vector Vector_2})]]></content>
+	<tabTrigger>CreateUnitFromTable</tabTrigger>
+	<scope>source.lua</scope>
+<description>Creates a new data-driven entity with the given table</description>
+</snippet>

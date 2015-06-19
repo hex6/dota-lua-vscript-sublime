@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SetRenderMode(${1:int nMode})]]></content>
+	<tabTrigger>SetRenderMode</tabTrigger>
+	<scope>source.lua</scope>
+<description>SetRenderMode( int ): Sets the render mode of the entity.</description>
+</snippet>

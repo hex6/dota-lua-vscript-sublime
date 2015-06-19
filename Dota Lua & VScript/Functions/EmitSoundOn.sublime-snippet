@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EmitSoundOn(${1:string string_1}, ${2:handle handle_2})]]></content>
+	<tabTrigger>EmitSoundOn</tabTrigger>
+	<scope>source.lua</scope>
+<description>Play named sound on Entity</description>
+</snippet>

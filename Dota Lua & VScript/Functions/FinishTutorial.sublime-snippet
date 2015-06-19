@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[FinishTutorial()]]></content>
+	<tabTrigger>FinishTutorial</tabTrigger>
+	<scope>source.lua</scope>
+<description>End the tutorial.</description>
+</snippet>

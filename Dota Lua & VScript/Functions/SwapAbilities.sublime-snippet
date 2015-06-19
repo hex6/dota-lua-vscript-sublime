@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SwapAbilities(${1:string pAbilityName1}, ${2:string pAbilityName2}, ${3:bool bEnable1}, ${4:bool bEnable2})]]></content>
+	<tabTrigger>SwapAbilities</tabTrigger>
+	<scope>source.lua</scope>
+<description>Swaps the slots of the two passed abilities and sets them enabled/disabled: const char* AbilityName1, const char* AbilityName2, ''bool'' bEnable1, ''bool'' bEnable2. The boolean controls which ability is active. The ability order is never swapped when swapping abilities, only the boolean statements are flipped.</description>
+</snippet>

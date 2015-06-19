@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MODIFIER_PROPERTY_DISABLE_AUTOATTACK]]></content>
+	<tabTrigger>MODIFIER_PROPERTY_DISABLE_AUTOATTACK</tabTrigger>
+	<scope>source.lua</scope>
+<description>79</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EmitSound(${1:string soundName})]]></content>
+	<tabTrigger>EmitSound</tabTrigger>
+	<scope>source.lua</scope>
+<description> </description>
+</snippet>

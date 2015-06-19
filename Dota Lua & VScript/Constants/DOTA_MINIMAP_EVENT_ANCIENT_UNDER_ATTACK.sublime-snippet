@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DOTA_MINIMAP_EVENT_ANCIENT_UNDER_ATTACK]]></content>
+	<tabTrigger>DOTA_MINIMAP_EVENT_ANCIENT_UNDER_ATTACK</tabTrigger>
+	<scope>source.lua</scope>
+<description>2</description>
+</snippet>

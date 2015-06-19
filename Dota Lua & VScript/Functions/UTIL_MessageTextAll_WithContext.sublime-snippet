@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UTIL_MessageTextAll_WithContext(${1:string message}, ${2:int r}, ${3:int g}, ${4:int b}, ${5:int a}, ${6:table context})]]></content>
+	<tabTrigger>UTIL_MessageTextAll_WithContext</tabTrigger>
+	<scope>source.lua</scope>
+<description>Sends a message to everyone in the message box with a context table</description>
+</snippet>

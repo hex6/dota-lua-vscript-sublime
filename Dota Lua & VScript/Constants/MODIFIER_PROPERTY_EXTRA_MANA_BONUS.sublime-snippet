@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MODIFIER_PROPERTY_EXTRA_MANA_BONUS]]></content>
+	<tabTrigger>MODIFIER_PROPERTY_EXTRA_MANA_BONUS</tabTrigger>
+	<scope>source.lua</scope>
+<description>55</description>
+</snippet>

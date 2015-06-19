@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PATTACH_CUSTOMORIGIN]]></content>
+	<tabTrigger>PATTACH_CUSTOMORIGIN</tabTrigger>
+	<scope>source.lua</scope>
+<description>2</description>
+</snippet>

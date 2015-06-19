@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ClearBountyRunePickupFilter()]]></content>
+	<tabTrigger>ClearBountyRunePickupFilter</tabTrigger>
+	<scope>source.lua</scope>
+<description>Clear the script filter that controls bounty rune pickup behavior.</description>
+</snippet>

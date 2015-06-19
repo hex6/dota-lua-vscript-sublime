@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MODIFIER_PROPERTY_DISABLE_HEALING]]></content>
+	<tabTrigger>MODIFIER_PROPERTY_DISABLE_HEALING</tabTrigger>
+	<scope>source.lua</scope>
+<description>94</description>
+</snippet>

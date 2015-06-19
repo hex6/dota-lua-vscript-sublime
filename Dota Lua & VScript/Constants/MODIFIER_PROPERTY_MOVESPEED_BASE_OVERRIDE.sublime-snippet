@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MODIFIER_PROPERTY_MOVESPEED_BASE_OVERRIDE]]></content>
+	<tabTrigger>MODIFIER_PROPERTY_MOVESPEED_BASE_OVERRIDE</tabTrigger>
+	<scope>source.lua</scope>
+<description>11</description>
+</snippet>

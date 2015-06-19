@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SetKillCamUnit(${1:handle hEntity})]]></content>
+	<tabTrigger>SetKillCamUnit</tabTrigger>
+	<scope>source.lua</scope>
+<description>Set the kill cam unit for this hero.</description>
+</snippet>

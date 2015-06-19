@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SetCustomPlayerColor(${1:int iPlayerID}, ${2:int r}, ${3:int g}, ${4:int b})]]></content>
+	<tabTrigger>SetCustomPlayerColor</tabTrigger>
+	<scope>source.lua</scope>
+<description>Set custom color for player (minimap, scoreboard, etc)</description>
+</snippet>

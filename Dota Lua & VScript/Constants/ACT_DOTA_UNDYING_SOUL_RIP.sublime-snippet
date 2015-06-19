@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ACT_DOTA_UNDYING_SOUL_RIP]]></content>
+	<tabTrigger>ACT_DOTA_UNDYING_SOUL_RIP</tabTrigger>
+	<scope>source.lua</scope>
+<description>1667</description>
+</snippet>

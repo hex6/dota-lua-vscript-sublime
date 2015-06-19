@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WorldToGridPosY(${1:float float_1})]]></content>
+	<tabTrigger>WorldToGridPosY</tabTrigger>
+	<scope>source.lua</scope>
+<description>Get the Y index of a given world Y position</description>
+</snippet>

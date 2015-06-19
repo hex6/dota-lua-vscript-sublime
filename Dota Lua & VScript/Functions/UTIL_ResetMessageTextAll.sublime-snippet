@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UTIL_ResetMessageTextAll()]]></content>
+	<tabTrigger>UTIL_ResetMessageTextAll</tabTrigger>
+	<scope>source.lua</scope>
+<description>Resets the message text for all players</description>
+</snippet>

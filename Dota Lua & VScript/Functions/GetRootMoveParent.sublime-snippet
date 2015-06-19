@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetRootMoveParent()]]></content>
+	<tabTrigger>GetRootMoveParent</tabTrigger>
+	<scope>source.lua</scope>
+<description>If in hierarchy, walks up the hierarchy to find the root parent</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ACT_DOTA_PET_WARD_SENTRY]]></content>
+	<tabTrigger>ACT_DOTA_PET_WARD_SENTRY</tabTrigger>
+	<scope>source.lua</scope>
+<description>1700</description>
+</snippet>

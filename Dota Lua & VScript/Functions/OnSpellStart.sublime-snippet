@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnSpellStart()]]></content>
+	<tabTrigger>OnSpellStart</tabTrigger>
+	<scope>source.lua</scope>
+<description>Cast time finished, spell effects begin.</description>
+</snippet>

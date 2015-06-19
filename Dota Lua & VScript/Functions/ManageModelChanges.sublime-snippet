@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ManageModelChanges()]]></content>
+	<tabTrigger>ManageModelChanges</tabTrigger>
+	<scope>source.lua</scope>
+<description></description>
+</snippet>

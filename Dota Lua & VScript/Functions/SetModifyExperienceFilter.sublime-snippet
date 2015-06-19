@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SetModifyExperienceFilter(${1:handle hFunction}, ${2:handle hContext})]]></content>
+	<tabTrigger>SetModifyExperienceFilter</tabTrigger>
+	<scope>source.lua</scope>
+<description>Set a filter function to control the behavior when a hero's experience is modified. (Modify the table and Return true to use new values, return false to cancel the event)</description>
+</snippet>

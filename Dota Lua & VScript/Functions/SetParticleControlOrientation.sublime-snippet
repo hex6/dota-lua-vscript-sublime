@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SetParticleControlOrientation(${1:int int_1}, ${2:int int_2}, ${3:Vector Vector_3}, ${4:Vector Vector_4}, ${5:Vector Vector_5})]]></content>
+	<tabTrigger>SetParticleControlOrientation</tabTrigger>
+	<scope>source.lua</scope>
+<description>(int nFXIndex, int nPoint, vForward, vRight, vUp)</description>
+</snippet>

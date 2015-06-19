@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IsAncient()]]></content>
+	<tabTrigger>IsAncient</tabTrigger>
+	<scope>source.lua</scope>
+<description>Is this creature an Ancient?</description>
+</snippet>

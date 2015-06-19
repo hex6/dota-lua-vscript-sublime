@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EnablePlayerOffscreenTip(${1:bool bool_1})]]></content>
+	<tabTrigger>EnablePlayerOffscreenTip</tabTrigger>
+	<scope>source.lua</scope>
+<description>Enable the tip to alert players how to find their hero.</description>
+</snippet>

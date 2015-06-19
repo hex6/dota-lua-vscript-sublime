@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SetRuneSpawnTime(${1:float time})]]></content>
+	<tabTrigger>SetRuneSpawnTime</tabTrigger>
+	<scope>source.lua</scope>
+<description>Sets the amount of time between rune spawns.</description>
+</snippet>

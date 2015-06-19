@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SetXPGain(${1:int nXPGain})]]></content>
+	<tabTrigger>SetXPGain</tabTrigger>
+	<scope>source.lua</scope>
+<description>Set the xp reward gained per level on this creature.</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SetAbilityIndex(${1:int iIndex})]]></content>
+	<tabTrigger>SetAbilityIndex</tabTrigger>
+	<scope>source.lua</scope>
+<description>No Description Set</description>
+</snippet>

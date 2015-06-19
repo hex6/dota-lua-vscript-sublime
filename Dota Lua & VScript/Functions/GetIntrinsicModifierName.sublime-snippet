@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetIntrinsicModifierName()]]></content>
+	<tabTrigger>GetIntrinsicModifierName</tabTrigger>
+	<scope>source.lua</scope>
+<description>Returns the name of the modifier applied passively by this ability.</description>
+</snippet>

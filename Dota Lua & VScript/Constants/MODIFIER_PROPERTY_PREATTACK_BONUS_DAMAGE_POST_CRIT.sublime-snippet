@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MODIFIER_PROPERTY_PREATTACK_BONUS_DAMAGE_POST_CRIT]]></content>
+	<tabTrigger>MODIFIER_PROPERTY_PREATTACK_BONUS_DAMAGE_POST_CRIT</tabTrigger>
+	<scope>source.lua</scope>
+<description>1</description>
+</snippet>

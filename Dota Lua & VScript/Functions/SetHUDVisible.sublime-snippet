@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SetHUDVisible(${1:int iHUDElement}, ${2:bool bVisible})]]></content>
+	<tabTrigger>SetHUDVisible</tabTrigger>
+	<scope>source.lua</scope>
+<description>Set the HUD element visibility.</description>
+</snippet>

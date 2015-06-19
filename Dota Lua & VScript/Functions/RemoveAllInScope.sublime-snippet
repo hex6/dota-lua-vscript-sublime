@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RemoveAllInScope(${1:utlstringtoken utlstringtoken_1})]]></content>
+	<tabTrigger>RemoveAllInScope</tabTrigger>
+	<scope>source.lua</scope>
+<description>Removes all overlays marked with a specific identifier, regardless of their lifetime.</description>
+</snippet>

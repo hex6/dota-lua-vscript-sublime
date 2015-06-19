@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DOTA_ModifyGold_HeroKill]]></content>
+	<tabTrigger>DOTA_ModifyGold_HeroKill</tabTrigger>
+	<scope>source.lua</scope>
+<description>12</description>
+</snippet>

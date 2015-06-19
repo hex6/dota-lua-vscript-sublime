@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cvar_setf(${1:string string_1}, ${2:float float_2})]]></content>
+	<tabTrigger>cvar_setf</tabTrigger>
+	<scope>source.lua</scope>
+<description>Sets the value of the given cvar, as a ''float''.</description>
+</snippet>

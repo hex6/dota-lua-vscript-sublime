@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DynamicHud_SetDialogVariables(${1:int int_1}, ${2:string string_2}, ${3:handle handle_3})]]></content>
+	<tabTrigger>DynamicHud_SetDialogVariables</tabTrigger>
+	<scope>source.lua</scope>
+<description>Add or modify dialog variables for an existing custom hud element ( int PlayerID /*-1 means everyone*/, string ElementID, table DialogVariables )</description>
+</snippet>

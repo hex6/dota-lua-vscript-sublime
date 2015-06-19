@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetCastCount()]]></content>
+	<tabTrigger>GetCastCount</tabTrigger>
+	<scope>source.lua</scope>
+<description>Number of times Nian has used the roar</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DynamicHud_SetVisible(${1:int int_1}, ${2:string string_2}, ${3:bool bool_3})]]></content>
+	<tabTrigger>DynamicHud_SetVisible</tabTrigger>
+	<scope>source.lua</scope>
+<description>Toggle the visibility of an existing custom hud element ( int PlayerID /*-1 means everyone*/, string ElementID, bool Visible )</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT_POWER_TREADS]]></content>
+	<tabTrigger>MODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT_POWER_TREADS</tabTrigger>
+	<scope>source.lua</scope>
+<description>20</description>
+</snippet>

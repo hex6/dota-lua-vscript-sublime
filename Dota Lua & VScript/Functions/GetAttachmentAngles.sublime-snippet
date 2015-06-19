@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetAttachmentAngles(${1:int iAttachment})]]></content>
+	<tabTrigger>GetAttachmentAngles</tabTrigger>
+	<scope>source.lua</scope>
+<description>Get the attachement id's angles as a p,y,r ''vector''</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnHeroDiedNearby(${1:handle unit}, ${2:handle attacker}, ${3:handle table})]]></content>
+	<tabTrigger>OnHeroDiedNearby</tabTrigger>
+	<scope>source.lua</scope>
+<description>A hero has died in the vicinity (ie Urn), takes table of params.</description>
+</snippet>

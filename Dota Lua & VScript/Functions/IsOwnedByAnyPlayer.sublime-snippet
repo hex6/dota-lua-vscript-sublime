@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IsOwnedByAnyPlayer()]]></content>
+	<tabTrigger>IsOwnedByAnyPlayer</tabTrigger>
+	<scope>source.lua</scope>
+<description>Is this unit owned by any non-bot player?</description>
+</snippet>

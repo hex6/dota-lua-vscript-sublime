@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ClientLoadGridNav()]]></content>
+	<tabTrigger>ClientLoadGridNav</tabTrigger>
+	<scope>source.lua</scope>
+<description>Tell clients that they need to load gridnav information. Used for things like allowing clients to identify valid locations to place buildings.</description>
+</snippet>

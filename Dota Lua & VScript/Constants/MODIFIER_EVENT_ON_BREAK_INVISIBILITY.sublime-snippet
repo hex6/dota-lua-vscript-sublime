@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MODIFIER_EVENT_ON_BREAK_INVISIBILITY]]></content>
+	<tabTrigger>MODIFIER_EVENT_ON_BREAK_INVISIBILITY</tabTrigger>
+	<scope>source.lua</scope>
+<description>111</description>
+</snippet>

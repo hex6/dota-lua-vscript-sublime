@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ACT_DOTA_BRIDGE_THREAT]]></content>
+	<tabTrigger>ACT_DOTA_BRIDGE_THREAT</tabTrigger>
+	<scope>source.lua</scope>
+<description>1650</description>
+</snippet>
