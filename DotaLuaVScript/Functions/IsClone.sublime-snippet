@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IsClone()]]></content>
-	<tabTrigger>IsClone</tabTrigger>
-	<scope>source.lua</scope>
-<description>Is this unit a clone? (Meepo)</description>
-</snippet>

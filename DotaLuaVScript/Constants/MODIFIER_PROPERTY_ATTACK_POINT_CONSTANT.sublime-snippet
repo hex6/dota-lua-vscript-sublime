@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MODIFIER_PROPERTY_ATTACK_POINT_CONSTANT]]></content>
-	<tabTrigger>MODIFIER_PROPERTY_ATTACK_POINT_CONSTANT</tabTrigger>
-	<scope>source.lua</scope>
-<description>24</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetCustomGameSetupAutoLaunchDelay(${1:float float_1})]]></content>
-	<tabTrigger>SetCustomGameSetupAutoLaunchDelay</tabTrigger>
-	<scope>source.lua</scope>
-<description>Set the amount of time to wait for auto launch.</description>
-</snippet>

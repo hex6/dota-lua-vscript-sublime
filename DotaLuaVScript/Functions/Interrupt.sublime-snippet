@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Interrupt()]]></content>
-	<tabTrigger>Interrupt</tabTrigger>
-	<scope>source.lua</scope>
-<description>No Description Set</description>
-</snippet>

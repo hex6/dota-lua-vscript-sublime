@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MODIFIER_EVENT_ON_ABILITY_START]]></content>
-	<tabTrigger>MODIFIER_EVENT_ON_ABILITY_START</tabTrigger>
-	<scope>source.lua</scope>
-<description>108</description>
-</snippet>

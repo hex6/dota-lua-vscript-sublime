@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MODIFIER_PROPERTY_BASE_ATTACK_TIME_CONSTANT]]></content>
-	<tabTrigger>MODIFIER_PROPERTY_BASE_ATTACK_TIME_CONSTANT</tabTrigger>
-	<scope>source.lua</scope>
-<description>23</description>
-</snippet>

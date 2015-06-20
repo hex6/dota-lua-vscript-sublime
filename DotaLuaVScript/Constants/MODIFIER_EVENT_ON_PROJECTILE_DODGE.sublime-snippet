@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MODIFIER_EVENT_ON_PROJECTILE_DODGE]]></content>
-	<tabTrigger>MODIFIER_EVENT_ON_PROJECTILE_DODGE</tabTrigger>
-	<scope>source.lua</scope>
-<description>105</description>
-</snippet>

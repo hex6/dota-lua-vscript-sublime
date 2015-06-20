@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DOTA_LOADOUT_TYPE_MISC]]></content>
-	<tabTrigger>DOTA_LOADOUT_TYPE_MISC</tabTrigger>
-	<scope>source.lua</scope>
-<description>14</description>
-</snippet>

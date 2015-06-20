@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetBehavior()]]></content>
-	<tabTrigger>GetBehavior</tabTrigger>
-	<scope>source.lua</scope>
-<description>Return cast behavior type of this ability.</description>
-</snippet>

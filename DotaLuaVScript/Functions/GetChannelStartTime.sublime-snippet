@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetChannelStartTime()]]></content>
-	<tabTrigger>GetChannelStartTime</tabTrigger>
-	<scope>source.lua</scope>
-<description>No Description Set</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ACT_DOTA_LEAP_SWIPE]]></content>
-	<tabTrigger>ACT_DOTA_LEAP_SWIPE</tabTrigger>
-	<scope>source.lua</scope>
-<description>1659</description>
-</snippet>

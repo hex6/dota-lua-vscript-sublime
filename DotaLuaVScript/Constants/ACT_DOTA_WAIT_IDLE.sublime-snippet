@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ACT_DOTA_WAIT_IDLE]]></content>
-	<tabTrigger>ACT_DOTA_WAIT_IDLE</tabTrigger>
-	<scope>source.lua</scope>
-<description>1689</description>
-</snippet>

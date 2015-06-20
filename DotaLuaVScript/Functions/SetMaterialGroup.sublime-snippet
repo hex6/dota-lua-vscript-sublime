@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetMaterialGroup(${1:utlstringtoken utlstringtoken_1})]]></content>
-	<tabTrigger>SetMaterialGroup</tabTrigger>
-	<scope>source.lua</scope>
-<description>No Description Set</description>
-</snippet>

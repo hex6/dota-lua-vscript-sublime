@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MODIFIER_PROPERTY_MOVESPEED_BONUS_UNIQUE]]></content>
-	<tabTrigger>MODIFIER_PROPERTY_MOVESPEED_BONUS_UNIQUE</tabTrigger>
-	<scope>source.lua</scope>
-<description>14</description>
-</snippet>

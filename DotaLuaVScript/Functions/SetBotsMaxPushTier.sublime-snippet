@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetBotsMaxPushTier(${1:int nMaxTier})]]></content>
-	<tabTrigger>SetBotsMaxPushTier</tabTrigger>
-	<scope>source.lua</scope>
-<description>Set the max tier of tower that bots want to push. (-1 to disable)</description>
-</snippet>

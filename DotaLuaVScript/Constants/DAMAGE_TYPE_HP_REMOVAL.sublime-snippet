@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DAMAGE_TYPE_HP_REMOVAL]]></content>
-	<tabTrigger>DAMAGE_TYPE_HP_REMOVAL</tabTrigger>
-	<scope>source.lua</scope>
-<description>8</description>
-</snippet>

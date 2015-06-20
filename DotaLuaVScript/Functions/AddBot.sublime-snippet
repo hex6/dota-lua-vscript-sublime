@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AddBot(${1:string string_1}, ${2:string string_2}, ${3:string string_3}, ${4:bool bool_4})]]></content>
-	<tabTrigger>AddBot</tabTrigger>
-	<scope>source.lua</scope>
-<description>Add a computer controlled bot.</description>
-</snippet>

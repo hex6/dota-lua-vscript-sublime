@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetAbsOrigin()]]></content>
-	<tabTrigger>GetAbsOrigin</tabTrigger>
-	<scope>source.lua</scope>
-<description>No Description Set</description>
-</snippet>

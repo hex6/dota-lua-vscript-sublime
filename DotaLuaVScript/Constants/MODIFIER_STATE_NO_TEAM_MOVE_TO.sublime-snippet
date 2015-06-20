@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MODIFIER_STATE_NO_TEAM_MOVE_TO]]></content>
-	<tabTrigger>MODIFIER_STATE_NO_TEAM_MOVE_TO</tabTrigger>
-	<scope>source.lua</scope>
-<description>25</description>
-</snippet>

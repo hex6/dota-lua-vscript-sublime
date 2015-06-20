@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MODIFIER_PROPERTY_FORCE_DRAW_MINIMAP]]></content>
-	<tabTrigger>MODIFIER_PROPERTY_FORCE_DRAW_MINIMAP</tabTrigger>
-	<scope>source.lua</scope>
-<description>141</description>
-</snippet>

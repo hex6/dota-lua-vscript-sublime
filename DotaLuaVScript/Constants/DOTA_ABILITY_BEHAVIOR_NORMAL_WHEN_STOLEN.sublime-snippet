@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DOTA_ABILITY_BEHAVIOR_NORMAL_WHEN_STOLEN]]></content>
-	<tabTrigger>DOTA_ABILITY_BEHAVIOR_NORMAL_WHEN_STOLEN</tabTrigger>
-	<scope>source.lua</scope>
-<description>67108864</description>
-</snippet>

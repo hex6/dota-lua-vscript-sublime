@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LimitPathingSearchDepth(${1:float float_1})]]></content>
-	<tabTrigger>LimitPathingSearchDepth</tabTrigger>
-	<scope>source.lua</scope>
-<description>Set the limit on the pathfinding search space.</description>
-</snippet>

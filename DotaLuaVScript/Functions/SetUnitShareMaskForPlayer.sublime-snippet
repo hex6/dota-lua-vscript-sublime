@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetUnitShareMaskForPlayer(${1:int nPlayerID}, ${2:int nOtherPlayerID}, ${3:int nFlag}, ${4:bool bState})]]></content>
-	<tabTrigger>SetUnitShareMaskForPlayer</tabTrigger>
-	<scope>source.lua</scope>
-<description>No Description Set</description>
-</snippet>

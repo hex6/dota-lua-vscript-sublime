@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetParticleControlForward(${1:int int_1}, ${2:int int_2}, ${3:Vector Vector_3})]]></content>
-	<tabTrigger>SetParticleControlForward</tabTrigger>
-	<scope>source.lua</scope>
-<description>(int nFXIndex, int nPoint, vForward)</description>
-</snippet>

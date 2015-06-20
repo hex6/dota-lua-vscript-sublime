@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DOTA_HERO_PICK_STATE_CUSTOMGAME_SELECT]]></content>
-	<tabTrigger>DOTA_HERO_PICK_STATE_CUSTOMGAME_SELECT</tabTrigger>
-	<scope>source.lua</scope>
-<description>54</description>
-</snippet>

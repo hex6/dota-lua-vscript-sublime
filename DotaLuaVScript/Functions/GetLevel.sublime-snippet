@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetLevel()]]></content>
-	<tabTrigger>GetLevel</tabTrigger>
-	<scope>source.lua</scope>
-<description>Returns the level of this unit.</description>
-</snippet>

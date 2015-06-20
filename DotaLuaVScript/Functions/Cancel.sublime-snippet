@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Cancel()]]></content>
-	<tabTrigger>Cancel</tabTrigger>
-	<scope>source.lua</scope>
-<description>Cancel scene playback</description>
-</snippet>

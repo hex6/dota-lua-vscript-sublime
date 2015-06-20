@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MODIFIER_EVENT_ON_TELEPORTED]]></content>
-	<tabTrigger>MODIFIER_EVENT_ON_TELEPORTED</tabTrigger>
-	<scope>source.lua</scope>
-<description>123</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DOTA_HUD_VISIBILITY_TOP_TIMEOFDAY]]></content>
-	<tabTrigger>DOTA_HUD_VISIBILITY_TOP_TIMEOFDAY</tabTrigger>
-	<scope>source.lua</scope>
-<description>0</description>
-</snippet>

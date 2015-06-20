@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[RedirectOutput(${1:string string_1}, ${2:string string_2}, ${3:handle handle_3})]]></content>
-	<tabTrigger>RedirectOutput</tabTrigger>
-	<scope>source.lua</scope>
-<description>Adds an I/O connection that will call the named function on the passed entity when the specified output fires.</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetContextThink(${1:string pszContextName}, ${2:handle hThinkFunc}, ${3:float flInterval})]]></content>
-	<tabTrigger>SetContextThink</tabTrigger>
-	<scope>source.lua</scope>
-<description>Set a think function on this entity.</description>
-</snippet>

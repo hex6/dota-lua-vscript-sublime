@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DOTA_MUSIC_STATUS_LAST]]></content>
-	<tabTrigger>DOTA_MUSIC_STATUS_LAST</tabTrigger>
-	<scope>source.lua</scope>
-<description>5</description>
-</snippet>

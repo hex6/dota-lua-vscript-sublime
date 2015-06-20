@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ITEM_NOT_SHAREABLE]]></content>
-	<tabTrigger>ITEM_NOT_SHAREABLE</tabTrigger>
-	<scope>source.lua</scope>
-<description>2</description>
-</snippet>

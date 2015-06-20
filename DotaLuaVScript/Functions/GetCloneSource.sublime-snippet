@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetCloneSource()]]></content>
-	<tabTrigger>GetCloneSource</tabTrigger>
-	<scope>source.lua</scope>
-<description>Get clone source (Meepo Prime, if this is a Meepo)</description>
-</snippet>

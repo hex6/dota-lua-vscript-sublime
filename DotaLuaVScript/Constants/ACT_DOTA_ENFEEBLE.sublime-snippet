@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ACT_DOTA_ENFEEBLE]]></content>
-	<tabTrigger>ACT_DOTA_ENFEEBLE</tabTrigger>
-	<scope>source.lua</scope>
-<description>1674</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetTimeUntilRespawn(${1:float time})]]></content>
-	<tabTrigger>SetTimeUntilRespawn</tabTrigger>
-	<scope>source.lua</scope>
-<description>No Description Set</description>
-</snippet>

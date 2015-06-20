@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DebugDrawText(${1:Vector Vector_1}, ${2:string string_2}, ${3:bool bool_3}, ${4:float float_4})]]></content>
-	<tabTrigger>DebugDrawText</tabTrigger>
-	<scope>source.lua</scope>
-<description>Draw text in 3d (origin, text, bViewCheck, duration)</description>
-</snippet>

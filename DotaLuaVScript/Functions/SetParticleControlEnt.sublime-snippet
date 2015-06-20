@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetParticleControlEnt(${1:int int_1}, ${2:int int_2}, ${3:handle handle_3}, ${4:int int_4}, ${5:string string_5}, ${6:Vector Vector_6}, ${7:bool bool_7})]]></content>
-	<tabTrigger>SetParticleControlEnt</tabTrigger>
-	<scope>source.lua</scope>
-<description>No Description Set</description>
-</snippet>

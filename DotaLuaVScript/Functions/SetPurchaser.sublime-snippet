@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetPurchaser(${1:handle hPurchaser})]]></content>
-	<tabTrigger>SetPurchaser</tabTrigger>
-	<scope>source.lua</scope>
-<description>Set the purchaser of record for this item.</description>
-</snippet>

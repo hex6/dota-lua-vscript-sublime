@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetValue(${1:string string_1})]]></content>
-	<tabTrigger>GetValue</tabTrigger>
-	<scope>source.lua</scope>
-<description>Reads a spawn key</description>
-</snippet>

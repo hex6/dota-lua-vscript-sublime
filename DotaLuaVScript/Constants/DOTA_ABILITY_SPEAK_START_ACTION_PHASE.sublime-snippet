@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DOTA_ABILITY_SPEAK_START_ACTION_PHASE]]></content>
-	<tabTrigger>DOTA_ABILITY_SPEAK_START_ACTION_PHASE</tabTrigger>
-	<scope>source.lua</scope>
-<description>0</description>
-</snippet>

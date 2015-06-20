@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DoIncludeScript(${1:string string_1}, ${2:handle handle_2})]]></content>
-	<tabTrigger>DoIncludeScript</tabTrigger>
-	<scope>source.lua</scope>
-<description>Execute a script (internal)</description>
-</snippet>

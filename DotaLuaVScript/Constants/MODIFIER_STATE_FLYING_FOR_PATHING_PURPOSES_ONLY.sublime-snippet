@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MODIFIER_STATE_FLYING_FOR_PATHING_PURPOSES_ONLY]]></content>
-	<tabTrigger>MODIFIER_STATE_FLYING_FOR_PATHING_PURPOSES_ONLY</tabTrigger>
-	<scope>source.lua</scope>
-<description>32</description>
-</snippet>

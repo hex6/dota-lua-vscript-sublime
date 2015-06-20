@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DOTA_ModifyGold_SelectionPenalty]]></content>
-	<tabTrigger>DOTA_ModifyGold_SelectionPenalty</tabTrigger>
-	<scope>source.lua</scope>
-<description>9</description>
-</snippet>

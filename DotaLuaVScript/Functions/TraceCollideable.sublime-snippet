@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TraceCollideable(${1:handle handle_1})]]></content>
-	<tabTrigger>TraceCollideable</tabTrigger>
-	<scope>source.lua</scope>
-<description>Pass ''table'' - Inputs: start, end, ent, (optional mins, maxs) -- outputs: pos, fraction, hit, startsolid, normal</description>
-</snippet>

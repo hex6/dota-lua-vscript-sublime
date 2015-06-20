@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IsHardDisarmed()]]></content>
-	<tabTrigger>IsHardDisarmed</tabTrigger>
-	<scope>source.lua</scope>
-<description>No Description Set</description>
-</snippet>

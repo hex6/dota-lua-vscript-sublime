@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ACT_DOTA_LASSO_LOOP]]></content>
-	<tabTrigger>ACT_DOTA_LASSO_LOOP</tabTrigger>
-	<scope>source.lua</scope>
-<description>1578</description>
-</snippet>

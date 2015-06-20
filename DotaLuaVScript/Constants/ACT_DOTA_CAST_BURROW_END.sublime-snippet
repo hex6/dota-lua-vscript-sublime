@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ACT_DOTA_CAST_BURROW_END]]></content>
-	<tabTrigger>ACT_DOTA_CAST_BURROW_END</tabTrigger>
-	<scope>source.lua</scope>
-<description>1702</description>
-</snippet>

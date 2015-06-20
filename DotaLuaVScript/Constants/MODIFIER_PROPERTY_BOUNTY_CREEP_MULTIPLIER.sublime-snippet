@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MODIFIER_PROPERTY_BOUNTY_CREEP_MULTIPLIER]]></content>
-	<tabTrigger>MODIFIER_PROPERTY_BOUNTY_CREEP_MULTIPLIER</tabTrigger>
-	<scope>source.lua</scope>
-<description>97</description>
-</snippet>

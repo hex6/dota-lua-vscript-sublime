@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[RemoveBroadcastTeamTarget(${1:int int_1})]]></content>
-	<tabTrigger>RemoveBroadcastTeamTarget</tabTrigger>
-	<scope>source.lua</scope>
-<description>Removes a team (by index) from the broadcast list</description>
-</snippet>

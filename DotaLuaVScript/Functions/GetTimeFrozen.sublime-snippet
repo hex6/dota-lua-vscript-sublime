@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetTimeFrozen()]]></content>
-	<tabTrigger>GetTimeFrozen</tabTrigger>
-	<scope>source.lua</scope>
-<description>Is our time frozen?</description>
-</snippet>

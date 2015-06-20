@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DOTA_MINIMAP_EVENT_BASE_UNDER_ATTACK]]></content>
-	<tabTrigger>DOTA_MINIMAP_EVENT_BASE_UNDER_ATTACK</tabTrigger>
-	<scope>source.lua</scope>
-<description>4</description>
-</snippet>

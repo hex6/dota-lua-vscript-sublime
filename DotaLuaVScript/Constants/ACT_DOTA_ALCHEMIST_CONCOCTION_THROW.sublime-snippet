@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ACT_DOTA_ALCHEMIST_CONCOCTION_THROW]]></content>
-	<tabTrigger>ACT_DOTA_ALCHEMIST_CONCOCTION_THROW</tabTrigger>
-	<scope>source.lua</scope>
-<description>1579</description>
-</snippet>

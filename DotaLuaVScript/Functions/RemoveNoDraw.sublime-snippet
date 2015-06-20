@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[RemoveNoDraw()]]></content>
-	<tabTrigger>RemoveNoDraw</tabTrigger>
-	<scope>source.lua</scope>
-<description>Remove the no draw flag.</description>
-</snippet>

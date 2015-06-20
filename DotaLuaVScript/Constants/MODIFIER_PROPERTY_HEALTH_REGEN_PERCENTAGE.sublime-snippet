@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MODIFIER_PROPERTY_HEALTH_REGEN_PERCENTAGE]]></content>
-	<tabTrigger>MODIFIER_PROPERTY_HEALTH_REGEN_PERCENTAGE</tabTrigger>
-	<scope>source.lua</scope>
-<description>50</description>
-</snippet>

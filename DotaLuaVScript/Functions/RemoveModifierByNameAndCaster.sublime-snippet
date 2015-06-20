@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[RemoveModifierByNameAndCaster(${1:string pszScriptName}, ${2:handle hCaster})]]></content>
-	<tabTrigger>RemoveModifierByNameAndCaster</tabTrigger>
-	<scope>source.lua</scope>
-<description>Removes a modifier that was cast by the given caster</description>
-</snippet>

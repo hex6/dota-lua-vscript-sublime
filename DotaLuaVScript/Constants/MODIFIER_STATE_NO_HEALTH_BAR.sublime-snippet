@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MODIFIER_STATE_NO_HEALTH_BAR]]></content>
-	<tabTrigger>MODIFIER_STATE_NO_HEALTH_BAR</tabTrigger>
-	<scope>source.lua</scope>
-<description>22</description>
-</snippet>

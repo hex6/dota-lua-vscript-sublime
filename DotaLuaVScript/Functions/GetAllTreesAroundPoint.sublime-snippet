@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetAllTreesAroundPoint(${1:Vector Vector_1}, ${2:float float_2}, ${3:bool bool_3})]]></content>
-	<tabTrigger>GetAllTreesAroundPoint</tabTrigger>
-	<scope>source.lua</scope>
-<description>Returns a table full of tree HSCRIPTS (vPosition, flRadius, bFullCollision).</description>
-</snippet>

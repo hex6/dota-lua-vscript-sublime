@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MODIFIER_PROPERTY_RESPAWNTIME]]></content>
-	<tabTrigger>MODIFIER_PROPERTY_RESPAWNTIME</tabTrigger>
-	<scope>source.lua</scope>
-<description>63</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetCustomCastError()]]></content>
-	<tabTrigger>GetCustomCastError</tabTrigger>
-	<scope>source.lua</scope>
-<description>Return the error string of a failed command with no target.</description>
-</snippet>

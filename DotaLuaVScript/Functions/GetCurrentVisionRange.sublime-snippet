@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetCurrentVisionRange()]]></content>
-	<tabTrigger>GetCurrentVisionRange</tabTrigger>
-	<scope>source.lua</scope>
-<description>Gets the current vision range.</description>
-</snippet>

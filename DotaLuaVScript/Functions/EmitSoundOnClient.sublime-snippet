@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EmitSoundOnClient(${1:string string_1}, ${2:handle handle_2})]]></content>
-	<tabTrigger>EmitSoundOnClient</tabTrigger>
-	<scope>source.lua</scope>
-<description>Play named sound only on the client for the passed in player</description>
-</snippet>

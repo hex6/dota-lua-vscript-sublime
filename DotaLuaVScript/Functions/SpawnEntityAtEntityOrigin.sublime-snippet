@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SpawnEntityAtEntityOrigin(${1:handle hEntity})]]></content>
-	<tabTrigger>SpawnEntityAtEntityOrigin</tabTrigger>
-	<scope>source.lua</scope>
-<description>Create an entity at the location of a specified entity instance</description>
-</snippet>

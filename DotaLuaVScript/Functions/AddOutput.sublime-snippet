@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AddOutput(${1:string string_1}, ${2:string string_2})]]></content>
-	<tabTrigger>AddOutput</tabTrigger>
-	<scope>source.lua</scope>
-<description>Add an output</description>
-</snippet>

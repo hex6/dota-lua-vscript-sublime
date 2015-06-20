@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetAbilityByIndex(${1:int iIndex})]]></content>
-	<tabTrigger>GetAbilityByIndex</tabTrigger>
-	<scope>source.lua</scope>
-<description>Retrieve an ability by index from the unit.</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IsOther()]]></content>
-	<tabTrigger>IsOther</tabTrigger>
-	<scope>source.lua</scope>
-<description>Is this unit a ward-type unit?</description>
-</snippet>

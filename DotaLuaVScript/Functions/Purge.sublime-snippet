@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Purge(${1:bool bRemovePositiveBuffs}, ${2:bool bRemoveDebuffs}, ${3:bool bFrameOnly}, ${4:bool bRemoveStuns}, ${5:bool bRemoveExceptions})]]></content>
-	<tabTrigger>Purge</tabTrigger>
-	<scope>source.lua</scope>
-<description>(bool RemovePositiveBuffs, bool RemoveDebuffs, bool BuffsCreatedThisFrameOnly, bool RemoveStuns, bool RemoveExceptions</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ACT_DOTA_ITEM_DROP]]></content>
-	<tabTrigger>ACT_DOTA_ITEM_DROP</tabTrigger>
-	<scope>source.lua</scope>
-<description>1697</description>
-</snippet>

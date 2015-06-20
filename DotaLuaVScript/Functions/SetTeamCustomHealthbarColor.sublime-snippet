@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetTeamCustomHealthbarColor(${1:int int_1}, ${2:int int_2}, ${3:int int_3}, ${4:int int_4})]]></content>
-	<tabTrigger>SetTeamCustomHealthbarColor</tabTrigger>
-	<scope>source.lua</scope>
-<description>( teamNumber, r, g, b )</description>
-</snippet>

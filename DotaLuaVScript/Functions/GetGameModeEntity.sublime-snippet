@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetGameModeEntity()]]></content>
-	<tabTrigger>GetGameModeEntity</tabTrigger>
-	<scope>source.lua</scope>
-<description>Get the game mode entity</description>
-</snippet>

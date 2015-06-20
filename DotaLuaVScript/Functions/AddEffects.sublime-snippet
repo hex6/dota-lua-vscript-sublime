@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AddEffects(${1:int nFlags})]]></content>
-	<tabTrigger>AddEffects</tabTrigger>
-	<scope>source.lua</scope>
-<description>AddEffects( int ): Adds the render effect flag.</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetPrimaryAttribute()]]></content>
-	<tabTrigger>GetPrimaryAttribute</tabTrigger>
-	<scope>source.lua</scope>
-<description>0 = strength, 1 = agility, 2 = intelligence.</description>
-</snippet>

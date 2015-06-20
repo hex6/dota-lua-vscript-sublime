@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CastAbilityOnPosition(${1:Vector vPosition}, ${2:handle hAbility}, ${3:int iPlayerIndex})]]></content>
-	<tabTrigger>CastAbilityOnPosition</tabTrigger>
-	<scope>source.lua</scope>
-<description>Cast an ability on a position.</description>
-</snippet>

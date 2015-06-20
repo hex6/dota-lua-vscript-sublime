@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IsRealHero()]]></content>
-	<tabTrigger>IsRealHero</tabTrigger>
-	<scope>source.lua</scope>
-<description>Returns true if the hero is a true Hero, not a creep or an Illusion of a hero</description>
-</snippet>

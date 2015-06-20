@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetBuybackCost()]]></content>
-	<tabTrigger>GetBuybackCost</tabTrigger>
-	<scope>source.lua</scope>
-<description>Return integer value for the gold cost of a buyback.</description>
-</snippet>

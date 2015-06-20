@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetNianFightStartTime()]]></content>
-	<tabTrigger>GetNianFightStartTime</tabTrigger>
-	<scope>source.lua</scope>
-<description>Gets the start time for the Nian fight</description>
-</snippet>

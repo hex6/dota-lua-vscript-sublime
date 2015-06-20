@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IsChanneling()]]></content>
-	<tabTrigger>IsChanneling</tabTrigger>
-	<scope>source.lua</scope>
-<description>Is this unit currently channeling a spell?</description>
-</snippet>

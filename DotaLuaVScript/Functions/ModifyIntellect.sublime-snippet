@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ModifyIntellect(${1:float flNewIntellect})]]></content>
-	<tabTrigger>ModifyIntellect</tabTrigger>
-	<scope>source.lua</scope>
-<description>Adds passed value to base attribute value, then calls CalculateStatBonus.</description>
-</snippet>

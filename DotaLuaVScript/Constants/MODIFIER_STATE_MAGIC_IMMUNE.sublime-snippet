@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MODIFIER_STATE_MAGIC_IMMUNE]]></content>
-	<tabTrigger>MODIFIER_STATE_MAGIC_IMMUNE</tabTrigger>
-	<scope>source.lua</scope>
-<description>9</description>
-</snippet>

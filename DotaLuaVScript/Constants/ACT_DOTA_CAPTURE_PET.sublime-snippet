@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ACT_DOTA_CAPTURE_PET]]></content>
-	<tabTrigger>ACT_DOTA_CAPTURE_PET</tabTrigger>
-	<scope>source.lua</scope>
-<description>1698</description>
-</snippet>

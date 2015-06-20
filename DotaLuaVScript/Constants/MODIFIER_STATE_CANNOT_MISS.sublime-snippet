@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MODIFIER_STATE_CANNOT_MISS]]></content>
-	<tabTrigger>MODIFIER_STATE_CANNOT_MISS</tabTrigger>
-	<scope>source.lua</scope>
-<description>15</description>
-</snippet>

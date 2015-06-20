@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MODIFIER_PROPERTY_AVOID_SPELL]]></content>
-	<tabTrigger>MODIFIER_PROPERTY_AVOID_SPELL</tabTrigger>
-	<scope>source.lua</scope>
-<description>35</description>
-</snippet>

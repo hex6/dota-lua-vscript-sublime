@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[RemoveGesture(${1:int nActivity})]]></content>
-	<tabTrigger>RemoveGesture</tabTrigger>
-	<scope>source.lua</scope>
-<description>Remove the given gesture activity.</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[OnToggle()]]></content>
-	<tabTrigger>OnToggle</tabTrigger>
-	<scope>source.lua</scope>
-<description>Ability is toggled on/off.</description>
-</snippet>

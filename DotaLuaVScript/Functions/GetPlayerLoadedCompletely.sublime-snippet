@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetPlayerLoadedCompletely(${1:int iPlayerID})]]></content>
-	<tabTrigger>GetPlayerLoadedCompletely</tabTrigger>
-	<scope>source.lua</scope>
-<description>No Description Set</description>
-</snippet>

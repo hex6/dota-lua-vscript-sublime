@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DOTA_SPEECH_USER_NEARBY]]></content>
-	<tabTrigger>DOTA_SPEECH_USER_NEARBY</tabTrigger>
-	<scope>source.lua</scope>
-<description>4</description>
-</snippet>

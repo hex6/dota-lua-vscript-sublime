@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ACT_DOTA_CAST_ALACRITY]]></content>
-	<tabTrigger>ACT_DOTA_CAST_ALACRITY</tabTrigger>
-	<scope>source.lua</scope>
-<description>1585</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DOTA_LOADOUT_TYPE_COURIER]]></content>
-	<tabTrigger>DOTA_LOADOUT_TYPE_COURIER</tabTrigger>
-	<scope>source.lua</scope>
-<description>29</description>
-</snippet>

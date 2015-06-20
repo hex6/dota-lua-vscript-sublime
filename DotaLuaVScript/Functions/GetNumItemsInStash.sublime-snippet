@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetNumItemsInStash()]]></content>
-	<tabTrigger>GetNumItemsInStash</tabTrigger>
-	<scope>source.lua</scope>
-<description></description>
-</snippet>

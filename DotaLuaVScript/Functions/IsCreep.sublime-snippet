@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IsCreep()]]></content>
-	<tabTrigger>IsCreep</tabTrigger>
-	<scope>source.lua</scope>
-<description>Is this unit a creep?</description>
-</snippet>

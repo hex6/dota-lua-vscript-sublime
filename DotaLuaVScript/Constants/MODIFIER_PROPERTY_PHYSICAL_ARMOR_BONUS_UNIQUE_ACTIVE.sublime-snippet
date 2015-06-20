@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MODIFIER_PROPERTY_PHYSICAL_ARMOR_BONUS_UNIQUE_ACTIVE]]></content>
-	<tabTrigger>MODIFIER_PROPERTY_PHYSICAL_ARMOR_BONUS_UNIQUE_ACTIVE</tabTrigger>
-	<scope>source.lua</scope>
-<description>40</description>
-</snippet>

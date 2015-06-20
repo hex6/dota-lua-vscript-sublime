@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IsRefreshable()]]></content>
-	<tabTrigger>IsRefreshable</tabTrigger>
-	<scope>source.lua</scope>
-<description>Returns true if this ability is refreshed by Refresher Orb.</description>
-</snippet>

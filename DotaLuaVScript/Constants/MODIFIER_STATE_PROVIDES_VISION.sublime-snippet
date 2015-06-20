@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MODIFIER_STATE_PROVIDES_VISION]]></content>
-	<tabTrigger>MODIFIER_STATE_PROVIDES_VISION</tabTrigger>
-	<scope>source.lua</scope>
-<description>10</description>
-</snippet>

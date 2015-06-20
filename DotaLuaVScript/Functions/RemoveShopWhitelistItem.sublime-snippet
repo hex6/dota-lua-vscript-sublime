@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[RemoveShopWhitelistItem(${1:string string_1})]]></content>
-	<tabTrigger>RemoveShopWhitelistItem</tabTrigger>
-	<scope>source.lua</scope>
-<description>Remove an item from the shop whitelist.</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetNianFightStartTime(${1:float float_1})]]></content>
-	<tabTrigger>SetNianFightStartTime</tabTrigger>
-	<scope>source.lua</scope>
-<description>Sets the start time for the Nian fight</description>
-</snippet>

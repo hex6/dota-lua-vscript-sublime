@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DOTA_ABILITY_BEHAVIOR_ITEM]]></content>
-	<tabTrigger>DOTA_ABILITY_BEHAVIOR_ITEM</tabTrigger>
-	<scope>source.lua</scope>
-<description>256</description>
-</snippet>

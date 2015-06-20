@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DOTA_SPEECH_SPECTATOR]]></content>
-	<tabTrigger>DOTA_SPEECH_SPECTATOR</tabTrigger>
-	<scope>source.lua</scope>
-<description>8</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ACT_DOTA_RATTLETRAP_BATTERYASSAULT]]></content>
-	<tabTrigger>ACT_DOTA_RATTLETRAP_BATTERYASSAULT</tabTrigger>
-	<scope>source.lua</scope>
-<description>1549</description>
-</snippet>

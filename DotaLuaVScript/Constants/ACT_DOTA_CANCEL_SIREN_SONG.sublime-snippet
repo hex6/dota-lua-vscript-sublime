@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ACT_DOTA_CANCEL_SIREN_SONG]]></content>
-	<tabTrigger>ACT_DOTA_CANCEL_SIREN_SONG</tabTrigger>
-	<scope>source.lua</scope>
-<description>1599</description>
-</snippet>

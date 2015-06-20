@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetGoldPerMin(${1:int iPlayerID})]]></content>
-	<tabTrigger>GetGoldPerMin</tabTrigger>
-	<scope>source.lua</scope>
-<description>No Description Set</description>
-</snippet>

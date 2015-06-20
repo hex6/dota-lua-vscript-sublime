@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Attribute_SetIntValue(${1:string pName}, ${2:int nValue})]]></content>
-	<tabTrigger>Attribute_SetIntValue</tabTrigger>
-	<scope>source.lua</scope>
-<description>Set int value for an entity attribute.</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ACT_DOTA_CAST_ABILITY_4]]></content>
-	<tabTrigger>ACT_DOTA_CAST_ABILITY_4</tabTrigger>
-	<scope>source.lua</scope>
-<description>1513</description>
-</snippet>

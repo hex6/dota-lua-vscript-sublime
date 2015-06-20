@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Normalized()]]></content>
-	<tabTrigger>Normalized</tabTrigger>
-	<scope>source.lua</scope>
-<description>Returns the vector normalized</description>
-</snippet>

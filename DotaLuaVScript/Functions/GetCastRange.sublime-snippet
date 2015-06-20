@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetCastRange(${1:Vector vLocation}, ${2:handle hTarget})]]></content>
-	<tabTrigger>GetCastRange</tabTrigger>
-	<scope>source.lua</scope>
-<description>Return cast range of this ability.</description>
-</snippet>

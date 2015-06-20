@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetInvulnCount()]]></content>
-	<tabTrigger>GetInvulnCount</tabTrigger>
-	<scope>source.lua</scope>
-<description>Get the invulnerability count for a building.</description>
-</snippet>

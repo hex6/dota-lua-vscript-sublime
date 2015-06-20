@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SpeakTrigger()]]></content>
-	<tabTrigger>SpeakTrigger</tabTrigger>
-	<scope>source.lua</scope>
-<description>Return the type of speech used.</description>
-</snippet>

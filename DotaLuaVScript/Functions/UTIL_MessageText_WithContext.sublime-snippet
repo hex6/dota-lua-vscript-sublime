@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UTIL_MessageText_WithContext(${1:int playerId}, ${2:string message}, ${3:int r}, ${4:int g}, ${5:int b}, ${6:int a}, ${7:table context})]]></content>
-	<tabTrigger>UTIL_MessageText_WithContext</tabTrigger>
-	<scope>source.lua</scope>
-<description>Sends a message to a specific player in the message box with a context table</description>
-</snippet>

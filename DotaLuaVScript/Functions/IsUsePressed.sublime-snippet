@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IsUsePressed()]]></content>
-	<tabTrigger>IsUsePressed</tabTrigger>
-	<scope>source.lua</scope>
-<description>Returns true if the use key is pressed.</description>
-</snippet>

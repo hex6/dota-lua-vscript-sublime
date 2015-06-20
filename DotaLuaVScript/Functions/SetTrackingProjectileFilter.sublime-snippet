@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetTrackingProjectileFilter(${1:handle hFunction}, ${2:handle hContext})]]></content>
-	<tabTrigger>SetTrackingProjectileFilter</tabTrigger>
-	<scope>source.lua</scope>
-<description>Set a filter function to control when tracking projectiles are launched. (Modify the table and Return true to use new values, return false to cancel the event)</description>
-</snippet>

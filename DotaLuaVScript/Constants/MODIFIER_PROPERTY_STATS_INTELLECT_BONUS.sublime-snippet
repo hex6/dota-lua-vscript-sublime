@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MODIFIER_PROPERTY_STATS_INTELLECT_BONUS]]></content>
-	<tabTrigger>MODIFIER_PROPERTY_STATS_INTELLECT_BONUS</tabTrigger>
-	<scope>source.lua</scope>
-<description>59</description>
-</snippet>

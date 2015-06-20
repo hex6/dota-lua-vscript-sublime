@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IsConsideredHero()]]></content>
-	<tabTrigger>IsConsideredHero</tabTrigger>
-	<scope>source.lua</scope>
-<description>Is this unit a considered a hero for targeting purposes?</description>
-</snippet>

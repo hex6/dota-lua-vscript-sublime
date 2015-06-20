@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[OnOwnerDied()]]></content>
-	<tabTrigger>OnOwnerDied</tabTrigger>
-	<scope>source.lua</scope>
-<description>Caster died.</description>
-</snippet>

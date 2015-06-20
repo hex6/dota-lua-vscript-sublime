@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IsRooted()]]></content>
-	<tabTrigger>IsRooted</tabTrigger>
-	<scope>source.lua</scope>
-<description>No Description Set</description>
-</snippet>

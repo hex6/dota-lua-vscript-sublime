@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MODIFIER_PROPERTY_BOUNTY_OTHER_MULTIPLIER]]></content>
-	<tabTrigger>MODIFIER_PROPERTY_BOUNTY_OTHER_MULTIPLIER</tabTrigger>
-	<scope>source.lua</scope>
-<description>98</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetBounds()]]></content>
-	<tabTrigger>GetBounds</tabTrigger>
-	<scope>source.lua</scope>
-<description>Get a ''table'' containing the 'Mins' & 'Maxs' ''vector'' bounds, centered on object</description>
-</snippet>

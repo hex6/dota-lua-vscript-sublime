@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ProcsMagicStick()]]></content>
-	<tabTrigger>ProcsMagicStick</tabTrigger>
-	<scope>source.lua</scope>
-<description>Returns true if this ability will generate magic stick charges for nearby enemies.</description>
-</snippet>

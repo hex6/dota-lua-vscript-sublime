@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DOTA_LOADOUT_TYPE_HUD_SKIN]]></content>
-	<tabTrigger>DOTA_LOADOUT_TYPE_HUD_SKIN</tabTrigger>
-	<scope>source.lua</scope>
-<description>34</description>
-</snippet>

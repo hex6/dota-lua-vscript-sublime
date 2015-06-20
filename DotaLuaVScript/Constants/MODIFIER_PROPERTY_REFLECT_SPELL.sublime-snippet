@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MODIFIER_PROPERTY_REFLECT_SPELL]]></content>
-	<tabTrigger>MODIFIER_PROPERTY_REFLECT_SPELL</tabTrigger>
-	<scope>source.lua</scope>
-<description>78</description>
-</snippet>

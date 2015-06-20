@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MODIFIER_PROPERTY_EXTRA_STRENGTH_BONUS]]></content>
-	<tabTrigger>MODIFIER_PROPERTY_EXTRA_STRENGTH_BONUS</tabTrigger>
-	<scope>source.lua</scope>
-<description>53</description>
-</snippet>

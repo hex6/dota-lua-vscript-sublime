@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetCustomGameTeamMaxPlayers(${1:int int_1}, ${2:int int_2})]]></content>
-	<tabTrigger>SetCustomGameTeamMaxPlayers</tabTrigger>
-	<scope>source.lua</scope>
-<description>Set whether a team is selectable during game setup</description>
-</snippet>

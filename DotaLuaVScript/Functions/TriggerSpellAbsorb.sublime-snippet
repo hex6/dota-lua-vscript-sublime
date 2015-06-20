@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TriggerSpellAbsorb(${1:handle hAbility})]]></content>
-	<tabTrigger>TriggerSpellAbsorb</tabTrigger>
-	<scope>source.lua</scope>
-<description>Query whether the passed ability will trigger spell absorb on this unit.</description>
-</snippet>

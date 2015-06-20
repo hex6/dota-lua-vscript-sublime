@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ACT_DOTA_TELEPORT_COOP_WAIT]]></content>
-	<tabTrigger>ACT_DOTA_TELEPORT_COOP_WAIT</tabTrigger>
-	<scope>source.lua</scope>
-<description>1692</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetListenServerHost()]]></content>
-	<tabTrigger>GetListenServerHost</tabTrigger>
-	<scope>source.lua</scope>
-<description>Get the local player on a listen server.</description>
-</snippet>

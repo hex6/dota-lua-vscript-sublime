@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ACT_DOTA_ALCHEMIST_CHEMICAL_RAGE_START]]></content>
-	<tabTrigger>ACT_DOTA_ALCHEMIST_CHEMICAL_RAGE_START</tabTrigger>
-	<scope>source.lua</scope>
-<description>1572</description>
-</snippet>

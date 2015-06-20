@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetHullRadius()]]></content>
-	<tabTrigger>GetHullRadius</tabTrigger>
-	<scope>source.lua</scope>
-<description>Get the collision hull radius of this NPC</description>
-</snippet>

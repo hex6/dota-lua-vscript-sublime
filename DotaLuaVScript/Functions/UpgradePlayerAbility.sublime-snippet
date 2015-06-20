@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UpgradePlayerAbility(${1:string string_1})]]></content>
-	<tabTrigger>UpgradePlayerAbility</tabTrigger>
-	<scope>source.lua</scope>
-<description>Upgrade a specific ability for the local hero</description>
-</snippet>

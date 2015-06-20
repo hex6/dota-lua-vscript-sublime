@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetBountyRunePickupFilter(${1:handle hFunction}, ${2:handle hContext})]]></content>
-	<tabTrigger>SetBountyRunePickupFilter</tabTrigger>
-	<scope>source.lua</scope>
-<description>Set a filter function to control the behavior when a bounty rune is picked up. (Modify the table and Return true to use new values, return false to cancel the event)</description>
-</snippet>

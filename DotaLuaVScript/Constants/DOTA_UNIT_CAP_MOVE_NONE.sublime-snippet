@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DOTA_UNIT_CAP_MOVE_NONE]]></content>
-	<tabTrigger>DOTA_UNIT_CAP_MOVE_NONE</tabTrigger>
-	<scope>source.lua</scope>
-<description>0</description>
-</snippet>

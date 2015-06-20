@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[State_Get()]]></content>
-	<tabTrigger>State_Get</tabTrigger>
-	<scope>source.lua</scope>
-<description>Get the current Gamerules state</description>
-</snippet>

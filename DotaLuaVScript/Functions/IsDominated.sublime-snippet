@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IsDominated()]]></content>
-	<tabTrigger>IsDominated</tabTrigger>
-	<scope>source.lua</scope>
-<description>No Description Set</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MODIFIER_PROPERTY_MOVESPEED_LIMIT]]></content>
-	<tabTrigger>MODIFIER_PROPERTY_MOVESPEED_LIMIT</tabTrigger>
-	<scope>source.lua</scope>
-<description>17</description>
-</snippet>

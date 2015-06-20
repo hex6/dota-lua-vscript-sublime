@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetChannelledManaCostPerSecond(${1:int iLevel})]]></content>
-	<tabTrigger>GetChannelledManaCostPerSecond</tabTrigger>
-	<scope>source.lua</scope>
-<description>No Description Set</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ACT_DOTA_IDLE_RARE]]></content>
-	<tabTrigger>ACT_DOTA_IDLE_RARE</tabTrigger>
-	<scope>source.lua</scope>
-<description>1501</description>
-</snippet>

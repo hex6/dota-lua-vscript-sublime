@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DOTA_HEROPICK_STATE_CM_SELECT4]]></content>
-	<tabTrigger>DOTA_HEROPICK_STATE_CM_SELECT4</tabTrigger>
-	<scope>source.lua</scope>
-<description>20</description>
-</snippet>

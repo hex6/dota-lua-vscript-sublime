@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetMinimumGoldBounty()]]></content>
-	<tabTrigger>GetMinimumGoldBounty</tabTrigger>
-	<scope>source.lua</scope>
-<description>Get the minimum gold bounty for this unit.</description>
-</snippet>

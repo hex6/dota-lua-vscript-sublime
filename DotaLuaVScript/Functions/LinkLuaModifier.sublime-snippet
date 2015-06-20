@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LinkLuaModifier(${1:string string_1}, ${2:int int_2})]]></content>
-	<tabTrigger>LinkLuaModifier</tabTrigger>
-	<scope>source.lua</scope>
-<description>Link a lua-defined modifier with the associated class.</description>
-</snippet>

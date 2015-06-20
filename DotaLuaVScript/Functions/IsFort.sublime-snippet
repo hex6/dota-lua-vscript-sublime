@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IsFort()]]></content>
-	<tabTrigger>IsFort</tabTrigger>
-	<scope>source.lua</scope>
-<description>Is this unit an Ancient?</description>
-</snippet>

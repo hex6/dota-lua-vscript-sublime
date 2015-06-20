@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetDOTATime(${1:bool bool_1}, ${2:bool bool_2})]]></content>
-	<tabTrigger>GetDOTATime</tabTrigger>
-	<scope>source.lua</scope>
-<description>(b IncludePregameTime b IncludeNegativeTime) Returns the actual DOTA in-game clock time.</description>
-</snippet>

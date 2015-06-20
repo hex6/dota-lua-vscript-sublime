@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetInvulnCount(${1:int nInvulnCount})]]></content>
-	<tabTrigger>SetInvulnCount</tabTrigger>
-	<scope>source.lua</scope>
-<description>Set the invulnerability counter of this building.</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE]]></content>
-	<tabTrigger>MODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE</tabTrigger>
-	<scope>source.lua</scope>
-<description>12</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetCustomGameEndDelay(${1:float delay})]]></content>
-	<tabTrigger>SetCustomGameEndDelay</tabTrigger>
-	<scope>source.lua</scope>
-<description>Sets the delay time until the game ends</description>
-</snippet>

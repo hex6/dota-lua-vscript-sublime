@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ACT_DOTA_CAGED_CREEP_RAGE_OUT]]></content>
-	<tabTrigger>ACT_DOTA_CAGED_CREEP_RAGE_OUT</tabTrigger>
-	<scope>source.lua</scope>
-<description>1645</description>
-</snippet>

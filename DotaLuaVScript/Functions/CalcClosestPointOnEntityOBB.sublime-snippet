@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CalcClosestPointOnEntityOBB(${1:handle handle_1}, ${2:Vector Vector_2})]]></content>
-	<tabTrigger>CalcClosestPointOnEntityOBB</tabTrigger>
-	<scope>source.lua</scope>
-<description>Compute the closest point on the OBB of an entity.</description>
-</snippet>

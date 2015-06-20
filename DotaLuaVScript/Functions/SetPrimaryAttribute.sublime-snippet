@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetPrimaryAttribute(${1:int nPrimaryAttribute})]]></content>
-	<tabTrigger>SetPrimaryAttribute</tabTrigger>
-	<scope>source.lua</scope>
-<description>Set this hero's primary attribute value.</description>
-</snippet>

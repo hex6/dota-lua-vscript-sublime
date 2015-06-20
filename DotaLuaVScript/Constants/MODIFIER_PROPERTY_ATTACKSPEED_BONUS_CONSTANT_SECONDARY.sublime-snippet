@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT_SECONDARY]]></content>
-	<tabTrigger>MODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT_SECONDARY</tabTrigger>
-	<scope>source.lua</scope>
-<description>21</description>
-</snippet>

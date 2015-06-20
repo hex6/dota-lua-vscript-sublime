@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetConstraint(${1:Vector vPos})]]></content>
-	<tabTrigger>SetConstraint</tabTrigger>
-	<scope>source.lua</scope>
-<description>Set the position of the constraint.</description>
-</snippet>

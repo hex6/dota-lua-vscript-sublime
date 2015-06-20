@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IsAttackImmune()]]></content>
-	<tabTrigger>IsAttackImmune</tabTrigger>
-	<scope>source.lua</scope>
-<description>No Description Set</description>
-</snippet>

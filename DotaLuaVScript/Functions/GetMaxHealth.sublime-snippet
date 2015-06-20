@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetMaxHealth()]]></content>
-	<tabTrigger>GetMaxHealth</tabTrigger>
-	<scope>source.lua</scope>
-<description>Get the maximum health of this unit.</description>
-</snippet>

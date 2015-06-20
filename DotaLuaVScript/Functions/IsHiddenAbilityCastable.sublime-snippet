@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IsHiddenAbilityCastable()]]></content>
-	<tabTrigger>IsHiddenAbilityCastable</tabTrigger>
-	<scope>source.lua</scope>
-<description>Returns true if this ability can be used when not on the action panel.</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[__unm()]]></content>
-	<tabTrigger>__unm</tabTrigger>
-	<scope>source.lua</scope>
-<description>Overloaded - operator</description>
-</snippet>

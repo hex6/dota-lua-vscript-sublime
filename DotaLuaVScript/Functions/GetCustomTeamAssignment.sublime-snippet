@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetCustomTeamAssignment(${1:int playerIndex})]]></content>
-	<tabTrigger>GetCustomTeamAssignment</tabTrigger>
-	<scope>source.lua</scope>
-<description>returns the team number that the player should join</description>
-</snippet>

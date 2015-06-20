@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ACT_DOTA_OVERRIDE_ABILITY_1]]></content>
-	<tabTrigger>ACT_DOTA_OVERRIDE_ABILITY_1</tabTrigger>
-	<scope>source.lua</scope>
-<description>1516</description>
-</snippet>

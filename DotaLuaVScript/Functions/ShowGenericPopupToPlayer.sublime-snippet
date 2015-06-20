@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ShowGenericPopupToPlayer(${1:handle handle_1}, ${2:string string_2}, ${3:string string_3}, ${4:string string_4}, ${5:string string_5}, ${6:int int_6})]]></content>
-	<tabTrigger>ShowGenericPopupToPlayer</tabTrigger>
-	<scope>source.lua</scope>
-<description>Show a generic popup dialog to a specific player.</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DOTA_LOADOUT_TYPE_BELT]]></content>
-	<tabTrigger>DOTA_LOADOUT_TYPE_BELT</tabTrigger>
-	<scope>source.lua</scope>
-<description>8</description>
-</snippet>

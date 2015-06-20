@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetAssignedHero()]]></content>
-	<tabTrigger>GetAssignedHero</tabTrigger>
-	<scope>source.lua</scope>
-<description>Get the player's hero.</description>
-</snippet>

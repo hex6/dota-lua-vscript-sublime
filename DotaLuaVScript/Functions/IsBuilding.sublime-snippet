@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IsBuilding()]]></content>
-	<tabTrigger>IsBuilding</tabTrigger>
-	<scope>source.lua</scope>
-<description>Is this unit a building?</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetCustomTeamAssignment(${1:int playerIndex}, ${2:int teamToJoin})]]></content>
-	<tabTrigger>SetCustomTeamAssignment</tabTrigger>
-	<scope>source.lua</scope>
-<description>Sets the team that the player should join</description>
-</snippet>

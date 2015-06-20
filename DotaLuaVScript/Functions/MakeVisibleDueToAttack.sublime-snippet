@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MakeVisibleDueToAttack(${1:int iTeam})]]></content>
-	<tabTrigger>MakeVisibleDueToAttack</tabTrigger>
-	<scope>source.lua</scope>
-<description>No Description Set</description>
-</snippet>

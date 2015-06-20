@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetTeamKills(${1:int iTeam})]]></content>
-	<tabTrigger>GetTeamKills</tabTrigger>
-	<scope>source.lua</scope>
-<description>No Description Set</description>
-</snippet>

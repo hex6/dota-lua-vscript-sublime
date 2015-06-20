@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DynamicHud_Create(${1:int int_1}, ${2:string string_2}, ${3:string string_3}, ${4:handle handle_4})]]></content>
-	<tabTrigger>DynamicHud_Create</tabTrigger>
-	<scope>source.lua</scope>
-<description>Create a new custom UI HUD element for the specified player(s). ( int PlayerID /*-1 means everyone*/, string ElementID /* should be unique */, string LayoutFileName, table DialogVariables /* can be nil */ )</description>
-</snippet>

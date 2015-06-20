@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SUBQUEST_NUM_TEXT_REPLACE_VALUES]]></content>
-	<tabTrigger>SUBQUEST_NUM_TEXT_REPLACE_VALUES</tabTrigger>
-	<scope>source.lua</scope>
-<description>2</description>
-</snippet>

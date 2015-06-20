@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[RemoveAbility(${1:string pszAbilityName})]]></content>
-	<tabTrigger>RemoveAbility</tabTrigger>
-	<scope>source.lua</scope>
-<description>Remove an ability from this unit by name.</description>
-</snippet>

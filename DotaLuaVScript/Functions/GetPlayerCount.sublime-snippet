@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetPlayerCount()]]></content>
-	<tabTrigger>GetPlayerCount</tabTrigger>
-	<scope>source.lua</scope>
-<description>Includes spectators and players not assigned to a team</description>
-</snippet>

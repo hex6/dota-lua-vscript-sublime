@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DOTA_ABILITY_BEHAVIOR_IGNORE_CHANNEL]]></content>
-	<tabTrigger>DOTA_ABILITY_BEHAVIOR_IGNORE_CHANNEL</tabTrigger>
-	<scope>source.lua</scope>
-<description>4194304</description>
-</snippet>

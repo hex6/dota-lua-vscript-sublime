@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UF_FAIL_NOT_PLAYER_CONTROLLED]]></content>
-	<tabTrigger>UF_FAIL_NOT_PLAYER_CONTROLLED</tabTrigger>
-	<scope>source.lua</scope>
-<description>22</description>
-</snippet>

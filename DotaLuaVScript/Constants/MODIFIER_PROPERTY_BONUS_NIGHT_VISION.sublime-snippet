@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MODIFIER_PROPERTY_BONUS_NIGHT_VISION]]></content>
-	<tabTrigger>MODIFIER_PROPERTY_BONUS_NIGHT_VISION</tabTrigger>
-	<scope>source.lua</scope>
-<description>81</description>
-</snippet>

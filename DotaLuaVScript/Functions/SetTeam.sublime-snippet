@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetTeam(${1:int team})]]></content>
-	<tabTrigger>SetTeam</tabTrigger>
-	<scope>source.lua</scope>
-<description>No Description Set</description>
-</snippet>

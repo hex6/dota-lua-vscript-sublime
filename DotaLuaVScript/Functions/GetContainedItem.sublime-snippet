@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetContainedItem()]]></content>
-	<tabTrigger>GetContainedItem</tabTrigger>
-	<scope>source.lua</scope>
-<description>Returned the contained item.</description>
-</snippet>

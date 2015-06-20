@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetPlayerCountForTeam(${1:int iTeam})]]></content>
-	<tabTrigger>GetPlayerCountForTeam</tabTrigger>
-	<scope>source.lua</scope>
-<description></description>
-</snippet>

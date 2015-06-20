@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MODIFIER_EVENT_ON_BUILDING_KILLED]]></content>
-	<tabTrigger>MODIFIER_EVENT_ON_BUILDING_KILLED</tabTrigger>
-	<scope>source.lua</scope>
-<description>130</description>
-</snippet>

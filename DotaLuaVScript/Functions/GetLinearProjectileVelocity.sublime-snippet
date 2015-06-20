@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetLinearProjectileVelocity(${1:int int_1})]]></content>
-	<tabTrigger>GetLinearProjectileVelocity</tabTrigger>
-	<scope>source.lua</scope>
-<description>Returns a vector representing the current velocity of the projectile.</description>
-</snippet>

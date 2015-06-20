@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PrecacheUnitByNameAsync(${1:string string_1}, ${2:handle handle_2})]]></content>
-	<tabTrigger>PrecacheUnitByNameAsync</tabTrigger>
-	<scope>source.lua</scope>
-<description>Asynchronously precaches a DOTA unit by its dota_npc_units.txt name, provides a callback when it's finished.</description>
-</snippet>

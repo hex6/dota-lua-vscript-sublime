@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CreateItemOnPositionForLaunch(${1:Vector Vector_1}, ${2:handle handle_2})]]></content>
-	<tabTrigger>CreateItemOnPositionForLaunch</tabTrigger>
-	<scope>source.lua</scope>
-<description>Create a physical item at a given location, can start in air (but doesn't clear a space)</description>
-</snippet>

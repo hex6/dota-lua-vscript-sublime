@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MODIFIER_ATTRIBUTE_IGNORE_INVULNERABLE]]></content>
-	<tabTrigger>MODIFIER_ATTRIBUTE_IGNORE_INVULNERABLE</tabTrigger>
-	<scope>source.lua</scope>
-<description>4</description>
-</snippet>

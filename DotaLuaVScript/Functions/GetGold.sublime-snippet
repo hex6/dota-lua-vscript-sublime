@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetGold()]]></content>
-	<tabTrigger>GetGold</tabTrigger>
-	<scope>source.lua</scope>
-<description>Returns gold amount for the player owning this hero</description>
-</snippet>

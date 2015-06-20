@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DOTA_MUSIC_STATUS_NONE]]></content>
-	<tabTrigger>DOTA_MUSIC_STATUS_NONE</tabTrigger>
-	<scope>source.lua</scope>
-<description>0</description>
-</snippet>

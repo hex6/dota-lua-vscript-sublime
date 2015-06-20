@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MODIFIER_EVENT_ON_ATTACK_FAIL]]></content>
-	<tabTrigger>MODIFIER_EVENT_ON_ATTACK_FAIL</tabTrigger>
-	<scope>source.lua</scope>
-<description>103</description>
-</snippet>

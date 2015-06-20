@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[RemoveEffects(${1:int nFlags})]]></content>
-	<tabTrigger>RemoveEffects</tabTrigger>
-	<scope>source.lua</scope>
-<description>RemoveEffects( int ): Removes the render effect flag.</description>
-</snippet>

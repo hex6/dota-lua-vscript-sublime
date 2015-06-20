@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EnableCustomGameSetupAutoLaunch(${1:bool bool_1})]]></content>
-	<tabTrigger>EnableCustomGameSetupAutoLaunch</tabTrigger>
-	<scope>source.lua</scope>
-<description>Enabled (true) or disable (false) auto launch for custom game setup.</description>
-</snippet>

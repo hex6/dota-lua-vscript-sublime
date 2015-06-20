@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EnableTowerAggroViz(${1:bool bool_1})]]></content>
-	<tabTrigger>EnableTowerAggroViz</tabTrigger>
-	<scope>source.lua</scope>
-<description>Alert the player when a tower becomes agro to their hero.</description>
-</snippet>

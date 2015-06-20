@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LaunchLoot(${1:bool useOnContact}, ${2:float height}, ${3:float speed}, ${4:Vector destination})]]></content>
-	<tabTrigger>LaunchLoot</tabTrigger>
-	<scope>source.lua</scope>
-<description>For items lying on the ground. Fires the item up into the air so that it lands at the specified position.</description>
-</snippet>

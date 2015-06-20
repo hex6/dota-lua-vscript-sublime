@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetAttackCapability()]]></content>
-	<tabTrigger>GetAttackCapability</tabTrigger>
-	<scope>source.lua</scope>
-<description>Gets the Attack Capabilities of the unit</description>
-</snippet>

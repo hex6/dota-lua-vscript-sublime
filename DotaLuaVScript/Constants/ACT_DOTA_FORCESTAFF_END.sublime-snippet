@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ACT_DOTA_FORCESTAFF_END]]></content>
-	<tabTrigger>ACT_DOTA_FORCESTAFF_END</tabTrigger>
-	<scope>source.lua</scope>
-<description>1602</description>
-</snippet>

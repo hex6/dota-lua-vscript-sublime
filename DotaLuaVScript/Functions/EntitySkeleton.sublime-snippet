@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EntitySkeleton(${1:ehandle ehandle_1}, ${2:float float_2})]]></content>
-	<tabTrigger>EntitySkeleton</tabTrigger>
-	<scope>source.lua</scope>
-<description>Draws the skeleton of the entity</description>
-</snippet>

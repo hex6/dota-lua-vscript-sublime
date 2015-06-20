@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PrecacheEntityListFromTable(${1:handle handle_1}, ${2:handle handle_2})]]></content>
-	<tabTrigger>PrecacheEntityListFromTable</tabTrigger>
-	<scope>source.lua</scope>
-<description>Precache a list of entity KeyValues table's</description>
-</snippet>

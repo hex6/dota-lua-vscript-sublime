@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ACT_DOTA_FATAL_BONDS]]></content>
-	<tabTrigger>ACT_DOTA_FATAL_BONDS</tabTrigger>
-	<scope>source.lua</scope>
-<description>1675</description>
-</snippet>

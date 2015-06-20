@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DOTA_INVENTORY_ALL_ACCESS]]></content>
-	<tabTrigger>DOTA_INVENTORY_ALL_ACCESS</tabTrigger>
-	<scope>source.lua</scope>
-<description>3</description>
-</snippet>

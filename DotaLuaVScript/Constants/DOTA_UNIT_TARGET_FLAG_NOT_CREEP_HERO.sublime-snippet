@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DOTA_UNIT_TARGET_FLAG_NOT_CREEP_HERO]]></content>
-	<tabTrigger>DOTA_UNIT_TARGET_FLAG_NOT_CREEP_HERO</tabTrigger>
-	<scope>source.lua</scope>
-<description>131072</description>
-</snippet>

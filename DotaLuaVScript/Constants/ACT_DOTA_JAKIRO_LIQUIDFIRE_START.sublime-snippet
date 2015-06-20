@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ACT_DOTA_JAKIRO_LIQUIDFIRE_START]]></content>
-	<tabTrigger>ACT_DOTA_JAKIRO_LIQUIDFIRE_START</tabTrigger>
-	<scope>source.lua</scope>
-<description>1574</description>
-</snippet>

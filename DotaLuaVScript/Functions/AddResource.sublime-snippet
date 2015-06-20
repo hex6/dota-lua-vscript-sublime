@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AddResource(${1:string string_1})]]></content>
-	<tabTrigger>AddResource</tabTrigger>
-	<scope>source.lua</scope>
-<description>Precaches a specific resource</description>
-</snippet>

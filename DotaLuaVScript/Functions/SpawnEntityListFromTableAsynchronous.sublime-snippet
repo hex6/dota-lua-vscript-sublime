@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SpawnEntityListFromTableAsynchronous(${1:handle handle_1}, ${2:handle handle_2})]]></content>
-	<tabTrigger>SpawnEntityListFromTableAsynchronous</tabTrigger>
-	<scope>source.lua</scope>
-<description>Asynchronously spawn an entity group from a list of spawn table's. A callback will be triggered when the spawning is complete</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[OnUnStolen()]]></content>
-	<tabTrigger>OnUnStolen</tabTrigger>
-	<scope>source.lua</scope>
-<description>Special behavior when lost by Spell Steal.</description>
-</snippet>

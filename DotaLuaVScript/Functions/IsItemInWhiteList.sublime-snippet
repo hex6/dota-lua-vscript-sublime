@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IsItemInWhiteList(${1:string string_1})]]></content>
-	<tabTrigger>IsItemInWhiteList</tabTrigger>
-	<scope>source.lua</scope>
-<description>Is this item currently in the white list.</description>
-</snippet>

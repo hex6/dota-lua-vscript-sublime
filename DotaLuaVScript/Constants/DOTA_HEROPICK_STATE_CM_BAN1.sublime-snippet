@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DOTA_HEROPICK_STATE_CM_BAN1]]></content>
-	<tabTrigger>DOTA_HEROPICK_STATE_CM_BAN1</tabTrigger>
-	<scope>source.lua</scope>
-<description>7</description>
-</snippet>
