@@ -18,7 +18,7 @@ By far the easiest way to install the package, as well as automatically keeping 
 
 4. Done!
 
-If you don't have Package control, you can get it [here](https://packagecontrol.io/installation).
+If you don't have Package Control, you can get it [here](https://packagecontrol.io/installation).
 ####Manual
 
 Extract the *DotaLuaVScript* folder into your Packages folder:
